@@ -12,7 +12,7 @@ CTDO and Bottle Data Acquisition
 --------------------------------
 
 The CTD data acquisition system consisted of an SBE-11+ (V2) deck unit and a networked generic PC workstation running Windows 10.
-SBE SeaSave7 v.7.26.7.107 software was used for data acquisition and to close bottles on the rosette.
+SBE SeaSave7 v.7.26.7.121 software was used for data acquisition and to close bottles on the rosette.
 
 CTD deployments were initiated by the console watch operators (CWO) after the ship had stopped on station.
 The watch maintained a CTD cast log for each attempted cast containing a description of each deployment event and any problems encountered.
@@ -24,9 +24,9 @@ The winch was then instructed to lower the package to the initial target wire-ou
 
 The CWO monitored the progress of the deployment and quality of the CTD data through interactive graphics and operational displays.
 The altimeter channel, CTD pressure, wire-out and center multi-beam depth were all monitored to determine the distance of the package from the bottom.
-The winch was directed to slow decent rate to 30 m/min 100-60 m from the bottom, and 20 m/min 30 m from the bottom.
+The winch was directed to slow decent rate to 30 m/min 100 m from the bottom, and 20 m/min 50 m from the bottom.
 The bottom of the CTD cast was usually to within 10-20 meters of the bottom determined by altimeter data.
-For each full upcast, the winch operator was directed to stop the winch at up to 36 predetermined sampling pressures. During upcasts specific to bio sampling, the winch operator was directed to stop at 8 predetermined sampling pressures.
+For each full upcast, the winch operator was directed to stop the winch at up to 36 predetermined sampling pressures. During upcasts specific to bio sampling, the winch operator was directed to stop at up to 21 predetermined sampling pressures.
 These standard depths were staggered every station using 3 sampling schemes.
 The CTD CWO waited 30 seconds prior to tripping sample bottles, to ensure package had shed its wake.
 An additional 15 seconds elapsed before moving to the next consecutive trip depth, which allowed for the SBE35RT to record bottle trip temperature averaged from 13 samples.
@@ -36,7 +36,7 @@ Once the rosette was out of the water and on deck, the CWO terminated the data a
 
 Additionally, the watch created a sample log for the deployment which recorded the depths bottles were tripped and correspondence between rosette bottles and analytical samples drawn.
 
-Normally the CTD sensors were rinsed after each station using syringes of fresh water connected to Tygon tubing.
+The CTD sensors were rinsed after every cast using syringes of fresh water connected to Tygon tubing.
 The tubing was left on the CTD between casts, with the temperature and conductivity sensors immersed in fresh water.
 
 Each bottle on the rosette had a unique serial number, independent of the bottle position on the rosette.
@@ -47,7 +47,7 @@ Any abnormalities were noted on the sample log, stored in the cruise database an
 CTDO Data Processing
 --------------------
 
-Shipboard CTD data processing was performed after deployment using SIO/ODF CTD processing software "ctdcal" v. 0.1.
+Shipboard CTD data processing was performed after deployment using SIO/ODF CTD processing software "ctdcal" v. 0.1.3b.
 CTD acquisition data were copied onto a OS X system, and then processed.
 CTD data at bottle trips were extracted, and a 2-decibar downcast pressure series created.
 The pressure series data set was submitted for CTD data distribution after corrections outlined in the following sections were applied.
@@ -119,16 +119,16 @@ Fit coefficients are shown in the following tables.
 .. csv-table:: Primary temperature (T1) coefficients.
   :header: Station,:math:`cp_2`, :math:`cp_1`, :math:`ct_2`, :math:`ct_1`, :math:`c_0`
 
-  901-29,9.127e-11,-7.1661e-7,0.0,0.0,4.7065e-4
-  30-72,8.4036e-11,-8.6330e-7,0.0,0.0,1.1989e-3
-  73-90,-4.6532e-11,1.2251e-7,0.0,0.0,-8.1808e-4
+  1-8,9.127e-11,-7.1661e-7,0.0,0.0,4.7065e-4
+  9-40,8.4036e-11,-8.6330e-7,0.0,0.0,1.1989e-3
+  41-|LAST_STA|,-4.6532e-11,1.2251e-7,0.0,0.0,-8.1808e-4
 
 .. csv-table:: Secondary temperature (T2) coefficients.
   :header: Station,:math:`cp_2`, :math:`cp_1`, :math:`ct_2`, :math:`ct_1`, :math:`c_0`
 
-  901-29,0.0,-2.1424e-7,0.0,0.0,-1.4331e-4
-  30-72,0.0,-8.1227e-8,0.0,0.0,-6.3841e-4
-  73-90,0.0,-1.3354e-7,0.0,0.0,-7.2422e-4
+  1-8,0.0,-2.1424e-7,0.0,0.0,-1.4331e-4
+  9-41,0.0,-8.1227e-8,0.0,0.0,-6.3841e-4
+  42-|LAST_STA|,0.0,-1.3354e-7,0.0,0.0,-7.2422e-4
 
 Corrected temperature differences are shown in the following figures.
 
@@ -180,8 +180,13 @@ Corrected temperature differences are shown in the following figures.
 The 95% confidence limits for the mean low-gradient (values -0.002 °C :math:`\leq` T1-T2 :math:`\leq` 0.002 °C) differences are ±0.00391 °C for SBE35RT-T1, ±0.00387 °C for SBE35RT-T2 and ±0.00157 °C for T1-T2.
 The 95% confidence limits for the deep temperature residuals (where pressure :math:`\geq` 2000 dbar) are ±0.00087 °C for SBE35RT-T1, ±0.00099 °C for SBE35RT-T2 and ±0.00087 °C for T1-T2.
 
-Minor complications impacted the temperature sensor data used for the |CRS| cruise.
-  * Near-surface temperature gradients in the southern end of the survey were extremely sharp, occasionally causing SBE35RT readings to be questionable.
+Problems arose during the |CRS| cruise, prompting the SBE3 sensors to be exchanged.
+  * While deploying during station 9, cables to the deck box were loose. This was misdiagnosed as a sensor problem and was deployed without a secondary sensor on cast 4.
+  * Differences in primary and secondary SBE3 were abnormally large during the pre-cast soak following station 32 and the sensors were exchanged during stations 40 and 41 to troubleshoot.
+
+Minor complications impacted the reference temperature sensor data.
+  * Internal memory overflowed following station 9 and data was not captured during stations 10 and 11.
+  * During casts designated for bio, many bottles were fired at the surface and sometimes were too fast (< 15 seconds) for a reading.
 
 The resulting affected sections of data have been coded and documented in the quality code APPENDIX.
 
@@ -199,7 +204,7 @@ At each bottle closure, the primary and secondary conductivity were compared wit
 Each sensor was also compared to conductivity calculated from check sample salinities using CTD pressure and temperature.
 
 The differences between primary and secondary temperature sensors were used as filtering criteria to reduce the contamination of conductivity comparisons by package wake.
-The coherence of this relationship is shown in the following figure.
+The coherence of this relationship is shown in the following figures.
 
 .. 
   figure:: images/ctd_hydro_data_acq/c_t_coherence.*
@@ -265,16 +270,12 @@ Fit coefficients are shown in the following tables.
 .. csv-table:: Primary conductivity (C1) coefficients.
   :header: Station, :math:`cp_2`, :math:`cp_1`, :math:`ct_2`, :math:`ct_1`, :math:`cc_2`, :math:`cc_1`, :math:`c_0`
 
-  901-29,2.2312e-10,-1.7838e-6,0.0,-3.7387e-4,0.0,0.0,1.4153e-3
-  30-73,2.9375e-10,-2.7234e-6,0.0,-5.1639e-4,0.0,0.0,3.1780e-3
-  74-90,3.0952e-11,-7.2679e-7,0.0,-2.3689e-4,0.0,0.0,-1.1248e-3
+  |FIRST_STA|-|LAST_STA|,2.2312e-10,-1.7838e-6,0.0,-3.7387e-4,0.0,0.0,1.4153e-3
 
 .. csv-table:: Secondary conductivity (C2) coefficients.
   :header: Station, :math:`cp_2`, :math:`cp_1`, :math:`ct_2`, :math:`ct_1`, :math:`cc_2`, :math:`cc_1`, :math:`c_0`
 
-  901-29,1.6912e-10,-1.3829e-6,0.0,0.0,0.0,-3.2935e-4,1.3273e-2
-  30-73,1.7407e-10,-1.6959e-6,0.0,0.0,0.0,-5.1483e-4,2.0042e-2
-  74-90,5.4163e-11,-9.0604e-7,0.0,0.0,0.0,-2.0301e-4,8.8063e-3
+  |FIRST_STA|-|LAST_STA|,1.6912e-10,-1.3829e-6,0.0,0.0,0.0,-3.2935e-4,1.3273e-2
 
 Salinity residuals after applying shipboard P/T/C corrections are summarized in the following figures.
 Only CTD and bottle salinity data with "acceptable" quality codes are included in the differences.
@@ -345,7 +346,7 @@ If the fit of the individual cast had worse resdiuals than the group, they were 
   ======= ============ ============= ======================= ============= ============
   Station S\ :sub:`oc` V\ :sub:`off` :math:`\tau`\ :sub:`20` T\ :sub:`cor` E
   ======= ============ ============= ======================= ============= ============
-  901-90  4.7574e-1    -5.0079e-1    1.56                    -3.1680e-4    3.754e-2
+  |FIRST_STA|-|LAST_STA|  4.7574e-1    -5.0079e-1    1.56                    -3.1680e-4    3.754e-2
   ======= ============ ============= ======================= ============= ============
 
 CTD dissolved |O2| residuals are shown in the following figures :ref:`Oxy-lograd` through :ref:`Oxy-deep`.
@@ -372,8 +373,8 @@ CTD dissolved |O2| residuals are shown in the following figures :ref:`Oxy-lograd
 The 95% confidence limits of 1.71 (µmol/kg) for all acceptable (flag 2) dissolved oxygen bottle data values and 1.52 (µmol/kg) for deep dissolved oxygen values are only presented as general indicators of the goodness of fit.
 CLIVAR GO-SHIP standards for CTD dissolved oxygen data are < 1% accuracy against on board Winkler titrated dissolved |O2| lab measurements.
 
-Minimal issues arose with the acquisition and processing of CTD dissolved oxygen data.
-  * Fitting routines were not behaving well for certain stations. SBE43 data are not reported but will be further investigated on land.
+Issues arose with the acquisition and processing of CTD dissolved oxygen data.
+  * SBE43 data appeared noisy at depths exceeding 800 m following a biofouling event during station 32. Sensors were replaced at stations 32 and 94 in an attempt to alleviate the noise, which gradually dissapated by station 101.
 
 
 CTD Dissolved Oxygen (RINKO)
@@ -390,7 +391,7 @@ Rinko temperature (factory coefficients) was used for pre-cruise calibration.
 Generally, the Rinko III sensor appears to have performed as expected with no major problems or sharp drift throughout the deployment.
 An SBE 43 dissolved oxygen sensor was deployed simultaneously.
 Both oxygen sensor data sets were analyzed and quality controlled with Winkler bottle oxygen data.
-RinkoIII data used as primary oxygen for all stations (1-90).
+RinkoIII data used as primary oxygen for all stations (|FIRST_STA|-|LAST_STA|), excluding stations 10-12 when the RINKO cable needed to be changed.
 
 RINKO data was acquired, converted from volts to oxygen saturation, and then multipled by the oxygen solubility to find values in µmol/kg.
 The resulting data were then fitted using the equations developed by [Uchida08]_:
@@ -427,7 +428,7 @@ where:
 - T\ :sub:`S` is scaled temperature (T\ :sub:`S` = ln[(298.15 – T)/(273.15 + T)])
 - B\ :sub:`0`, B\ :sub:`1`, B\ :sub:`2`, B\ :sub:`3`, C\ :sub:`0` are solubility coefficients
 
-All stations were fit together to get an initial coefficient estimate.
+All stations excluding 10-12 were fit together to get an initial coefficient estimate.
 Stations were then fit in groups of similar profiles to get a further refined estimate.
 Individual casts were then fit to remove the noticeable time drift in coefficients
 If the fit of the individual cast had worse resdiuals than the group, they were reverted to the original group fit coefficients.
@@ -435,9 +436,9 @@ If the fit of the individual cast had worse resdiuals than the group, they were 
 .. csv-table:: Rinko group fit coefficients. Coefficients were further refined station-by-station.
   :header: Station, :math:`c_0`, :math:`c_1`, :math:`c_2`, :math:`d_0`, :math:`d_1`, :math:`d_2`, :math:`c_p`
 
-  901-29,1.8834,2.7106e-2,7.5022e-4,5.1571e-4,-1.9373e-1,3.0792e-1,8.7822e-2
-  30-72,1.8612,2.9074e-2,9.2059e-4,2.4233e-3,-1.9987e-1,3.1466e-1,9.7739e-2
-  73-90,1.8783,4.8992e-2,2.2758e-4,2.9361e-3,-1.8483e-1,2.9822e-1,6.7778e-2
+  1-9,1.8834,2.7106e-2,7.5022e-4,5.1571e-4,-1.9373e-1,3.0792e-1,8.7822e-2
+  10-12,1.8612,2.9074e-2,9.2059e-4,2.4233e-3,-1.9987e-1,3.1466e-1,9.7739e-2
+  13-|LAST_STA|,1.8783,4.8992e-2,2.2758e-4,2.9361e-3,-1.8483e-1,2.9822e-1,6.7778e-2
 
 CTD dissolved |O2| residuals are shown in the following figures.
 
@@ -459,7 +460,9 @@ CTD dissolved |O2| residuals are shown in the following figures.
 The 95% confidence limits of 1.27 (µmol/kg) for all acceptable (flag 2) dissolved oxygen bottle data values and 0.58 (µmol/kg) for deep dissolved oxygen values are only presented as general indicators of the goodness of fit.
 CLIVAR GO-SHIP standards for CTD dissolved oxygen data are < 1% accuracy against on board Winkler titrated dissolved |O2| lab measurements.
 
-No issues arose with the acquisition and processing of CTD dissolved oxygen data.
+Issues arose with the RINKO between stations 10-12.
+* During 10, the RINKO upcast and downcast displayed abnormal voltages, prompting us to exchange sensor serial 0296 for 0251.
+* During 11-12, the RINKO voltage routinely spiked to 0. This was resolved by exchanging the RINKO cable connecting it to the CTD.
 
 .. [Mill82] Millard, R. C., Jr., “CTD calibration and data processing techniques at WHOI using the practical
    salinity scale,” Proc. Int. STD Conference and Workshop, p. 19, Mar. Tech. Soc., La Jolla, Ca.
