@@ -1,0 +1,45 @@
+.. P06W documentation master file, created by
+   sphinx-quickstart on Wed Aug 09 16:00:00 2017.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Cruise Report for the 2022 Reoccupation of P02W
+===============================================
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Table of Contents
+
+..
+   These are the "expected sections"
+
+   intro
+   cruise_narrative
+   rosette
+   ctd_hydro_data_acq
+   bottle_salt
+   bottle_nuts
+   bottle_oxygen
+   bottle_alk
+   bottle_dic
+   bottle_ph
+   bottle_cfc
+   bottle_doc
+   bio_goship
+   ladcp
+   uw_pCO2
+   floats
+   chipod
+   uvp
+   students
+
+.. only:: html
+
+  .. toctree::
+    :maxdepth: 2
+    :caption: Appendicies
+
+    abbreviations
+    bottle_comments
+    calibration_doc
