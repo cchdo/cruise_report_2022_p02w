@@ -1,27 +1,27 @@
 Duty,Name,Affiliation,Email Address
 Chief Scientist,Alison Macdonald,:term:`WHOI`,amacdonald@whoi.edu
 Co-Chief Scientist,Shuwen Tan,:term:`LDEO`,shuwent@ldeo.columbia.edu
-CTD Watchstander,Vic Dina,UNKNOWN,victoriad475@gmail.com
+CTD Watchstander,Vic Dina,:term:`RSMAS`,victoria.dina@rsmas.miami.edu
 CTD Watchstander,Lauren Moseley,:term:`LDEO`,laurenm@ldeo.columbia.edu
 CTD Watchstander,Mariana Aguirre Nunes,:term:`FSU`,ma20gn@fsu.edu
 CTD Watchstander,Sophie Shapiro,:term:`UCSD`,soshapiro@ucsd.edu
-"Nutrients, :term:`ODF` supervisor",Susan Becker,:term:`UCSD`,sbecker@ucsd.edu
-Nutrients,Megan Roadman,:term:`UCSD`,mroadman@ucsd.edu
-CTDO Processing,Aaron Mau,:term:`UCSD`,ajmau@ucsd.edu
+"Nutrients, :term:`ODF` supervisor",Susan Becker,:term:`UCSD` :term:`ODF`,sbecker@ucsd.edu
+Nutrients,Megan Roadman,:term:`UCSD` :term:`ODF`,mroadman@ucsd.edu
+CTDO Processing,Aaron Mau,:term:`UCSD` :term:`ODF`,ajmau@ucsd.edu
 "Salts, ET, CTD/Rosette Maintenance",John Calderwood,:term:`UCSD` :term:`SEG`,jcalderwood@ucsd.edu
 "Salts, Marine Technician",Royhon Agostine,:term:`UCSD`,ragostine@ucsd.edu
 Marine Technician,Josh Manger,:term:`UCSD`,jmanger@ucsd.edu
-SEG,Nicholas Benz,:term:`UCSD`,nbenz@ucsd.edu
+CR Technician,Nicholas Benz,:term:`UCSD`,nbenz@ucsd.edu
 "Dissolved |O2|, Database Management",Andrew Barna,:term:`UCSD` :term:`ODF`,abarna@ucsd.edu
-Dissolved |O2|,Elisa Aitoro,:term:`UCSD`,eaitoro@ucsd.edu
+Dissolved |O2|,Elisa Aitoro,:term:`UCSD` :term:`ODF`,eaitoro@ucsd.edu
 LADCP,Kurtis Anstey,:term:`UVic`,kurtis.anstey@live.ca
-something bio,Adam Fagan,:term:`UCI`,afagan@uci.edu
-something bio,Star Dressler,:term:`UOG`,dresslerc@gotritons.uog.edu
+Bio/Genomics,Adam Fagan,:term:`UCI`,afagan@uci.edu
+Bio/Imaging,Star Dressler,:term:`UOG`,dresslerc@gotritons.uog.edu
 :term:`UVP`,Stephane O'Daly,:term:`UAF`,shodaly2@alaska.edu
 Total Alkalinity,Sara Gray,:term:`UCSD`,s5gray@ucsd.edu
 Total Alkalinity,Daniela Nestory,:term:`UCSD`,dnestory@ucsd.edu
 pH,Brison Grey,:term:`U Miami`,bjg136@miami.edu
-pH,Albert Ortiz,:term:`U Miami`,albert.ortiz@rsmas.miami.edu
+pH,Albert Ortiz,:term:`RSMAS`,albert.ortiz@rsmas.miami.edu
 :term:`DIC`,Dana Greeley,:term:`NOAA`,djgreel1@gmail.com
 :term:`DIC`,Julian Herndon,:term:`NOAA`,julian.herndon@noaa.gov
 :term:`CFCs`,David Cooper,:term:`TAMU`,davidcooper59@gmail.com
