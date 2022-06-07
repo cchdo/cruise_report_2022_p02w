@@ -117,7 +117,315 @@ Additional integrity checks on the rosette, such as checking lanyard angles, o-r
 We are using a new mounting system for the downward looking LADCP which has the LADCP clamped facing inward instead of outward, which will cause problems if we need to change that LADCP in rough weather.
 
 
-April 21, 2021
+May 2, 2022
+
+00101 - Test station to 20 m. Fired 36 bottles.
+
+00102 - Test station to 1504 m. UVP turned on and voltage spikes were confirmed as real.
+
+00201 - Float deployed. CTD cast abandoned to save time.
+
+00301 - Shallow 160 m cast with only 10 bottles to fire. Up-facing chipods were loose. Tightened hose clamps.
+
+00401 - Bottle #2 o-ring broke on top vent upon recovery. Replaced.
+
+00501 - No issues noted.
+
+00601
+
+00701
+
+00801 - Primary temperature static to unrealistic value around 3150 m during upcast. Swapped T1 with T2 and replaced bad sensor. Spigot pins on bottles 6, 8 were bent and were straightened on recovery.
+
+00901 - Alarms went off in computer lab approximately 5 minutes into 20 m soak. Deck box reading 1110, rather than normal 0110/0111. Recovered CTD and checked external wiring.
+
+00902 - Alarms went off prior to contact with the surface. Reterminated end of cable upon recovery.
+
+00903 - Alarms went off before reaching 20 m soak depth. Replaced sea cable upon recovery. Covered new T2 sensor with dummy plug.
+
+00904 - Restech checked deckbox connections in computer lab and confirmed they were loose. Deployed with dummy on T2 to soak depth with no alarms and continued to approx. 4200 m. Connected T2 upon recovery and tested on deck.
+
+01001 - Abnormal behavior on RINKO serial 0296, upcast and downcast do not match each other or the SBE43. SBE35 hit cap on internal storage and reference temperatures were not recorded. Replaced RINKO 0296 with S/N 0251 following recovery.
+
+May 7, 2022
+
+01101 - UVP battery exploded. Cable changed out and other damaged materials replaced. SBE35 hit cap on in ternal storage and references temperatures were not recorded.
+
+01201 - RINKO 0251 spiking to 0 V during both down and upcasts. Replaced RINKO cable upon recovery. Data logging accidently ended pematurely during recovery. Turned back on for on-deck pressure.
+
+01301 - No issues noted, new RINKO cable solved spiking behavior.
+
+01401 - No issues noted.
+
+01501 - No issues noted.
+
+01601 - 
+
+01701 - "Fire bottle" button pressed 37 times in SeaSave, final button press at the surface.
+
+01801 - No issues noted.
+
+01901 - Paused approximately 100 m from seafloor waiting for restech assistance.
+
+02001 - No issues noted.
+
+02101 - 
+
+02201 - No issues noted.
+
+02301 - Bio cast. No issues noted.
+
+02302 - No issues noted.
+
+02401 - No issues noted.
+
+02501 - No issues noted.
+
+02601 - Bio cast. No issues noted.
+
+02602 - UVP voltage was static or unresponsive beyond ~1500 m. 
+
+02701 - Restechs observed significant spinning during recoveries and wrapped ~10 m of cable within the inside of the rosette to reduce spinning.
+
+02801 - Replaced o-ring on bottle 10 valve and used hose clamps to secure slack cable to inside of rosette and away from lanyards.
+
+02901 - Bio cast. Observed top caps of bottles 16 and 34 catching on lanyards of bottles 17 and 35, respectively. Lowered 16, 34, and raised 35.
+
+02902 - UVP voltage static or unresponsive below ~1700 m. Confirmed to be a battery problem associated with insufficient charge following bio casts. Bottle 16 was too low and caught on rosette frame. Raised bottle 16.
+
+03001 - UVP operational as normal.
+
+03101 - Raised bottle 17 to reduce chance of catching on bottle 16.
+
+03201 - Bio cast. Bio fouling event and recovered to clean off sensors.
+
+03202 - Bio cast. Primary and secondary CTD lines had noisy offsets during soak period.
+
+03203 - Primary and secondary CTD lines had noisy offsets during soak period. Noticed significant noise and changes in SBE43 baseline during upcast. Changed SBE43 sensor out when recovered. Reterminated winch cable due to kink during recovery.
+
+03301 - Primary and secondary CTD offsets improving. New SBE43 still noisy, but no changes in baseline.
+
+03401 - 
+
+03501 - Bio cast.
+
+03502 - 
+
+03601 - 
+
+03701 - Adjusted guide rings on bottles 2, 31.
+
+03801 - Bio cast.
+
+03802 - 
+
+03901 - 
+
+04001 - Primary and secondary offsets significantly noisy and spiky. Recovered CTD and tested pumps. Replaced secondary temperature sensor.
+
+04002 - Primary and secondary offsets still noisy. Recovered CTD, tested pumps, and replaced primary temperature sensor.
+
+04003 - Offsets still noisy at soak depth. Deployed regardless and noise dissapated by 150 m depth. Noise may have been related to ship heave and pycnocline depth.
+
+04101 - Bio cast. Noisy soak.
+
+04102 - Noisy soak. Replaced primary pump to attempt to remedy soak noise.
+
+04201 - Chipod 14-32 (top) had popped loose and flooded. Replaced with 14-36. Replaced secondary pump to attempt to remedy soak noise. Bottom spring to cap connection broke. Crimped new line and reattached cap prior to 04301.
+
+04301 - 
+
+04401 - Bio cast.
+
+04402 - 
+
+04501 - Bottle 19 suspected of mistrip.
+
+04601 - 
+
+04701 - Bio cast.
+
+04702 - 
+
+04801 - Bottle 19 confirmed to be mistripping on 04501 and 04801. Raised bottle 19 for better lanyard angle with carousel.
+
+04901 - Bottel 19 fired.
+
+05001 - Bio cast. Soak is still noisy. Replaced primary pump.
+
+05002 - Soak is still noisy. Replaced secondary pump.
+
+05101 - 
+
+05201 - 
+
+05301 - Bio cast.
+
+05302 - 
+
+05401 - Bottle 19 came up empty. Changed out carousel latch. Raised bottle 19 to highest position possible.
+
+05501 - 
+
+05601 - Bio cast. Changed pump Y cable to improve temperature and conductivity offsets.
+
+05602 - No change in soak noise.
+
+05701 - 
+
+05801 - 
+
+05901 - Bio cast.
+
+05902 - 
+
+06001 - 
+
+06101 - 
+
+06201 - Bio cast.
+
+06202 - 
+
+06301 - 
+
+06401 - 
+
+06501 - Bio cast.
+
+06502 - 
+
+06601 - 
+
+06701 - 
+
+06801 - Bio cast.
+
+06802 - 
+
+06901 - 
+
+07001 - 
+
+07101 - Bio cast.
+
+07102 - 
+
+07201 - 
+
+07301 - 
+
+07401 - Bio cast.
+
+07402 - 
+
+07501 - 
+
+07601 - 
+
+07701 - Bio cast.
+
+07702 - 
+
+07801 - 
+
+07901 - 
+
+08001 - Bio cast.
+
+08002 - 
+
+08101 - 
+
+08201 - 
+
+08301 - Bio cast.
+
+08302 - 
+
+08401 - 
+
+08501 - 
+
+08601 - Bio cast.
+
+08602 - 
+
+08701 - 
+
+08801 - 
+
+08901 - Bio cast.
+
+08902 - 
+
+09001 - 
+
+09101 - 
+
+09201 - Bio cast.
+
+09202 - 
+
+09301 - 
+
+09401 - 
+
+09501 - Bio cast.
+
+09502 - 
+
+09601 - 
+
+09701 - 
+
+09801 - Bio cast.
+
+09802 - 
+
+09901 - 
+
+10001 - 
+
+10101 - Bio cast.
+
+10102 - 
+
+10201 - 
+
+10301 - 
+
+10401 - Bio cast.
+
+10402 - 
+
+10501 - 
+
+10601 - 
+
+10701 - Bio cast.
+
+10702 - 
+
+10801 - 
+
+10901 - 
+
+11001 - Bio cast.
+
+11002 - 
+
+11101 - 
+
+11201 - 
+
+11301 - 
+
+11401 - 
+
+11501 - 
+
+
 
 90001 – First test cast aborted around 350 m. Tube connecting the primary and secondary pumps (attached in port to prevent fouling of the plumbing lines) was not removed prior to start of cast, identified initially in data by large differences in primary/secondary T/C lines.
 
