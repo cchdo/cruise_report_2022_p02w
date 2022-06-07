@@ -340,25 +340,28 @@ Stations were then fit individually to refine the coefficients as the membrane d
 If the fit of the individual cast had worse resdiuals than the group, they were reverted to the original group fit coefficients.
 
 .. csv-table doesn't work with these directives for some reason?
-
+..
 .. table:: SBE43 group fit coefficients. Coefficients were further refined station-by-station.
-
+..
   ======= ============ ============= ======================= ============= ============
   Station S\ :sub:`oc` V\ :sub:`off` :math:`\tau`\ :sub:`20` T\ :sub:`cor` E
   ======= ============ ============= ======================= ============= ============
   |FIRST_STA|-|LAST_STA|  4.7574e-1    -5.0079e-1    1.56                    -3.1680e-4    3.754e-2
   ======= ============ ============= ======================= ============= ============
 
+..
 CTD dissolved |O2| residuals are shown in the following figures :ref:`Oxy-lograd` through :ref:`Oxy-deep`.
 
-.. _Oxy-lograd:
+.. 
+_Oxy-lograd:
 
 .. 
   figure:: images/ctd_hydro_data_acq/oxy-43_vs_stn.*
 
   |O2| residuals versus station.
 
-.. _Oxy-deep:
+.. 
+_Oxy-deep:
 
 .. 
   figure:: images/ctd_hydro_data_acq/oxy-43_vs_stn_deep.*

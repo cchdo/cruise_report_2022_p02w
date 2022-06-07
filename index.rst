@@ -11,13 +11,15 @@ Cruise Report for the 2022 Reoccupation of P02W
    :maxdepth: 2
    :caption: Table of Contents
 
+   intro
+   cruise_narrative
    ctd_hydro_data_acq
    floats
 ..
    These are the "expected sections"
 
-   intro
-   cruise_narrative
+
+
    rosette
    bottle_salt
    bottle_nuts

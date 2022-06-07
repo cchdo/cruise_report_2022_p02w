@@ -24,9 +24,6 @@ Abbreviations
   BGC
     Biogeochemical
 
-  BIO
-    Bedford Institute of Oceanography
-
   Bigelow
     Bigelow Laboratory for Ocean Sciences
 
@@ -41,12 +38,6 @@ Abbreviations
 
   CTDO
     Conductivity Temperature Depth Oxygen
-
-  CU Boulder
-    University of Colorado Boulder
-
-  DFO-MPO
-    Fisheries and Oceans Canada, Pêches et Océans Canada
 
   DIC
     Dissolved Inorganic Carbon
@@ -74,9 +65,6 @@ Abbreviations
 
   HPU
     Hawaii Pacific University
-
-  JHU
-    Johns Hopkins University
 
   LDEO
     Lamont-Doherty Earth Observatory - Columbia University
@@ -147,15 +135,20 @@ Abbreviations
   TDN
     Total Dissolved Nitrogen
 
+  UArizona
+    University of Arizona
 
   UAF
     University of Alaska Fairbanks
 
-  UArizona
-    The University of Arizona.
+  U ALASKA
+    University of Alaska
 
   UCI
     University of California Irvine
+
+  U Colorado
+    University of Colorado
 
   UCLA
     University of California Los Angeles
@@ -184,6 +177,9 @@ Abbreviations
   UNSW
     University of New South Wales
 
+  UOG
+    University of Guam
+
   U Puerto Rico
     University of Puerto Rico
 
@@ -195,6 +191,9 @@ Abbreviations
 
   UT
     University of Texas
+
+  UVic
+    University of Victoria
 
   UVP
     Underwater Vision Profiler
