@@ -271,7 +271,7 @@ May 7, 2022
 
 05602 - No change in soak noise.
 
-05701 - 
+05701 - UVP suspected of slipping.
 
 05801 - 
 
@@ -303,7 +303,7 @@ May 7, 2022
 
 06802 - 
 
-06901 - 
+06901 - Bottle 16 came up empty. Lower cap caught on rosette frame. Raised bottle 16 to ensure better closure.
 
 07001 - 
 
@@ -319,7 +319,7 @@ May 7, 2022
 
 07402 - 
 
-07501 - 
+07501 - Lanyard of bottle 19 caught in top of bottle 20. Remade lanyard.
 
 07601 - 
 
@@ -343,7 +343,7 @@ May 7, 2022
 
 08302 - 
 
-08401 - 
+08401 - Complaints of tightness on bottle 10 spigot. Replaced spigot with no signs of problems in old o-rings.
 
 08501 - 
 
@@ -363,17 +363,17 @@ May 7, 2022
 
 09101 - 
 
-09201 - Bio cast.
+09201 - Bio cast. Dark cast.
 
 09202 - 
 
-09301 - 
+09301 - SBE43 noisy at depths exceeding 800 m. Changed SBE43 out when recovered.
 
-09401 - 
+09401 - Bottle 19 lanyard caught in top of bottle 20. Remade lanyard.
 
 09501 - Bio cast.
 
-09502 - 
+09502 - SBE43 noisy at depths exceeding 800 m. Changed SBE43 cable out when recovered.
 
 09601 - 
 
@@ -381,7 +381,7 @@ May 7, 2022
 
 09801 - Bio cast.
 
-09802 - 
+09802 - Bottle 16 came up warm, suggesting mistrip. Raised bottle 16 and 17 to ensure bottle 16 closed and did not get caught in lanyard of 17.
 
 09901 - 
 
@@ -403,13 +403,13 @@ May 7, 2022
 
 10601 - 
 
-10701 - Bio cast.
+10701 - Bio cast. Added additional hoseclamp to primary pump tubing.
 
 10702 - 
 
 10801 - 
 
-10901 - 
+10901 - Bottle 19 lanyard caught in top of bottle 20. Remade lanyard and adjusted rest of lanyard to ensure lanyard angled toward 18 when fired, rather than 20.
 
 11001 - Bio cast.
 
@@ -421,7 +421,7 @@ May 7, 2022
 
 11301 - 
 
-11401 - 
+11401 - Bottle 13 leaking. Changed o-ring.
 
 11501 - 
 
