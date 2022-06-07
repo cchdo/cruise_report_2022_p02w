@@ -1,13 +1,14 @@
 Program,Affiliation,Principal Investigator,Email
-":term:`CTDO` Data, Salinity, Nutrients, Dissolved |O2|",":term:`UCSD`, :term:`SIO`","Susan Becker, Jim Swift","sbecker@ucsd.edu, jswift@ucsd.edu"
-Total |CO2| (DIC),":term:`AOML`, :term:`PMEL`, :term:`NOAA`","Richard Feely, Rik Wanninkhof","richard.a.feely@noaa.gov, Rik.Wanninkhof@noaa.gov"
-"Underway Temperature, Salinity, and |pCO2|",":term:`PMEL`, :term:`NOAA`",Simone Alin,simone.r.alin@noaa.gov
-"Total Alkalinity, pH",":term:`SIO`, :term:`RSMAS`","Andrew Dickson, Frank Millero","adickson@ucsd.edu, fmillero@rsmas.miami.edu"
-Discrete p\ |CO2|,":term:`PMEL`, :term:`NOAA`","Rik Wanninkhof","Rik.Wanninkhof@noaa.gov"
+":term:`CTDO` Data, Salinity, Nutrients, Dissolved |O2|",":term:`UCSD`, :term:`SIO`",Susan Becker,sbecker@ucsd.edu
+":term:`CFCs`, :term:`SF6`, :term:`SF6`",:term:`UT`,Dong-Ha Min,dongha@austin.utexas.edu
+Total |CO2| (DIC),":term:`AOML`, :term:`PMEL`, :term:`NOAA`",Richard Feely,richard.a.feely@noaa.gov
+"Total Alkalinity, pH",:term:`SIO`,Andrew Dickson,adickson@ucsd.edu
+":term:`DOC`, :term:`TDN`",:term:`RSMAS`,Dennis Hansell,dhansell@rsmas.miami.edu
+Shipboard :term:`ADCP`, :term:`UH`, Julia Hummon,hummon@hawaii.edu
 :term:`LADCP`,:term:`LDEO`,Andreas Thurnherr,ant@ldeo.columbia.edu
-":term:`CFCs`, :term:`SF6`, :term:`N2O`",:term:`UW`,Mark Warner,warner@u.washington.edu
-":term:`DOC`, :term:`TDN`",:term:`UCSB`,Craig Carlson,craig_carlson@ucsb.edu
+Discrete p\ |CO2|,":term:`PMEL`, :term:`NOAA`",Simone Alin,simone.r.alin@noaa.gov
 C13 & C14,":term:`UW`, :term:`WHOI`","Rolf Sonnerup, Roberta Hansman","rolf@uw.edu, rhansman@whoi.edu"
+Transmissometer, ":term:`UCI`, :term:`TAMU`","Adam Martiny,Wilf Gardner","amartiny@uci.edu"
+":term:`POC`, :term:`HPLC`",:term:`UCSD`,Lynne Talley,ltalley@ucsd.edu
 Chipod,:term:`OSU`,Jonathan Nash,nash@coas.oregonstate.edu
-BGC Floats,":term:`MBARI`, :term:`UW`, :term:`Princeton`, :term:`SIO`, :term:`WHOI`","Kenneth Johnson, Steven Riser, Jorge Sarmiento, Lynne Talley, Susan Wijffels","johnson@mbari.org, riser@uw.edu, jls@princeton.edu, ltalley@ucsd.edu, swijffels@whoi.edu"
 :term:`UVP`,":term:`UAF`",Andrew McDonnell,amcdonnell@alaska.edu
