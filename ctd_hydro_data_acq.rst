@@ -339,9 +339,10 @@ All stations were fit together to get an initial coefficient estimate.
 Stations were then fit individually to refine the coefficients as the membrane does not deform the same way with each cast.
 If the fit of the individual cast had worse resdiuals than the group, they were reverted to the original group fit coefficients.
 
-.. csv-table doesn't work with these directives for some reason?
+.. 
+  csv-table doesn't work with these directives for some reason?
 ..
-.. table:: SBE43 group fit coefficients. Coefficients were further refined station-by-station.
+  table:: SBE43 group fit coefficients. Coefficients were further refined station-by-station.
 ..
   ======= ============ ============= ======================= ============= ============
   Station S\ :sub:`oc` V\ :sub:`off` :math:`\tau`\ :sub:`20` T\ :sub:`cor` E
@@ -350,27 +351,27 @@ If the fit of the individual cast had worse resdiuals than the group, they were 
   ======= ============ ============= ======================= ============= ============
 
 ..
-CTD dissolved |O2| residuals are shown in the following figures :ref:`Oxy-lograd` through :ref:`Oxy-deep`.
+    CTD dissolved |O2| residuals are shown in the following figures :ref:`Oxy-lograd` through :ref:`Oxy-deep`.
 
 .. 
-_Oxy-lograd:
+    _Oxy-lograd:
 
 .. 
   figure:: images/ctd_hydro_data_acq/oxy-43_vs_stn.*
-
+..
   |O2| residuals versus station.
 
 .. 
-_Oxy-deep:
+    _Oxy-deep:
 
 .. 
   figure:: images/ctd_hydro_data_acq/oxy-43_vs_stn_deep.*
-
+..
   Deep |O2| residuals versus station (Pressure >= 2000dbar).
 
 .. 
   figure:: images/ctd_hydro_data_acq/oxy-43_vs_p.*
-
+..
   |O2| residuals versus pressure.
 
 The 95% confidence limits of 1.71 (µmol/kg) for all acceptable (flag 2) dissolved oxygen bottle data values and 1.52 (µmol/kg) for deep dissolved oxygen values are only presented as general indicators of the goodness of fit.
