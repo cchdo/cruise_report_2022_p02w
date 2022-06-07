@@ -189,9 +189,9 @@ May 7, 2022
 
 02801 - Replaced o-ring on bottle 10 valve and used hose clamps to secure slack cable to inside of rosette and away from lanyards.
 
-02901 - Bio cast. Observed top caps of bottles 16 and 34 catching on lanyards of bottles 17 and 35, respectively. Lowered 16, 34, and raised 35.
+02901 - Bio cast. Dark cast. Observed top caps of bottles 16 and 34 catching on lanyards of bottles 17 and 35, respectively. Lowered 16, 34, and raised 35. Replaced cracked spigot washer on bottle 9.
 
-02902 - UVP voltage static or unresponsive below ~1700 m. Confirmed to be a battery problem associated with insufficient charge following bio casts. Bottle 16 was too low and caught on rosette frame. Raised bottle 16.
+02902 - Tape left on transmissometer from dark cast. UVP voltage static or unresponsive below ~1700 m. Confirmed to be a battery problem associated with insufficient charge following bio casts. Bottle 16 was too low and caught on rosette frame. Raised bottle 16.
 
 03001 - UVP operational as normal.
 
@@ -205,13 +205,13 @@ May 7, 2022
 
 03301 - Primary and secondary CTD offsets improving. New SBE43 still noisy, but no changes in baseline.
 
-03401 - 
+03401 - No issues noted.
 
-03501 - Bio cast.
+03501 - Bio cast. No issues noted.
 
-03502 - 
+03502 - SBE43 a little noisy after 1200 m.
 
-03601 - 
+03601 - No issues noted.
 
 03701 - Adjusted guide rings on bottles 2, 31.
 
@@ -231,43 +231,43 @@ May 7, 2022
 
 04102 - Noisy soak. Replaced primary pump to attempt to remedy soak noise.
 
-04201 - Chipod 14-32 (top) had popped loose and flooded. Replaced with 14-36. Replaced secondary pump to attempt to remedy soak noise. Bottom spring to cap connection broke. Crimped new line and reattached cap prior to 04301.
+04201 - Chipod 14-32 (top) had popped loose and flooded. Replaced with 14-36. Replaced secondary pump to attempt to remedy soak noise. Bottom spring to cap connection broke on bottle 6. Crimped new line and reattached cap prior to 04301.
 
 04301 - 
 
-04401 - Bio cast.
+04401 - Bio cast. Crimp on bottom of bottle 6 failed. Reattached spring with knot.
 
-04402 - 
+04402 - No issues noted.
 
 04501 - Bottle 19 suspected of mistrip.
 
-04601 - 
+04601 - No issues noted.
 
 04701 - Bio cast.
 
-04702 - 
+04702 - Valve o-ring broken on bottle 1.
 
 04801 - Bottle 19 confirmed to be mistripping on 04501 and 04801. Raised bottle 19 for better lanyard angle with carousel.
 
-04901 - Bottel 19 fired.
+04901 - Bottle 19 fired. SBE43 noisy around 4000 m.
 
 05001 - Bio cast. Soak is still noisy. Replaced primary pump.
 
 05002 - Soak is still noisy. Replaced secondary pump.
 
-05101 - 
+05101 - Replaced o-rings on bottles 4, 6, 11, 12, 16, 20, 23, 26, 27. RINKO was loose.
 
-05201 - 
+05201 - Primary and secondary offsets noisy and spiky up to 30 m. Bottle 19 suspected of mistrip.
 
-05301 - Bio cast.
+05301 - Bio cast. Bottles not fired sequentially.
 
-05302 - 
+05302 - No issues noted.
 
 05401 - Bottle 19 came up empty. Changed out carousel latch. Raised bottle 19 to highest position possible.
 
 05501 - 
 
-05601 - Bio cast. Changed pump Y cable to improve temperature and conductivity offsets.
+05601 - Bio cast. Changed pump Y cable to attempt to improve temperature and conductivity offsets.
 
 05602 - No change in soak noise.
 
@@ -283,7 +283,7 @@ May 7, 2022
 
 06101 - 
 
-06201 - Bio cast.
+06201 - Bio cast. Dark cast.
 
 06202 - 
 
@@ -355,9 +355,9 @@ May 7, 2022
 
 08801 - 
 
-08901 - Bio cast.
+08901 - Bio cast. Replaced spigot on bottle 6.
 
-08902 - 
+08902 - Bottle 24 not sealed upon recovery due to collision with top bar. Lowered bottle 24 1/4".
 
 09001 - 
 
@@ -397,7 +397,7 @@ May 7, 2022
 
 10401 - Bio cast.
 
-10402 - 
+10402 - Adjusted heights and orientations on bottles 1, 4, 20. Adjusted guide rings on 1, 31, and 33.
 
 10501 - 
 
@@ -419,268 +419,24 @@ May 7, 2022
 
 11201 - 
 
-11301 - 
+11301 - Bio cast. Dark cast.
 
-11401 - Bottle 13 leaking. Changed o-ring.
+11302 - 
 
-11501 - Bottle 19 lanyard caught in top of bottle 20.
+11401 - Bottle 13 leaking from bottom. Changed o-ring.
 
+11501 - Bottle 19 lanyard caught in top of bottle 20. Remade lanyard and further adjusted bottle 19.
 
+11601 - Bio cast.
 
-90001 – First test cast aborted around 350 m. Tube connecting the primary and secondary pumps (attached in port to prevent fouling of the plumbing lines) was not removed prior to start of cast, identified initially in data by large differences in primary/secondary T/C lines.
 
-90002 – Test cast to 4500 m. UVP did not turn on during ascent from initial 20 m soak. Tried soaking again (at 20 m), still did not activate. Upon recovery, data from cast 90001 was present but nothing was recoreded from 90002. The assumption is that the rosette was not on deck long enough to fully power cycle the UVP.
-
-
-April 22, 2021
-
-00101 – UVP turned on as expected; no issues noted. Adjusted guide ring on bottle 30.
-
-00201 – Bottles 4, 5, 6, and 9 were leaking, 11 and 12 had loose vents.
-
-00301 – Fired surface bottle (#23) on the fly due to large swell. Rosette sat at 35 m for longer than standard while deck crew prepared for recovery.
-
-00401 – Adjusted guide ring on bottles 29, 30, 32 before cast.
-
-00501 – No issues noted.
-
-00601 – No issues noted.
-
-
-April 23, 2021
-
-00701 – Bottle 25 did not close, top cap was stuck against rosette frame crossbar. Entire bottle was moved downward to prevent that from happening again.
-
-00801 – No issues noted.
-
-00901 – No issues noted.
-
-01001 – ADCP data reported in multiple files, suspected power issues. Swapped out cable and battery.
-
-
-April 24, 2021
-
-01101 – No issues noted.
-
-01201 – Bottle 3 did not fire.
-
-01301 – No issues noted.
-
-01401 – Surface bottle (#36) was too cold, closer to temperature of 400-500 m bottles. Inspecting after cast, the bottom end cap was loose enough to close itself, likely early closure. Adjusted guide ring to prevent early closures.
-
-
-April 25, 2021
-
-01501 – No issues noted.
-
-01601 – Adjusted guide ring for bottle 32 before cast. Miscommunication with winch during bottom approach: stopped early (~20 m from bottom), fired bottle as normal, after which winch continued downward briefly. On way up, bottle 2 was misfired shortly after leaving the bottom.
-
-01701 – No issues noted.
-
-01801 – No issues noted.
-
-
-April 26, 2021
-
-No issues noted for stations 01901-02101.
-
-
-April 27, 2021
-
-02201 – No issues noted.
-
-02301 – No issues noted.
-
-02401 – ~160 m salnity spike (just primary line?)
-
-02501 – No issues noted.
-
-02601 – No issues noted.
-
-02701 – Taking less than half a rosette worth of bottles, fired odd bottles to make recovery easier (uniformly distributed weight instead of all to one side). Was confusing for analysts in other groups, will not do again.
-
-02801 – 115 m depth bottle mistakenly skipped, shifted remaining bottles appropriately.
-
-
-April 28, 2021
-
-02901 – No issues noted.
-
-03001 – Adjusted guide rings on 2, 10, 12, 14, 19, 32-36 before cast.
-
-03201 – Raised bottle 26 up before cast, may have been firing late because of poor placement.
-
-03301 – Bottle 3 did not close.
-
-
-April 29, 2021
-
-03401 – Bottle 22 did not close. Adjusted bottle 23 height since it was getting stuck on crossbar.
-
-03501 – Bottle 3 did not close. Replaced carouse latch for bottle 33 and raised bottle 22 to improve lanyard angle.
-
-03601 – Adjusted guide ring son bottle 2, 8, 9, 17, 19, 21, 24.
-
-03701 – Air vent on bottle 35 was not fully shut. 
-
-
-April 30, 2021
-
-03801 – Salinity signal was a little spiky during soak but quickly remedied itself (may just be bottom of mixed layer or something pulled through lines?).
-
-03901 – Bottle 26 guide ring adjusted upward.
-
-04001 – No issues noted.
-
-
-May 1, 2021
-
-04101 – Bottle 3 did not fire, bottle 16 was leaking due to loose air vent. Bottle 26 accidentally misfired on fly.
-
-04201 – Bottle 3 did not fire.
-
-04301 – Adjusted guide rings on bottles 17-21, 23, 32. Skipped firing bottle 3, will repair "spare" (i.e. primary) carousel during cast and replcae during transit to next.
-
-
-May 2, 2021
-
-04401 – Adjusted guide ring on bottle 15. Replaced carousel with primary, after swapping solenoid #12.
-
-04501 – No issues noted.
-
-04601 – D2 1563 replaced with 1565 at PI's request. Adjusted guide rings on bottles 11, 15, 19, 21, 23, 29, 30, 33, and 35. UVP did not show much change in surface during soak but was fine during cast; suspected the upper water column did not have much to photograph.
-
-04701 – Downlooking chipod was remounted with thicker rubber between unistruct and frame, hoping to stop the shifting which is occurring during deployment, cast, or recovery.
-
-
-May 3, 2021
-
-04801 – Spigot on bottle 35 was not fully closed.
-
-04901 – Altimeter spiking during bottom approach.
-
-05001 – Replaced spigot o-rings for bottle 16 before cast, was sticky and hard to fully close. Altimeter continuing to be spiky during bottom approach.
-
-
-May 4, 2021
-
-05101 – Bottle 35 was leaking, broken air vent o-ring – replaced before next cast. Also replaced for bottles 5, 7, and 9.
-
-05201 – Altimeter continuing to be spiky during bottom approach.
-
-05301 – Adjusted guide rings on 18, 29-34 before cast. Altimeter did not kick in until ~50 m from bottom, then was noisy during the entire bottom approach; stopped ~20 m from bottom to be conservative. Bucket testing afterward did not reveal any obvious problems and comparison with a new (presumably function) altimeter had the same results.
-
-05401 – Adjusted guide rings on 8, 10, 36. Same altimeter behavior.
-
-
-May 5, 2021
-
-05501 – Same altimeter behavior. Will leave as is since the behavior is now predictable, rather than introduce new unknowns. Bottle 25 fired quickly after stop, rather than waiting 30 seconds. Spigot pull tab on bottle 6 broken on recovery.
-
-05601 – Same altimeter behavior.
-
-05701 – Replaced o-rings and broken pull tab on bottle 6 before cast.
-
-
-May 6, 2021
-
-05801 – Spiky transmissometer data, tape on hose clamp came loose. After cast, wrapped electrical tape in a spiral around hose clamp to prevent it from peeling up.
-
-05901 – Altimeter seems to be getting worse, swapping in TGT's 48049 before cast 60.
-
-06001 – Adjusted guide rings on 10, 18, 20, 24, 29-33, 35, 36. Altimeter not much different. Swapping back to original (S/N 53821) and also swapping to TGT's cable to see if that is the issue.
-
-06101 – Altimeter behavior largely the same. Ultimately decided noise is due to rosette angle and bathymetry scattering the pings, the effect of which is reduced closer to the bottom.
-
-
-May 7, 2021
-
-06201 – Transmissometer spike ~1130 m.
-
-06301 – Adjusted guide rings on the usual bottles. After cinching down with drill, tightened every hose clamp further with a screwdriver. Was able to get at least 1/4 turn out of each, drill not as powerful as it used to be?
-
-06401 – No issues noted.
-
-
-May 8, 2021
-
-06501 – Raining heavily during deployment.
-
-06601 – No issues noted.
-
-06701 – No issues noted.
-
-
-May 9, 2021
-
-06801 – No issues noted.
-
-06901 – Rubber between top bottle standoff sliding out, removed after cast. Hose clamp was not tightened down so bottle was a little loose.
-
-07001 – At 5 m bottle stop, there was a miscommuncation and the ship rotated to face into the swell. Rotated before bottle fired so sample is highly contaminated.
-
-07101 – Tighted all guide ring hose clamps with screwdriver once again.
-
-
-May 10, 2021
-
-07201 – No issues noted.
-
-Weather delay for the rest of the day.
-
-
-May 11, 2021
-
-07301 – Changed top end cap, lanyards contected to it, and o-ring. Miscommunication between shifts led to the interior lanyard (cap to spring) to be changed again.
-
-07401 – No issues noted.
-
-07501 - Bottle 29 vent was not fully closed.
-
-
-May 12, 2021
-
-07601 – Bottle 2 did not seal all the way, o-ring not well seated – o-ring replaced by night shift (miscommuncation again, o-ring was just recently changed). Inter-lanyards (cap to cap) replaced on bottles 28 and 29.
-
-07701 – Bottle 2 o-ring not well seated again, may have questionable data. Tried to remove any twist in o-ring and re-seat. Gulf Stream currents very strong, large wire angle.
-
-07801 – Inter-lanyard (cap to cap) for bottle 29 was very tight upon recovery, removed shortly after getting on deck. Old one was ~1.5" too short – replaced with a new one of appropriate length before cast 79. Bottle 2 o-ring unseated again, replaced end cap with original one that was working properly.
-
-
-May 13, 2021
-
-07901 – ADCP having trouble turning on, cast slightly delayed. Rosette drifted upward during bottom bottle stop.
-
-08001 – No issues noted.
-
-08101 – Adjusted guide ring 23, tightened all others with screwdriver. Spigot on bottle #16 is very sticky, replaced before cast 82.
-
-08201 – No issues noted.
-
-
-May 14, 2021
-
-08301 – No issues noted.
-
-08401 – No issues noted.
-
-08501 – Mixed layer shallow, no good spot to switch to auto-cast.
-
-08601 – Trying bottle stop experiment, fired triplicates at 30, 60, and 90 seconds after stop, at two depths.
-
-08701 – No issues noted. Trying bottle stop experiment, fired triplicates at 30, 60, and 90 seconds after stop, at two depths.
-
-
-May 15, 2021
-
-08801 – Trying bottle stop experiment, fired triplicates at 30, 60, and 90 seconds after stop, at two depths.
-
-08901 – No issues noted.
-
-09001 – No issues noted.
 
 
 Sensor Problems
 ---------------
+
+*T,C offsets*: During 20 m soak, sensor offsets in primary and secondary lines (T2 - T1, C2 - C1) were noisy or spiky following station 32.
+
+*SBE43*: SBE43 |O2| was consistently noisy at depths of 800 m or greater on downcasts and upcasts following station 32.
 
 *Bottle guide rings*: Guide rings continually slipped during the whole cruise. In the end, the issue was they were not being sufficiently tightened by the normal drill we used – fixed by hand tightening further with screwdriver.
