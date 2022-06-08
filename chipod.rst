@@ -27,19 +27,17 @@ The chipods were turned on by connecting the sensors to the pressure case at the
 They continuously recorded data until the end of the leg.
 Only one issue occurred with the chipods following the recovery of cast 04201. The sensor tip (14-32) had popped out of the holder and water had gotten inside. The tip and holder were replaced (14-36) on recovery.
 
-..  
-    figure:: images/chipods/chipod_uplooking.*
+.. figure:: images/chipods/chipod_uplooking.*
 
-    Upward-looking chipod sensors attached to the rosette.
+Upward-looking chipod sensors attached to the rosette.
 
-    figure:: images/chipods/chipod_downlooking.*
+.. figure:: images/chipods/chipod_downlooking.*
 
-    Downward-looking chipod sensor attached to the rosette.
+Downward-looking chipod sensor attached to the rosette.
 
-    figure:: images/chipods/chipod_sensor_probe.*
+.. figure:: images/chipods/chipod_sensor_probe.*
 
- .. Highly sensitive temperature probe, which is sampled at 100Hz.
-
+ Highly sensitive temperature probe, which is sampled at 100Hz.
 
 .. tabularcolumns:: |r|l|l|l|
 
