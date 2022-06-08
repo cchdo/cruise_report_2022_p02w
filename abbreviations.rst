@@ -165,23 +165,11 @@ Abbreviations
   UH
     University of Hawaii
 
-  U Maine
-    University of Maine
-
   U Miami
     University of Miami
 
-  UNR
-    University of Nevada Reno
-
-  UNSW
-    University of New South Wales
-
   UOG
     University of Guam
-
-  U Puerto Rico
-    University of Puerto Rico
 
   USAP
     United States Antarctic Program
@@ -200,15 +188,6 @@ Abbreviations
 
   UW
     University of Washington
-
-  UWA
-    University of Western Australia
-
-  U. Wisconsin
-    University of Wisconsin
-
-  VUB
-    Vrije Universiteit Brüssel
 
   WHOI
     Woods Hole Oceanographic Institution

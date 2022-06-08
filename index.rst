@@ -18,6 +18,7 @@ Cruise Report for the 2022 Reoccupation of P02W
    chipod
    floats
    uw_pCO2
+   uvp
    students
 
 ..
@@ -33,7 +34,6 @@ Cruise Report for the 2022 Reoccupation of P02W
    bottle_doc
    bio_goship
    ladcp
-   uvp
 
 .. only:: html
 
