@@ -495,7 +495,7 @@ June 7, 2022
 
 11401 - Bottle 13 leaking from bottom during sampling on deck. Changed o-ring.
 
-11501 - Bottle 19 lanyard caught in top of bottle 20. Remade lanyard and further adjusted bottle 19.
+11501 - Bottle 19 lanyard caught in top of bottle 20. Remade lanyard and further adjusted bottle 19 by lowering to original height.
 
 11601 - Bio cast. No issues noted.
 
@@ -503,7 +503,7 @@ June 8, 2022
 
 11602 - No issues noted.
 
-11701 - No issues noted.
+11701 - Spigot on bottle 14 leaky during sampling.
 
 
 Sensor Problems
