@@ -14,7 +14,7 @@ Uncontaminated seawater was continuously passed (~1.7-2.1 L/min) through a chamb
 The |CO2| mole fraction of this headspace gas (|xCO2|) was measured every two minutes via a non-dispersive infrared analyzer (LiCor 7000) for 60 consecutive measurements.
 At the end of these 60 discrete measurements, a set of five standard gases was analyzed; four of these standards have known |CO2| concentrations certified by the NOAA Earth Science Research Laboratory (ESRL) ranging from ~300 to ~900 ppm |CO2| (see Table 1).
 The fifth standard is a tank of 99.9995% ultra-high purity nitrogen gas, used as a baseline 0% |CO2|.
-Following the measurements of standard gases, six consecutive measurements of atmospheric x|CO2| were made of air supplied through tubing fastened to the ships forward jack staff.
+Following the measurements of standard gases, six consecutive measurements of atmospheric |xCO2| were made of air supplied through tubing fastened to the ships forward jack staff.
 Twice a day, the infrared analyzer was zeroed and spanned using the nitrogen gas and the highest concentration |CO2| standard (911.41 ppm).
 In addition to measurements of seawater |xCO2|, atmospheric |xCO2|, and standard gases, other variables were monitored to evaluate system performance (e.g. gas and water flow rates, pump speeds, equilibrator pressures, etc.).
 For more detail on the general design and operation of this underway |pCO2| system, see [Pierrot2009]_.
