@@ -17,6 +17,8 @@ Cruise Report for the 2022 Reoccupation of P02W
    ctd_hydro_data_acq
    chipod
    floats
+   uw_pCO2
+
 ..
    These are the "expected sections"
 
@@ -30,8 +32,6 @@ Cruise Report for the 2022 Reoccupation of P02W
    bottle_doc
    bio_goship
    ladcp
-   uw_pCO2
-
    uvp
    students
 

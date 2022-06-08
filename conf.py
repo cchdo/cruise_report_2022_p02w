@@ -299,6 +299,7 @@ subs = {
     "HgCl2": "HgCl\ :sub:`2`",
     "pCO2": "pCO\ :sub:`2`",
     "fCO2": "fCO\ :sub:`2`",
+    "xCO2": "xCO\ :sub:`2`",
     "TCO2": "TCO\ :sub:`2`",
     "CCl4": "CCl\ :sub:`4`",
     "SF6": "SF\ :sub:`6`",
