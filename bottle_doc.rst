@@ -106,33 +106,25 @@ PI
   * Roberta Hansman (WHOI)
   * Rolf Sonnerup (UW)
 Technician
-  * Chance English (UCSB)
+  * Abby Tinary (U Miami)
 
-A total of 16-32 samples were collected from 13 stations along the A22 meridional transect.
-Samples were taken from 16 or 32 bottles from stations deemed “shallow” or “deep”, respectively.
-Shallow stations were sampled to approximately 1500m and deep stations were sampled through the full depth of the station.
-Duplicates were made at 8 separate stations from one of the 16 or 32 niskin bottles sampled during a cast.
+A total of 544 samples were collected from stations collected along the P02 transect.
+32 samples (full casts) were taken from 15 of the 117 stations, 24 samples (bio casts) were taken from a separate 2 of the 117 stations and 16 stations (partial casts) were taken from a separate 1 of the 117 stations.
+Station spacing was closer (every 3 stations) towards the beginning of the transect then spread out to every 8 stations in the middle of the transect.
+Station locations followed previous P02 occupations.
 Samples were collected in 500 mL airtight glass bottles.
-Using silicone tubing, the flasks were rinsed 2 times with seawater from the surface niskin.
+Using silicone tubing, the flasks were rinsed 3 times with seawater.
 While keeping the tubing at the bottom of the flask, the flask was filled and flushed by allowing it to overflow 1.5 times its volume.
-Once the sample was taken, about 10 mL of water was removed to create a headspace and 120 L of 50% saturated mercuric chloride solution was added to the sample.
-To avoid contamination, gloves were used when handling all sampling equipment and plastic bags were used to cover any surface where sampling or processing occurred. 
+Once the sample was taken, about 10 mL of water was removed to create a headspace and 100 µL of saturate mercuric chloride solution was added to the sample.
+To avoid contamination, gloves were used when handling all sampling equipment and plastic bags were used to cover any surface where sampling or processing occurred.
 
 After each sample was taken, the glass stoppers and ground glass joint were dried and Apiezon-M grease was applied to ensure an airtight seal.
 Stoppers were secured with a large rubber band wrapped around the entire bottle.
 Samples were stored in AMS crates in the ship’s dry laboratory.
-Samples were delivered to WHOI for analysis. 
+Samples were shipped to WHOI for analysis.
 
-The radiocarbon/DIC content of the seawater (DI14C) is measured by extracting the inorganic carbon as |CO2| gas, converting the gas to graphite and then counting the number of 14C atoms in the sample directly using an accelerated mass spectrometer (AMS).
+The radiocarbon/DIC content of the seawater (|d14C|) is measured by extracting the inorganic carbon as |CO2| gas, converting the gas to graphite and then counting the number of |14C| atoms in the sample directly using an accelerated mass spectrometer (AMS).
 
-Radiocarbon values will be reported as 14C using established procedures modified for AMS applications.
-The 13C/12C of the |CO2| extracted from seawater is measured relative to the 13C/12C of a |CO2| gas standard calibrated to the PDB standard using and isotope radio mass spectrometer (IRMS) at NOSAMS. 
-
-.. csv-table:: Stations sampled
-
-  6 (shallow), 12 (shallow),	16 (duplicate only)
-  18 (deep),	36 (deep),	40 (deep)
-  46 (shallow),	50 (deep),	54 (shallow)
-  60 (deep),	66 (shallow),	72 (deep)
-  76 (shallow),	82 (deep),
+Radiocarbon values will be reported as |14C| using established procedures modified for AMS applications.
+The |13C|/|12C| of the |CO2| extracted from seawater is measured relative to the |13C|/|12C| of a |CO2| gas standard calibrated to the PDB standard using and isotope radio mass spectrometer (IRMS) at NOSAMS. 
 
