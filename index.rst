@@ -18,6 +18,7 @@ Cruise Report for the 2022 Reoccupation of P02W
    bio_goship
    chipod
    bottle_nuts
+   bottle_dic
    floats
    uw_pCO2
    uvp
@@ -29,7 +30,6 @@ Cruise Report for the 2022 Reoccupation of P02W
    bottle_salt
    bottle_oxygen
    bottle_alk
-   bottle_dic
    bottle_ph
    bottle_cfc
    bottle_doc

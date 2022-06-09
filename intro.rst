@@ -1,4 +1,4 @@
-GO-SHIP P02 2021 Hydrographic Program
+GO-SHIP P02 2022 Hydrographic Program
 ======================================
 
 Cruise Scientific Objectives
