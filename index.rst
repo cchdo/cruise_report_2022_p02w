@@ -15,6 +15,7 @@ Cruise Report for the 2022 Reoccupation of P02W
    rosette
    cruise_narrative
    ctd_hydro_data_acq
+   bio_goship
    chipod
    bottle_nuts
    floats
@@ -32,7 +33,7 @@ Cruise Report for the 2022 Reoccupation of P02W
    bottle_ph
    bottle_cfc
    bottle_doc
-   bio_goship
+
    ladcp
 
 .. only:: html
