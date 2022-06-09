@@ -11,7 +11,7 @@ Samplers
 Genetics 
 ------------
 
-Genetics samples were collected approximately at 0600, 1200, and 2000 local time from the uncontaminated underway seawater system and pre-filtered (30 μm mesh) (88 stations).
+Genetics samples were collected approximately at 0600, 1200, and 2000 local time from the uncontaminated underway seawater system and pre-filtered (30 µm mesh) (88 stations).
 Samples were also collected using the CTD at 5m, 100m, 200m, and 1000m (39 stations).
 If the CTD collection coincided with one of the standard collection times, it would take that slot, otherwise the CTD cast would be a fourth collection period.
 In total, 285 samples were collected (129 with the underway and 156 with the CTD).
