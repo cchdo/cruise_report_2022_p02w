@@ -414,15 +414,15 @@ If the fit of the individual cast had worse resdiuals than the group, they were 
 
 CTD dissolved |O2| residuals are shown in the following figures.
 
-.. figure:: images/ctd_hydro_data_acq/oxy-rinko_vs_stn.*
+.. figure:: images/ctd_hydro_data_acq/oxy-rinko_vs_stn.pdf
 
   |O2| residuals versus station.
 
-.. figure:: images/ctd_hydro_data_acq/oxy-rinko_vs_stn_deep.*
+.. figure:: images/ctd_hydro_data_acq/oxy-rinko_vs_stn_deep.pdf
 
   Deep |O2| residuals versus station (Pressure >= 2000dbar).
 
-.. figure:: images/ctd_hydro_data_acq/oxy-rinko_vs_p.*
+.. figure:: images/ctd_hydro_data_acq/oxy-rinko_vs_p.pdf
 
   |O2| residuals versus pressure.
 
@@ -433,6 +433,17 @@ Issues arose with the RINKO between stations 10-12.
 * During 10, the RINKO upcast and downcast displayed abnormal voltages, prompting us to exchange sensor serial 0296 for 0251.
 * During 11-12, the RINKO voltage routinely spiked to 0. This was resolved by exchanging the RINKO cable connecting it to the CTD.
 For these reasons, RINKO fit coefficients during stations 10-12 are anomalous and SBE43 oxygen is reported instead.
+
+BIO Casts
+----------------------------
+Throughout |CRS|, 32 bio casts were taken prior to the full cast for separate, large volumes of water for biological analyses.
+The first bio cast was cast 1 at station 23.
+The last bio cast was cast 1 at station 116.
+Salinity and oxygen analyses were not performed during these casts and therefore the CTD was not fit for those parameters.
+
+.. figure:: images/ctd_hydro_data_acq/ctd_bio.pdf
+
+  CTD bottle values for temperature, salinity, oxygen, and fluorometer voltage plotted against CTD pressure across all bottle casts.
 
 .. [Mill82] Millard, R. C., Jr., “CTD calibration and data processing techniques at WHOI using the practical
    salinity scale,” Proc. Int. STD Conference and Workshop, p. 19, Mar. Tech. Soc., La Jolla, Ca.
