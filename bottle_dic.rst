@@ -100,22 +100,37 @@ The DIC data reported to the database directly from the ship are to be considere
 
 Calibration data during this cruise:
 
-======= =================== ========== =============== ========= ====================
-UNIT    Ave Gas Cal Factor  Pipette    Ave CRM         Std Dev   Ave Difference Dupes
-======= =================== ========== =============== ========= ====================
-PMEL1   1.00547             27.990 ml  1953.24, N = 43 1.14      1.34
-PMEL2   1.00340             29.387 ml  1952.20, N = 41 1.25      1.49
-======= =================== ========== =============== ========= ====================
++--------+-----------------------------+----------------+----------+
+| SYSTEM | Average Gas Loop Cal Factor | Pipette Volume | Observed |
++========+=============================+================+==========+
+| PMEL1  | 1.00547                     | 27.571 ml      | 0.77     |
++--------+-----------------------------+----------------+----------+
+| PMEL2  | 1.00340                     | 26.363 ml      | 0.87     |
++--------+-----------------------------+----------------+----------+
 
++---------------+------------------------+------------------------+
+| CRM Info      | PMEL1                  | PMEL2                  |
++---------------+---------+----+---------+---------+----+---------+
+| Batch - Cert. | Ave     | N  | Std Dev | Ave     | N  | Std Dev |
++===============+=========+====+=========+=========+====+=========+
+| 188 - 2099.26 | 2098.97 | 19 | 1.52    | 2097.68 | 21 | 2.01    |
++---------------+---------+----+---------+---------+----+---------+
+| 199 - 2021.66 | 2021.01 | 47 | 1.32    | 2020.31 | 45 | 1.35    |
++---------------+---------+----+---------+---------+----+---------+
+| 200 - 2022.46 | 2022.10 | 5  | 0.66    | 2022.50 | 5  | 0.87    |
++---------------+---------+----+---------+---------+----+---------+
 
-.. [DOE1994] DOE (U.S. Department of Energy). (1994). *Handbook of Methods for the Analysis of
+.. 
+    [DOE1994] DOE (U.S. Department of Energy). (1994). *Handbook of Methods for the Analysis of
    the Various Parameters of the Carbon Dioxide System in Seawater*. Version 2.0. ORNL/CDIAC-74. Ed. A. G. Dickson and
    C. Goyet. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, Oak Ridge, Tenn.
 
-.. [Dickson2007] Dickson, A.G., Sabine, C.L. and Christian, J.R. (Eds.), (2007): *Guide to Best Practices
+.. 
+    [Dickson2007] Dickson, A.G., Sabine, C.L. and Christian, J.R. (Eds.), (2007): *Guide to Best Practices
     for Ocean CO2 Measurements*. PICES Special Publication 3, 191 pp.
 
-.. [Feely1998] Feely, R.A., R. Wanninkhof, H.B. Milburn, C.E. Cosca, M. Stapp, and P.P. Murphy (1998):
+.. 
+    [Feely1998] Feely, R.A., R. Wanninkhof, H.B. Milburn, C.E. Cosca, M. Stapp, and P.P. Murphy (1998):
    *"A new automated underway system for making high precision pCO2 measurements aboard research ships."*
    Anal. Chim. Acta, 377, 185-191.
 
@@ -138,7 +153,8 @@ PMEL2   1.00340             29.387 ml  1952.20, N = 41 1.25      1.49
    *Coulometric total carbon dioxide analysis for marine studies: Measurement and interna consistency of
    underway surface TCO2 concentrations.* Marine Chemistry 67:123–44.
 
-.. [Lewis1998] Lewis, E. and D. W. R. Wallace (1998) Program developed for CO2 system
+.. 
+    [Lewis1998] Lewis, E. and D. W. R. Wallace (1998) Program developed for CO2 system
     calculations. Oak Ridge, Oak Ridge National Laboratory.
     http://cdiac.ornl.gov/oceans/co2rprt.html
 
