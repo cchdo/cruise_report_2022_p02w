@@ -224,7 +224,8 @@ The adjusted data for affected stations was compared to adjacent stations and hi
 
 .. [Hager1972] Hager, S.W.,  Atlas, E.L., Gordon L.I., Mantyla, A.W., and Park, P.K., " A comparison at sea of manual and autoanalyzer analyses of phosphate, nitrate, and silicate ," Limnology and Oceanography, 17,pp.931-937 (1972).
 
-.. [Kerouel1997] Kerouel, R., Aminot, A., "Fluorometric determination of ammonia in sea and estuarine waters by direct segmented flow analysis." Marine Chemistry, vol 57, no. 3-4, pp. 265-275, July 1997.
+.. 
+  [Kerouel1997] Kerouel, R., Aminot, A., "Fluorometric determination of ammonia in sea and estuarine waters by direct segmented flow analysis." Marine Chemistry, vol 57, no. 3-4, pp. 265-275, July 1997.
 
 .. [Sato2010] Sato, K., Aoyama, M., Becker, S., 2010. RMNS as Calibration Standard Solution to Keep Comparability for Several Cruises in the World Ocean in 2000s. In: Aoyama, M., Dickson, A.G., Hydes, D.J., Murata, A., Oh, J.R., Roose, P., Woodward, E.M.S., (Eds.), Comparability of nutrients in the world’s ocean. Tsukuba, JAPAN: MOTHER TANK, pp 43-56.
 
