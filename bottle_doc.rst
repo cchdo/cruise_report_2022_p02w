@@ -2,55 +2,52 @@ Dissolved Organic Carbon and Total Dissolved Nitrogen
 =====================================================
 
 PI
-  * C. Carlson (UCSB)
+  * Dennis Hansell (U Miami)
 Technician
-  * Chance English (UCSB)
+  * Abby Tinari (U Miami)
 Analysts
-  * Keri Opalk
-  * Elisa Halewood
+  * Lillian Custals
 Support
   NSF
 
 Project Goals
 -------------
-The goal of the DOM project is to evaluate dissolved organic carbon (DOC) and total dissolved nitrogen (TDN) concentrations along the A22 meridional transect occupied between April and May 2021.
+The goal of the DOM project is to evaluate dissolved organic carbon (DOC) and total dissolved nitrogen (TDN) concentrations along the P02 zonal transect.
 
 Sampling
 --------
-DOC profiles were taken at every other station from every depth sampled by the CTD (45 stations) DOC samples were passed through an inline filter holding a combusted GF/F filter attached directly to the Niskin for samples in the top 500 m of each cast.
-This was done to eliminate particles larger than 0.6 µm from the sample.
-Samples from deeper depths were not filtered.
-Previous work has demonstrated that there is no resolvable difference between filtered and unfiltered samples in waters below the upper 500 m at the µmol kg-1 resolution.
+DOC profiles were taken from approximately every two out of three stations from 26 of 36 niskin bottles ranging the full depth of the water column (80 of 117 stations; 2012 DOC/TDN samples).
+All samples collected above 250 meters were filtered through an inline filter holding a combusted GF/F filter attached directly to the niskin.
+This was done to eliminate particles larger than 0.7 µm from the sample.
+To reduce contamination by the filter or filter holder, a new filter and holder was used for every station.
 All samples were rinsed 3 times with about 5 mL of seawater and collected into combusted 40 mL glass EPA vials.
-Samples were fixed with 75 uL of 4N Hydrochloric acid and stored at room temperature on board.
-Samples were shipped back to UCSB for analysis via high temperature combustion on Shimadzu TOC-V or TOC L analyzers. 
+Samples were fixed with 100 µL of 4M Hydrochloric acid and stored at room temperature on board.
+Samples were shipped back to University of Miami for analysis via high temperature combustion on Shimadzu TOC-V or TOC L analyzers.
 
-Sample Vials were prepared for this cruise by soaking in 10% Hydrochloric acid, followed by a 3 times rinse with DI water.
-The vials were then combusted at 450ºC for 4 hours to remove any organic matter.
-Vial caps were cleaned by soaking in DI water overnight, followed by a 3 times rinse with DI water and left out to dry. 
+Sample vials were prepared before the cruise by combustion at 450°C for 12 hours to remove any organic matter.
+Vial caps were cleaned by soaking in DI water overnight, followed by a 3 times rinse with DI water and left out to dry.
 
-Sampling goals for this cruise were to continue high resolution, long term monitoring of DOC distribution throughout the water column, in order to help better understand biogeochemical cycling in global oceans. 
+Sampling goals for this cruise were to continue high-resolution, long-term monitoring of DOC distribution throughout the water column, in order to help better understand biogeochemical cycling in global oceans.
 
-
-Standard Operating Procedure for DOC analyses – Carlson Lab UCSB
-----------------------------------------------------------------
-DOC samples will be analyzed via high temperature combustion using a Shimadzu TOC-V or Shimadzu TOC-L at an in shore based laboratory at the University of California, Santa Barbara.
+Standard Operating Procedure for DOC analyses – Hansell Lab U Miami
+---------------------------------------------------------------------------------
+DOC samples will be analyzed via high temperature combustion using a Shimadzu TOC-V or Shimadzu TOC-L at an inshore based laboratory at the University of Miami.
 The operating conditions of the Shimadzu TOC-V have been slightly modified from the manufacturer’s model system.
 The condensation coil has been removed and the headspace of an internal water trap was reduced to minimize the system’s dead space.
-The combustion tube contains 0.5 cm Pt pillows placed on top of Pt alumina beads to improve peak shape and to reduce alteration of combustion matrix throughout the run.
-|CO2| free carrier gas is produced with a Whatman® gas generator [Carlson2010]_.
-Samples are drawn into a 5 ml injection syringe and acidified with 2M HCL (1.5%) and sparged for 1.5 minutes with |CO2| free gas.
-Three to five replicate 100 µl of sample are injected into a combustion tube heated to 680º.
-The resulting gas stream is passed though several water and halide traps, including an added magnesium perchlorate trap.
+The combustion tube contains 0.5 cm Pt pillow on top of Pt alumina beads to improve peak shape and to reduce alteration of combustion matrix throughout the run.
+|CO2| free carrier gas is produced with a Whatman® gas generator ([Carlson2010]_).
+Samples are drawn into a 5 mL injection syringe and acidified with 2M HCL (1.5%) and sparged for 1.5 minutes with |CO2| free gas.
+Three to five replicate 100 µL of sample are injected into a combustion tube headed to 680°C.
+The resulting gas stream is passed through several water and halide traps, including an added magnesium perchlorate trap.
 The |CO2| in the carrier gas is analyzed with a non-dispersive infrared detector and the resulting peak area is integrated with Shimadzu chromatographic software.
-Injections continue until the at least three injections meet the specified range of a SD of 0.1 area counts, CV :math:`\leq`2% or best 3 of 5 injections. 	
+Injections continue until at least three injections meet the specified range of a SD of 0.1 area counts, CV :math:`\leq` 2% or best 3 of 5 injections. 
 
-Extensive conditioning of the combustion tube with repeated injections of low carbon water (LCW) and deep seawater is essential to minimize the machine blanks.
+Extensive conditioning of the combustion tube with repeated injection of low carbon water (LCW) and deep seawater is essential to minimize the machine blanks.
 After conditioning, the system blank is assessed with UV oxidized low carbon water.
 The system response is standardized daily with a four-point calibration curve of potassium hydrogen phthalate solution in LCW.
-All samples are systematically referenced against low carbon water and deep Sargasso Sea (2600 m) or Santa Barbara Channel (400 m) reference waters and surface Sargasso Sea or Santa Barbara Channel sea water every 6 – 8 analyses [Hansell1998]_.
-The standard deviation of the deep and surface references analyzed throughout a run generally have a coefficient of variation ranging between 1-3% over the 3-7 independent analyses (number of references depends on size of the run).
-Daily reference waters were calibrated with DOC CRM provided by D. Hansell (University of Miami; [Hansell2005]_).
+All samples are systematically referenced against low carbon water and deep Sargasso Sea (2600 m) reference waters and surface Sargasso Sea water every 6 – 8 analyses ([Hansell 1998]_).
+The standard deviation of the deep and surface references analyzed throughout a run generally have a coefficient of variation ranging between 1-3% over the 3-7 independent analyses (number of references depends on the size of the run).
+Daily references waters were calibrated with DOC CRM provided by D. Hansell (University of Miami; ([Hansell 2005]_)).
 
 DOC Calculation
 '''''''''''''''
@@ -60,28 +57,23 @@ DOC Calculation
   \mu\text{MC} = \frac{\text{average sample area} - \text{average machine blank area}}{\text{slope of std curve}}
 
 
-
-Standard Operating Procedure for TDN analyses – Carlson Lab UCSB
-----------------------------------------------------------------
-TDN samples were analyzed via high temperature combustion using a Shimadzu TOC-V with attached Shimadzu TNM1 unit at an in-shore based laboratory at the University of California, Santa Barbara.
+Standard Operating Procedure for TDN analyses – Hansell Lab U Miami
+--------------------------------------------------------------------------------
+TDN samples were analyzed via high temperature combustion using Shimadzu TOC-V with attached Shimadzu TNMI unit at an inshore based laboratory at the University of Miami.
 The operating conditions of the Shimadzu TOC-V were slightly modified from the manufacturer’s model system.
 The condensation coil was removed and the headspace of an internal water trap was reduced to minimize the system’s dead space.
-The combustion tube contained 0.5 cm Pt pillows placed on top of Pt alumina beads to improve peak shape and to reduce alteration of combustion matrix throughout the run.
-Carrier gas was produced with a Whatman® gas generator [Carlson2010]_ and ozone was generated by the TNM1 unit at 0.5L/min flow rate.
-Three to five replicate 100 µl of sample were injected at 130mL/min flow rate into the combustion tube heated to 680ºC, where the TN in the sample was converted to nitric oxide (NO).
+The combustion tube contained 0.5 cm Pt pillows placed on top of Pt alumina beads to improve peak shape and to resuce alteration of combustion matrix throughout the run.
+Carrier gas was produced with a Whatman® gas generator ([Carlson2010]_) and ozone was generated by the TNMI unite at 0.5L/min flow rate.
+Three to five replicate 100 µL of sample were injected at 130 mL/min flow rate into the combustion tube headed to 680°C, where the TN in the sample was converted to nitric oxide (NO).
 The resulting gas stream was passed through an electronic dehumidifier.
-The dried NO gas then reacted with ozone producing an excited chemiluminescence |NO2| species [Walsh1989]_ and the fluorescence signal was detected with a Shimadzu TNMI chemiluminescence detector.
+The dried NO gas then reacted with ozone producing an excited chemiluminescence |NO2| species ([Walsh1989]_) and the fluorescence signal was detected with a Shimadzu TNMI chemiluminescence detector.
 The resulting peak area was integrated with Shimadzu chromatographic software.
-Injections continue until at least three injections meet the specified range of a SD of 0.1 area counts, CV :math:`\leq`2% or best 3 of 5 injections.  
+Injections continue until at least three injections meet the specified range of a SD of 0.1 area counts, CV :math:`\leq` 2% or best 3 of 5 injections.
 
 Extensive conditioning of the combustion tube with repeated injections of low nitrogen water and deep seawater was essential to minimize the machine blanks.
 After conditioning, the system blank was assessed with UV oxidized low nitrogen water.
 The system response was standardized daily with a four-point calibration curve of potassium nitrate solution in blank water.
-All samples were systematically referenced against low nitrogen water and deep Sargasso Sea reference waters (2600 m) and surface Sargasso Sea water every 6 – 8 analyses [Hansell1998]_.
-Daily reference waters were calibrated with deep CRM provided by D. Hansell (University of Miami; [Hansell2005]_).
-
-Dissolved organic nitrogen (DON) concentrations are calculated as the difference between TDN and DIN.
-Samples with less than 10 µmol/kg DIN are most reliable estimates of DON.  
+All samples were systematically referenced against low nitrogen water and deep Sargasso Sea reference waters (2600 m) and surface Sargasso Sea water ever 6-8 analyses ([Hansell1998]_). Daily references waters were calibrated with deep CRM provided by D. Hansell (University of Miami; [Hansell2005]_)).
 
 
 TDN calculation

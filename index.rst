@@ -30,12 +30,9 @@ Cruise Report for the 2022 Reoccupation of P02W
    These are the "expected sections"
 
    bottle_salt
-   bottle_oxygen
    bottle_alk
    bottle_ph
    bottle_cfc
-   
-
    ladcp
 
 .. only:: html
