@@ -16,6 +16,7 @@ Cruise Report for the 2022 Reoccupation of P02W
    cruise_narrative
    ctd_hydro_data_acq
    chipod
+   bottle_nuts
    floats
    uw_pCO2
    uvp
@@ -25,7 +26,6 @@ Cruise Report for the 2022 Reoccupation of P02W
    These are the "expected sections"
 
    bottle_salt
-   bottle_nuts
    bottle_oxygen
    bottle_alk
    bottle_dic
