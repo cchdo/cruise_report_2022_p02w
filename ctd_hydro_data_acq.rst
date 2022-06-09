@@ -82,12 +82,12 @@ CTD #1281:
 .. csv-table::
    :header: ,Start P (dbar),End P (dbar)
 
-   Min,-0.20,-0.28
-   Max,0.05,-0.08
-   Average,0.09,-0.19
+   Min,-0.16,-0.46
+   Max,0.23,0.13
+   Average,-0.04,-0.28
 
-On-deck pressure reading varied from -0.20 to 0.05 dbar before the casts, and -0.28 to -0.08 dbar after the casts.
-The pressure offset varied from -0.24 to 0.09, with a mean value of -0.1 dbar.
+On-deck pressure reading varied from -0.16 to 0.23 dbar before the casts, and -0.46 to 0.13 dbar after the casts.
+The pressure offset varied from -0.30 to 0.10, with a mean value of -0.24 dbar.
 
 Temperature Analysis
 --------------------
@@ -119,16 +119,16 @@ Fit coefficients are shown in the following tables.
 .. csv-table:: Primary temperature (T1) coefficients.
   :header: Station,:math:`cp_2`, :math:`cp_1`, :math:`ct_2`, :math:`ct_1`, :math:`c_0`
 
-  1-8,9.127e-11,-7.1661e-7,0.0,0.0,4.7065e-4
-  9-40,8.4036e-11,-8.6330e-7,0.0,0.0,1.1989e-3
-  41-|LAST_STA|,-4.6532e-11,1.2251e-7,0.0,0.0,-8.1808e-4
+  1-8,0.0,-2.5655e-7,0.0,0.0,1.4204e-4
+  9-40,0.0,-1.7576e-7,0.0,0.0,2.8372e-5
+  41-|LAST_STA|,-0.0,-9.2544e-9,0.0,0.0,4.9377e-4
 
 .. csv-table:: Secondary temperature (T2) coefficients.
   :header: Station,:math:`cp_2`, :math:`cp_1`, :math:`ct_2`, :math:`ct_1`, :math:`c_0`
 
-  1-8,0.0,-2.1424e-7,0.0,0.0,-1.4331e-4
-  9-41,0.0,-8.1227e-8,0.0,0.0,-6.3841e-4
-  42-|LAST_STA|,0.0,-1.3354e-7,0.0,0.0,-7.2422e-4
+  1-8,0.0,-2.2795e-8,0.0,0.0,-2.9018e-4
+  9-41,0.0,-4.2754e-7,0.0,0.0,2.217e-4
+  42-|LAST_STA|,-1.4293e-11,2.0618e-7,0.0,0.0,-7.9777e-6
 
 Corrected temperature differences are shown in the following figures.
 
@@ -168,14 +168,14 @@ Corrected temperature differences are shown in the following figures.
 
   T1-T2 versus pressure.
 
-The 95% confidence limits for the mean low-gradient (values -0.002 °C :math:`\leq` T1-T2 :math:`\leq` 0.002 °C) differences are ±0.00391 °C for SBE35RT-T1, ±0.00387 °C for SBE35RT-T2 and ±0.00157 °C for T1-T2.
-The 95% confidence limits for the deep temperature residuals (where pressure :math:`\geq` 2000 dbar) are ±0.00087 °C for SBE35RT-T1, ±0.00099 °C for SBE35RT-T2 and ±0.00087 °C for T1-T2.
+The 95% confidence limits for the mean low-gradient (values -0.002 °C :math:`\leq` T1-T2 :math:`\leq` 0.002 °C) differences are ±0.00521 °C for SBE35RT-T1, ±0.00530 °C for SBE35RT-T2 and ±0.00129 °C for T1-T2.
+The 95% confidence limits for the deep temperature residuals (where pressure :math:`\geq` 2000 dbar) are ±0.00062 °C for SBE35RT-T1, ±0.00072 °C for SBE35RT-T2 and ±0.00067 °C for T1-T2.
 
-Problems arose during the |CRS| cruise, prompting the SBE3 sensors to be exchanged.
+Problems arose during the |CRS| cruise, prompting CTD temperature sensors (SBE3) to be exchanged.
   * While deploying during station 9, cables to the deck box were loose. This was misdiagnosed as a sensor problem and was deployed without a secondary sensor on cast 4.
   * Differences in primary and secondary SBE3 were abnormally large during the pre-cast soak following station 32 and the sensors were exchanged during stations 40 and 41 to troubleshoot.
 
-Minor complications impacted the reference temperature sensor data.
+Minor complications impacted the reference temperature sensor (SBE35) data.
   * Internal memory overflowed following station 9 and data was not captured during stations 10 and 11.
   * During casts designated for bio, many bottles were fired at the surface and sometimes were too fast (< 15 seconds) for a reading.
 
@@ -251,12 +251,12 @@ Fit coefficients are shown in the following tables.
 .. csv-table:: Primary conductivity (C1) coefficients.
   :header: Station, :math:`cp_2`, :math:`cp_1`, :math:`ct_2`, :math:`ct_1`, :math:`cc_2`, :math:`cc_1`, :math:`c_0`
 
-  |FIRST_STA|-|LAST_STA|,2.2312e-10,-1.7838e-6,0.0,-3.7387e-4,0.0,0.0,1.4153e-3
+  |FIRST_STA|-|LAST_STA|,0.0,4.3091e-8,0.0,0.0,0.0,0.0,-1.6721e-3
 
 .. csv-table:: Secondary conductivity (C2) coefficients.
   :header: Station, :math:`cp_2`, :math:`cp_1`, :math:`ct_2`, :math:`ct_1`, :math:`cc_2`, :math:`cc_1`, :math:`c_0`
 
-  |FIRST_STA|-|LAST_STA|,1.6912e-10,-1.3829e-6,0.0,0.0,0.0,-3.2935e-4,1.3273e-2
+  |FIRST_STA|-|LAST_STA|,0.0,-2.3585e-7,0.0,0.0,0.0,0.0,4.6397e-3
 
 Salinity residuals after applying shipboard P/T/C corrections are summarized in the following figures.
 Only CTD and bottle salinity data with "acceptable" quality codes are included in the differences.
@@ -274,8 +274,10 @@ Quality codes and comments are published in the APPENDIX of this report.
 
   Salinity residuals versus pressure.
 
-The 95% confidence limits for the mean low-gradient (values -0.002 ºC :math:`\leq` T1-T2 :math:`\leq` 0.002 ºC) differences are ±0.00512 mPSU for salinity-C1SAL.
-The 95% confidence limits for the deep salinity residuals (where pressure :math:`\geq` 2000 dbar) are ±0.00158 mPSU for salinity-C1SAL.
+The 95% confidence limits for the mean low-gradient (values -0.002 °C :math:`\leq` T1-T2 :math:`\leq` 0.002 °C) differences are ±0.00521 °C for SBE35RT-T1, ±0.00530 °C for SBE35RT-T2 and ±0.00129 °C for T1-T2.
+
+The 95% confidence limits for the mean low-gradient (values -0.002 ºC :math:`\leq` T1-T2 :math:`\leq` 0.002 ºC) differences are ±0.00834 mPSU for salinity-C1SAL, ±0.00659 mPSU for salinity-C2SAL and ±0.00358 mPSU for C1SAL-C2SAL.
+The 95% confidence limits for the deep salinity residuals (where pressure :math:`\geq` 2000 dbar) are ±0.00225 mPSU for salinity-C1SAL, ±0.00179 mPSU for salinity-C2SAL and ±0.00178 mPSU for C1SAL-C2SAL.
 
 Minimal issues affected conductivity and calculated CTD salinities during this cruise.
   * Bottle stops in halocline may have had insufficient stop time during some casts, leading to low-biased measurements.
@@ -299,7 +301,6 @@ The residual differences of bottle check value versus CTD dissolved |O2| values 
 The general form of the PMEL DO sensor response model equation for Clark cells follows Brown and Morrison [Mill82]_ and Owens [Owen85]_.
 Dissolved |O2| concentration is then calculated:
 
-
 .. math::
   O_2 = S_{oc} \cdot (V + V_{\textrm{off}} + \tau_{20} \cdot e^{(D_1 \cdot p + D_2 \cdot (T - 20))} \cdot dV/dt) \cdot O_{sat} \cdot e^{T_{cor} \cdot T} \cdot e^{[(E \cdot p) / (273.15 + T)]}
 
@@ -317,17 +318,10 @@ All stations were fit together to get an initial coefficient estimate.
 Stations were then fit individually to refine the coefficients as the membrane does not deform the same way with each cast.
 If the fit of the individual cast had worse resdiuals than the group, they were reverted to the original group fit coefficients.
 
-.. 
-  csv-table doesn't work with these directives for some reason?
-..
-  table:: SBE43 group fit coefficients. Coefficients were further refined station-by-station.
-..
-  ======= ============ ============= ======================= ============= ============
-  Station S\ :sub:`oc` V\ :sub:`off` :math:`\tau`\ :sub:`20` T\ :sub:`cor` E
-  ======= ============ ============= ======================= ============= ============
-  |FIRST_STA|-|LAST_STA|  4.7574e-1    -5.0079e-1    1.56                    -3.1680e-4    3.754e-2
-  ======= ============ ============= ======================= ============= ============
+.. csv-table:: SBE43 group fit coefficients. Coefficients were further refined station-by-station.
+  :header: Station, S\ :sub:`oc`, V\ :sub:`off` , :math:`\tau`\ :sub:`20`, T\ :sub:`cor`, E
 
+  |FIRST_STA|-|LAST_STA|,4.5239e-1,-4.4878e-1,1.2000e+0,2.9469e-3,3.9203e-2
 
 CTD dissolved |O2| residuals are shown in the following figures :ref:`Oxy-lograd` through :ref:`Oxy-deep`.
 
@@ -348,7 +342,7 @@ CTD dissolved |O2| residuals are shown in the following figures :ref:`Oxy-lograd
 
   |O2| residuals versus pressure.
 
-The 95% confidence limits of 1.71 (µmol/kg) for all acceptable (flag 2) dissolved oxygen bottle data values and 1.52 (µmol/kg) for deep dissolved oxygen values are only presented as general indicators of the goodness of fit.
+The 95% confidence limits of 1.67 (µmol/kg) for all acceptable (flag 2) dissolved oxygen bottle data values and 1.34 (µmol/kg) for deep dissolved oxygen values are only presented as general indicators of the goodness of fit.
 CLIVAR GO-SHIP standards for CTD dissolved oxygen data are < 1% accuracy against on board Winkler titrated dissolved |O2| lab measurements.
 
 Issues arose with the acquisition and processing of CTD dissolved oxygen data.
@@ -414,33 +408,31 @@ If the fit of the individual cast had worse resdiuals than the group, they were 
 .. csv-table:: Rinko group fit coefficients. Coefficients were further refined station-by-station.
   :header: Station, :math:`c_0`, :math:`c_1`, :math:`c_2`, :math:`d_0`, :math:`d_1`, :math:`d_2`, :math:`c_p`
 
-  1-9,1.8834,2.7106e-2,7.5022e-4,5.1571e-4,-1.9373e-1,3.0792e-1,8.7822e-2
-  10-12,1.8612,2.9074e-2,9.2059e-4,2.4233e-3,-1.9987e-1,3.1466e-1,9.7739e-2
-  13-|LAST_STA|,1.8783,4.8992e-2,2.2758e-4,2.9361e-3,-1.8483e-1,2.9822e-1,6.7778e-2
+  1-9,1.215e+0,1.5739e-2,8.2708e-5,-1.5391e-3,-9.9882e-2,3.1492e-1,8.507e-2
+  10-12,-6.3699e+2,1.6180e+3,3.2984e+2,-3.0743e+0,-3.0791e-3,-6.5677e-5,2.e-1
+  13-|LAST_STA|,1.214e+0,1.8755e-2,4.1815e-5,-6.8659e-5,-9.1177e-2,3.2950e-1,8.6109e-2
 
 CTD dissolved |O2| residuals are shown in the following figures.
 
-.. 
-  figure:: images/ctd_hydro_data_acq/oxy-rinko_vs_stn.*
+.. figure:: images/ctd_hydro_data_acq/oxy-rinko_vs_stn.*
 
   |O2| residuals versus station.
 
-.. 
-  figure:: images/ctd_hydro_data_acq/oxy-rinko_vs_stn_deep.*
+.. figure:: images/ctd_hydro_data_acq/oxy-rinko_vs_stn_deep.*
 
   Deep |O2| residuals versus station (Pressure >= 2000dbar).
 
-.. 
-  figure:: images/ctd_hydro_data_acq/oxy-rinko_vs_p.*
+.. figure:: images/ctd_hydro_data_acq/oxy-rinko_vs_p.*
 
   |O2| residuals versus pressure.
 
-The 95% confidence limits of 1.27 (µmol/kg) for all acceptable (flag 2) dissolved oxygen bottle data values and 0.58 (µmol/kg) for deep dissolved oxygen values are only presented as general indicators of the goodness of fit.
+The 95% confidence limits of 0.95 (µmol/kg) for all acceptable (flag 2) dissolved oxygen bottle data values and 0.58 (µmol/kg) for deep dissolved oxygen values are only presented as general indicators of the goodness of fit.
 CLIVAR GO-SHIP standards for CTD dissolved oxygen data are < 1% accuracy against on board Winkler titrated dissolved |O2| lab measurements.
 
 Issues arose with the RINKO between stations 10-12.
 * During 10, the RINKO upcast and downcast displayed abnormal voltages, prompting us to exchange sensor serial 0296 for 0251.
 * During 11-12, the RINKO voltage routinely spiked to 0. This was resolved by exchanging the RINKO cable connecting it to the CTD.
+For these reasons, RINKO fit coefficients during stations 10-12 are anomalous and SBE43 oxygen is reported instead.
 
 .. [Mill82] Millard, R. C., Jr., “CTD calibration and data processing techniques at WHOI using the practical
    salinity scale,” Proc. Int. STD Conference and Workshop, p. 19, Mar. Tech. Soc., La Jolla, Ca.
