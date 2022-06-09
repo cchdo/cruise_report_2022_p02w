@@ -17,6 +17,7 @@ Cruise Report for the 2022 Reoccupation of P02W
    ctd_hydro_data_acq
    bio_goship
    bottle_nuts
+   bottle_oxygen
    bottle_dic
    bottle_doc
    uw_pCO2
