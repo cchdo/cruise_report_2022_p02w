@@ -16,12 +16,13 @@ Cruise Report for the 2022 Reoccupation of P02W
    cruise_narrative
    ctd_hydro_data_acq
    bio_goship
-   chipod
    bottle_nuts
    bottle_dic
-   floats
+   bottle_doc
    uw_pCO2
+   chipod
    uvp
+   floats
    students
 
 ..
@@ -32,7 +33,7 @@ Cruise Report for the 2022 Reoccupation of P02W
    bottle_alk
    bottle_ph
    bottle_cfc
-   bottle_doc
+   
 
    ladcp
 
