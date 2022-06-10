@@ -82,7 +82,7 @@ We note that radiocesium isotopes originating from the Fukushima Dai-ichi Power 
     The lower panel illustrates the 2022 stations included.
     (Image created using Web Ocean Data View 5.4.5, web server 28)
 
-.. figure:: images/narrative/cruise_stations.*
+.. figure:: images/narrative/Fig_4_bottle_schema_133_200.*
 
     Along-track bathymetry and occupied stations (numbered vertical lines, Leg 1, 1-117).
     Depths of tripped bottles and unfired/leaked/unclosed bottled are indicated in blue crosses and red circles, respectively.
