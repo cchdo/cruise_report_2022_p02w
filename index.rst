@@ -12,25 +12,24 @@ Cruise Report for the 2022 Reoccupation of P02W
    :caption: Table of Contents
 
    intro
-   rosette
    cruise_narrative
+   rosette
    ctd_hydro_data_acq
-   bio_goship
+   bottle_salt
    bottle_nuts
    bottle_oxygen
    bottle_dic
    bottle_doc
-   bottle_salt
+   bio_goship
+   uvp
    uw_pCO2
    chipod
-   uvp
    floats
    students
 
 ..
    These are the "expected sections"
 
-   
    bottle_alk
    bottle_ph
    bottle_cfc

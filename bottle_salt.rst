@@ -14,7 +14,7 @@ Equipment and Techniques
 Two Guildline Autosals were on board and operational, SIO-owned 8400A S/N 57-526 and 8400B S/N 69-180.
 S/N 57-526 was used for all salinity measurements during this cruise.
 The salinity analysis was run in the ship's Climate Controlled Chamber, a refrigerator port and amidships between the Computer Lab and Bioanalytical Lab. 
-The chamber temperature varied between about 21 and 25 degrees Celcius around 3 times each hour, with an average (based on measuring temperatures of items in the chamber) of about 23C.
+The chamber temperature varied between about 21 and 25 degrees Celcius around 3 times each hour, with an average (based on measuring temperatures of items in the chamber) of about 23°C.
 
 Both instruments were serviced prior to the cruise by their respective institutions and shipped to WHOI with other equipment in March.
 IAPSO Standard Seawater Batch P-165 was used for all calibrations: K15 = 0.99986, salinity 34.994, expiration 2024-04-15.
@@ -43,6 +43,8 @@ Narrative
 ---------
 Due to ambient electrical noise, the 8400A Autosal was used over the 8400B Autosal.
 3955 salinity samples were taken during the cruise, including 22 samples from test cast 00102.
-One bottle was broken during sampling of cast 05701.
+8 samples were used for practice prior to arrival at the test station and are not reported.
+One sample bottle (#2) was broken and replacd during sampling, but the cast was not recorded.
+One sample bottle (#34) was broken and replaced during sampling of cast 05701.
 
 .. [UNESCO1981] UNESCO 1981. Background papers and supporting data on the Practical Salinity Scale, 1978. UNESCO Technical Papers in Marine Science, No. 37 144.

@@ -2,16 +2,19 @@
 CTD and Rosette Setup
 =====================
 
-For |CRS| a :term:`SIO` STS 36 place yellow rosette and bottle_nuts were used.
-The rosette and bottles were built before P06 2017, making this the seventh time this package has been deployed.
+For |CRS| a :term:`SIO` :term:`STS` 36-place yellow rosette and bottles were used.
+The rosette was sent to Guam in early January, 2022.
+The rosette and bottles were built before P06 2017, making this the thirteenth time this package has been deployed.
+A steel bridle was added to the top of the rosette to adapt to the winch head.
 The bottles were made with new PVC, with new non-baked o-rings and electro-polished steel springs.
-This represents a change from the past, where on GO-SHIP cruises using ODF equipment before P06 2017 o-rings were baked for 3 days at 100 °C at 1-3 Torr in a sweeper gas of hydrogen.
-Springs used to be painted and Tygon tubing added to the ends to prevent paint wearing away from bottle firing.
-As on P06 2017 no sample contamination has been noticed by the change in o-rings and springs.
-The package used on |CRS| weighs roughly 1500 lbs in air without water, and 2350 lbs in air with water.
+Springs within the Bullister-style Niskin bottles were electropolished stainless steel.
+Bottle lanyards were made from 300-pound monofilament.
+No sample contamination has been noticed by the change in o-rings and springs.
+The package used on |CRS| weighs roughly 1500 lbs in air without water and 2350 lbs in air with water.
 The package used on |CRS| weighs roughly 950 lbs in water.
-In addition to the standard CTDO package on GO-SHIP cruises three chipods, two LADCPs, and one experimental CTD were mounted on the rosette.
-During the cruise we encountered a handful of problems, most notably noisy altimeter data and bottle firing issues.
+In addition to the standard :term:`CTDO` package on GO-SHIP cruises three chipods, two :term:`LADCP`, and one :term:`UVP` were mounted on the rosette.
+
+During the cruise we encountered a handful of problems, most notably noise between the primary and secondary CTD lines.
 We describe all of the above in more detail in the sections below.
 
 Underwater Sampling Package
@@ -25,14 +28,15 @@ Chipod, LADCP, and UVP instruments were deployed with the CTD/rosette package an
 
 CTD and cage were horizontally mounted at the bottom of the rosette frame, located below the carousel for all stations.
 The temperature, conductivity, dissolved oxygen, respective pumps and exhaust tubing was mounted to the CTD and cage housing as recommended by SBE.
-The reference temperature sensor was mounted between the primary and secondary temperature sensors at the same level as the intake tubes for the exhaust lines.
-The transmissometer was mounted horizontally on the lower LADCP brace with hose clamps around both of its ends, avoiding shiny metal or black tape inside that would introduce noise in the signal.
+The reference temperature sensor was mounted between the primary and secondary temperature sensors at the same level as the intakes for the pumped temperature sensors.
+The transmissometer was mounted horizontally on the lower LADCP brace with hose clamps, avoiding shiny metal inside that would introduce noise in the signal.
+The hose clamps for the transmissometer were covered in black electrical tape.
 The oxygen optode, fluorometer, and altimeter were mounted vertically inside the bottom ring of the rosette frames, with nothing obstructing their line of sight.
 One 300 KHz bi-directional Broadband LADCP (RDI) unit was mounted vertically on the bottom side of the frame.
 Another 300 KHz bi-directional Broadband LADCP (RDI) unit was mounted vertically on the top side of the frame.
 The LADCP battery pack was also mounted on the bottom of the frame.
-The LADCP and LADCP battery pack were mounted next to each other at the beginning of the cruise.
-If we imagine the LADCP battery being north on the rosette, the LADCP was mounted east, the CTD mounted south, and the UVP mounted west.
+The LADCP and LADCP battery pack were mounted near (90°) each other at the beginning of the cruise.
+Imagining the now of the ship to be north, the LADCP batter was mounted on the south side of the rosette, the up/down LADCPs were on the west side, the UVP on the east, and CTD mounted to the north.
 
 .. tabularcolumns:: |l|l|l|l|l|l|
 
@@ -40,57 +44,52 @@ If we imagine the LADCP battery being north on the rosette, the LADCP was mounte
   :header-rows: 1
   :file: sio_equipment.csv
 
-.. 
-    figure:: images/rosette/rosette_south.*
-..
+.. figure:: images/rosette/rosette_south.*
+
   Package sensor setup from south.
 
-.. 
-    figure:: images/rosette/rosette_east.*
-..
+.. figure:: images/rosette/rosette_east.*
+
   Package sensor setup from east.
 
-.. 
-    figure:: images/rosette/rosette_north.*
-..
+.. figure:: images/rosette/rosette_north.*
+
   Package sensor setup from north.
 
-..  
-  figure:: images/rosette/rosette_northeast_bottom.*
-..
-  From left to right: oxygen optode, fluorometer, LADCP battery pack, altimeter.
+.. figure:: images/rosette/rosette_northeast_bottom.*
 
-..  
-  figure:: images/rosette/rosette_southeast_bottom.*
-..
-  Package setup from southwest, with CTD in foreground and downlooking chipod to the right.
+  Package setup from southwest, from left to right: CTD cage, downward facing chipod, downward facing LADCP, transmissometer bar.
 
-..  
-  figure:: images/rosette/rosette_west_bottom.*
-..
-  Packaget setup from west.
+.. figure:: images/rosette/rosette_southwest_bottom.*
 
-..  
-  figure:: images/rosette/rosette_west_top.*
-..
+  Package setup from southwest, from left to right: (Foreground) ECO fluorometer, UVP, RINKO, altimeter.
+
+.. figure:: images/rosette/rosette_west_bottom.*
+
+  Package setup from west.
+
+.. figure:: images/rosette/rosette_west_top.*
+
   Package  setup from west, top view.
 
 Winch and Deployment
 --------------------
-The aft DESH-5 winch deployment system was used for all stations.
+The CAST6 winch and deployment system was used for all stations.
 The rosette system was suspended from a UNOLS-standard three-conductor 0.322" electro-mechanical sea cable.
-The sea cable was already terminated from the previous leg (A20) and no electrical or mechanical issues occurred on A22.
+The sea cable was terminated with an Evergrip (primary), Guy Grip (secondary), and set of Crosby Clips (tertiary).
+No electrical issues occurred on P02.
+There were continuous issues with wire twist and had to "move up" the termination 3 times during the cruise.
 
 The deck watch prepared the rosette 10-30 minutes prior to each cast.
 The bottles were cocked and all valves, vents, and lanyards were checked for proper orientation.
 Any biofouling noted was cleaned off the outside of the rosette before the next cast, and the inside of the bottles were checked for biofouling and sprayed down.
 LADCP technician would check for LADCP battery charge, prepare instrument for data acquisition, and disconnect cables.
 Once stopped on station, the Marine Technician would check the sea state prior to cast and decide if conditions were acceptable for deployment.
-The rosette was moved from the sampling bay out to the deck using the Thompson's new winch-driven cart.
-Once on deck, the ratchet straps connecting the rosette to the cart were removed and sea cable slack was pulled up by the winch operator.
+The rosette was moved from the sampling bay out to the deck using the *Revelle's* tugger-driven cart.
+Once on deck, sea cable slack was pulled up by the winch operator.
 CTD watch standers would then turn on the deckbox and begin data acquistion, and the cast would begin.
 Recovering the package at the end of the deployment was the reverse of launching.
-Once rolled back into the sampling bay, the ship crew secured the cart to the deck using additional ratchet straps.
+Once rolled back into the sampling bay, a technician secured the cart to the deck using additional ratchet straps.
 The carousel was rinsed and sensors were cleaned (as described below) after every cast, and then samplers were allowed to begin collecting water.
 
 Maintenance and Calibrations
@@ -453,7 +452,7 @@ June 3, 2022
 
 10102 - SBE43 noisy after 800 m during downcast.
 
-10201 - Bottle 30 misfired as 31.
+10201 - Bottle 30 accidently skipped, with bottle 31 fired at 30's intended depth.
 
 June 4, 2022
 
@@ -503,7 +502,7 @@ June 8, 2022
 
 11602 - No issues noted.
 
-11701 - Spigot on bottle 14 leaky during sampling.
+11701 - No issues noted.
 
 
 Sensor Problems
