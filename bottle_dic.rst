@@ -11,7 +11,7 @@ Technicians
 
 Sample Collection
 -----------------
-Samples for :term:`DIC` measurements were drawn (according to procedures outlined in the PICES Special Publication, Guide to Best Practices for Ocean |CO2| Measurements) from Bullister style niskin bottles into ~310ml borosilicate glass flasks using platinum-cured silicone tubing.
+Samples for :term:`DIC` measurements were drawn (according to procedures outlined in the PICES Special Publication, Guide to Best Practices for Ocean |CO2| Measurements [Dickson2007]_) from Bullister style niskin bottles into ~310ml borosilicate glass flasks using platinum-cured silicone tubing.
 The flasks were rinsed once and filled from the bottom with care not to entrain any bubbles, overflowing by at least one-half volume.
 The sample tube was pinched off and withdrawn, creating a 6ml headspace and 0.12 ml of saturated |HgCl2| solution was added as a preservative.
 The sample bottles were then sealed with glass stoppers lightly covered with Apiezon-L grease.
@@ -125,8 +125,7 @@ Calibration data during this cruise:
    the Various Parameters of the Carbon Dioxide System in Seawater*. Version 2.0. ORNL/CDIAC-74. Ed. A. G. Dickson and
    C. Goyet. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, Oak Ridge, Tenn.
 
-.. 
-    [Dickson2007] Dickson, A.G., Sabine, C.L. and Christian, J.R. (Eds.), (2007): *Guide to Best Practices
+.. [Dickson2007] Dickson, A.G., Sabine, C.L. and Christian, J.R. (Eds.), (2007): *Guide to Best Practices
     for Ocean CO2 Measurements*. PICES Special Publication 3, 191 pp.
 
 .. 
