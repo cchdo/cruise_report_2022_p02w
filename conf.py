@@ -264,8 +264,8 @@ subs = {
     "CRS": "P02W-2022",
     "FIRST_STA": "1",
     "LAST_STA": "117",
-    "NSTA": "117",
-    "TCST": "91",  # what is this?
+    "NSTA": "117",  #   Number of stations
+    "TCST": "148",   #   Total number of casts
     "SHIP": "R/V Roger Revelle",
     "STARTD": "April 30, 2022",
     "ENDD": "June 10, 2022",
