@@ -5,7 +5,7 @@ PIs
   * Adam Martiny (UCI)
 Samplers
   * Adam Fagan (UCI)
-  * Courtney (Star) Dressler (UOG)
+  * Star Dressler (UOG)
   * Stephanie O'Daly (UAF)
   
 Genetics 
