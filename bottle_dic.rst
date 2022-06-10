@@ -3,7 +3,7 @@ Dissolved Inorganic Carbon (DIC)
 
 PI’s
   * Richard A. Feely (NOAA/PMEL)
-    * Rik Wanninkhof (NOAA/AOML)
+  * Rik Wanninkhof (NOAA/AOML)
 Technicians
   * Dana Greeley (NOAA/PMEL)
   * Julian Herndon (NOAA/PMEL)
@@ -53,7 +53,7 @@ The stability of each coulometer cell solution was confirmed three different way
 2) CRM’s supplied by Dr. A. Dickson of SIO, were measured near the beginning; and 
 3)	Duplicate samples were run throughout the life of the cell solution.
 
-Each coulometer was calibrated by injecting aliquots of pure CO2 (99.999%), as a standard, by means of an 8-port valve ([Wilke1993]_) outfitted with two calibrated sample loops of different sizes (~1ml and ~2ml).
+Each coulometer was calibrated by injecting aliquots of pure |CO2| (99.999%), as a standard, by means of an 8-port valve ([Wilke1993]_) outfitted with two calibrated sample loops of different sizes (~1ml and ~2ml).
 The instruments were each separately calibrated at the beginning of each cell with a minimum of two sets of these gas loop injections; and when time allowed at the end of each cell to ensure no drift during the life of the cell.
 
 The accuracy of the DICE measurement is determined with the use of standards, Certified Reference Materials (CRMs) consisting of filtered and UV irradiated seawater, supplied by Dr. A. Dickson of Scripps Institution of Oceanography (SIO).

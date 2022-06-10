@@ -1,14 +1,15 @@
 Program,Affiliation,Principal Investigator,Email
-":term:`CTDO` Data, Salinity, Nutrients, Dissolved |O2|",":term:`UCSD`, :term:`SIO`","Susan Becker, Todd Martz","sbecker@ucsd.edu, trmartz@ucsd.edu"
-":term:`CFCs`, :term:`SF6`, :term:`SF6`",:term:`UT`,Dong-Ha Min,dongha@austin.utexas.edu
-Total |CO2| (DIC),":term:`AOML`, :term:`PMEL`, :term:`NOAA`",Richard Feely,richard.a.feely@noaa.gov
-"Total Alkalinity, pH",:term:`SIO`,Andrew Dickson,adickson@ucsd.edu
-":term:`DOC`, :term:`TDN`",:term:`RSMAS`,Dennis Hansell,dhansell@rsmas.miami.edu
-Shipboard :term:`ADCP`, :term:`UH`, Julia Hummon,hummon@hawaii.edu
-:term:`LADCP`,:term:`LDEO`,Andreas Thurnherr,ant@ldeo.columbia.edu
-Discrete p\ |CO2|,":term:`PMEL`, :term:`NOAA`",Simone Alin,simone.r.alin@noaa.gov
+BGC Floats,:term:`SIO`,Lynne Talley,ltalley@ucsd.edu
 C13 & C14,":term:`UW`, :term:`WHOI`","Rolf Sonnerup, Roberta Hansman","rolf@uw.edu, rhansman@whoi.edu"
-Transmissometer, ":term:`UCI`, :term:`TAMU`","Adam Martiny,Wilf Gardner","amartiny@uci.edu"
-":term:`POC`, :term:`HPLC`",:term:`UCSD`,Lynne Talley,ltalley@ucsd.edu
-Chipod,:term:`OSU`,Jonathan Nash,nash@coas.oregonstate.edu
-:term:`UVP`,":term:`UAF`",Andrew McDonnell,amcdonnell@alaska.edu
+":term:`CFCs`, :term:`SF6`",:term:`UT`,Dong-Ha Min,dongha@austin.utexas.edu
+Chipods,:term:`OSU`,Jonathan Nash,nash@coas.oregonstate.edu
+":term:`CTDO` Data, Salinity, Nutrients, Dissolved |O2|",":term:`UCSD`, :term:`SIO`","Susan Becker, Todd Martz","sbecker@ucsd.edu, trmartz@ucsd.edu"
+Discrete p\ |CO2|,":term:`PMEL`, :term:`NOAA`",Simone Alin,simone.r.alin@noaa.gov
+":term:`DOC`, :term:`TDN`",:term:`RSMAS`,Dennis Hansell,dhansell@rsmas.miami.edu
+Lowered :term:`ADCP`,:term:`LDEO`,Andreas Thurnherr,ant@ldeo.columbia.edu
+":term:`POC`, :term:`HPLC`",:term:`UCSD`,Adam Martiny,amartiny@uci.edu
+Shipboard :term:`ADCP`, :term:`UH`, Julia Hummon,hummon@hawaii.edu
+"Total Alkalinity, pH",:term:`SIO`,Andrew Dickson,adickson@ucsd.edu
+Total |CO2| (DIC),":term:`PMEL`, :term:`NOAA`",Richard Feely,richard.a.feely@noaa.gov
+Transmissometer, ":term:`UCI`, :term:`OSU`","Adam Martiny, Jason Graff","amartiny@uci.edu, jason.graff@oregonstate.edu"
+:term:`UVP`-5,":term:`UAF`",Andrew McDonnell,amcdonnell@alaska.edu

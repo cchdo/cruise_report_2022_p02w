@@ -5,7 +5,7 @@ PIs
   * Dong-Ha Min (UT)
 Analysts
   * David Cooper (UT)
-  * Carol González (UT)
+  * Carol Gonzalez (UT)
   * Sidney Wayne (HPU)
 
 Samples for the analyses of the dissolved chlorofluorocarbons (CFCs, freons) F11 and F12, sulfur hexafluoride (|SF6|) and nitrous oxide (|N2O|) were collected and analyzed during RR2204.
