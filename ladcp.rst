@@ -138,13 +138,3 @@ Figures
 .. [Jackett1997] Jackett, David R., Trevor J. McDougall, 1997: A Neutral Density Variable for the World's Oceans. J. Phys. Oceanogr., 27, 237–263. doi: 10.1175/1520-0485(1997)0272.0.CO;2
 
 .. [NOAA2009] NOAA National Geophysical Data Center. 2009: ETOPO1 1 Arc-Minute Global Relief Model. NOAA National Centers for Environmental Information. Accessed May 25, 2022.
-
-.. 
-  figure:: images/u_full.*
-
-  Zonal velocity section for A22 using the LADCP data.
-
-.. 
-  figure:: images/v_full.*
-
-  Meridional velocity section for A22 using the LADCP data.

@@ -11,7 +11,8 @@ Cruise Participant
 
 System Configuration and Sampling
 ---------------------------------
-The Underwater Vision Profiler 5 (UVP5) HD serial number 201 was programmed, mounted on the rosette, and charged.
+The Underwater Vision Profiler 5 (UVP5) HD (High Definition) serial number 201 was programmed, mounted on the rosette, and charged.
+This instrument is owned by Emmanuel Boss at University of Maine.
 The UVP5 is outfitted with a High Definition 4 Mp camera with an acquisition frequency of up to 20 Hz.
 This optical imaging device obtains in situ concentrations and images of marine particles and plankton throughout the water column, capturing objects sized ~100 µm to several cm in diameter.
 The camera of the UVP5 HD is different from the previous non-HD version, but the operations are identical for both.
