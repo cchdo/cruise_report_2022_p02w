@@ -36,7 +36,7 @@ Once the percent transmission reaches its original value, the coulometric titrat
 DIC Calculation
 ---------------
 The amount of |CO2| injected was calculated according to the 2007 PICES Special Publication.
-Each DICE instrument has a modified SBE45 salinity sensor, but all DIC values were recalculated to a molar weight (µmol :math:`\text{kg}^{-1})` using density obtained from the CTD's salinity.
+Each DICE instrument has a modified SBE45 salinity sensor, but all DIC values were recalculated to a molar weight (µmol :math:`\text{kg}^{-1}`) using density obtained from the CTD's salinity.
 
 The DIC values were corrected for dilution resulting from the addition of 0.12 ml of saturated |HgCl2| used for sample preservation.
 The correction factor used for this dilution is 1.000397.
