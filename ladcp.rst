@@ -105,7 +105,7 @@ From vertical velocities, an estimate of vertical kinetic energy (VKE), and ther
 However, as there are both DL and UL data contributing to the vertical velocity profile, averaging to determine |eVKE| can be performed at different points in the process.
 Determining VKE from the final combined DL and UL vertical velocity profile results in ‘combination |eVKE|’, while first determining VKE from the individual DL and UL profiles and then combining the VKE profiles results in ‘DL & UL |eVKE|’.
 From the combined method, dissipation appears to increase near the surface and topography (Figure 2, upper), notably so near slopes and seamounts, exceeding :math:`\text{10}^{-9}` W :math:`\text{kg}^{-1}` in some cases.
-Away from topography, dissipation can recede to background values less than 10-11 W kg-1.
+Away from topography, dissipation can recede to background values less than :math:`\text{10}^{-11}` W :math:`\text{kg}^{-1}`.
 By comparison, the latter method results in generally higher values of |eVKE| (Figure 2, lower), with less obvious features near topography and additional data gaps.
 Statistically, these assumptions are confirmed (Figure 3) – the combined method has a greater range of intensity, while the latter method trends toward its mean, higher than that of the combined method.
 The correlation between the two methods results is good, but there is an obvious difference at an r-value of 0.82.
@@ -113,7 +113,31 @@ Further analysis will be required to decide which method is most appropriate.
 
 Figures
 -------
-The section plots shown in Figs. 1 & 2 show the zonal and meridional LADCP velocities obtained from the 90 stations occupied.
+
+.. figure:: images/LADCP/Fig1_vel_2D_rough.*
+
+  Figure 1. Zonal (upper) and meridional (lower) velocity sections for GO-SHIP P2 leg 1.
+  Horizontal velocity data were smoothed for vertical scales < 50 m, to filter instrument noise, and are constrained by time- and GPS-synchronised CTD, SADCP, and bottom-tracking data by LDEO_IX software.
+  Station profiles are shown as vertical dotted gray lines, zero-velocity contours as thin grey lines, and dot-dashed black lines are neutral density contours ([Jackett1997]_), labelled right (units of kg :math:`\text{m}^{-3}`).
+  Interpolated data were blanked linearly between stations, near the seabed, with bathymetry determined from ETOPO1 global relief data ([NOAA2009]_).
+  There is evidence of regional mean currents, eddies, and internal wave activity near topography.
+
+.. figure:: images/LADCP/Fig2_VKE_2D_rough.*
+
+  Figure 2. Section plots of combination |eVKE| (upper) and DL & UL |eVKE| (lower).
+  Interpolated data were blanked linearly between stations, near the seabed, with bathymetry determined from ETOPO1 global relief data ([NOAA2009]_).
+  There is evidence of enhanced dissipation near the surface and topography.
+  The averaging method in the upper panel better resolves these features.
+
+.. figure:: images/LADCP/Fig3_VKE_stats_rough.*
+
+  Figure 3. Statistics for combination |eVKE| and DL & UL |eVKE| averaging methods.
+  The former method has a greater range of intensities, while the later trends towards its greater mean.
+  The two methods are correlated at r = 0.82.
+
+.. [Jackett1997] Jackett, David R., Trevor J. McDougall, 1997: A Neutral Density Variable for the World's Oceans. J. Phys. Oceanogr., 27, 237–263. doi: 10.1175/1520-0485(1997)0272.0.CO;2
+
+.. [NOAA2009] NOAA National Geophysical Data Center. 2009: ETOPO1 1 Arc-Minute Global Relief Model. NOAA National Centers for Environmental Information. Accessed May 25, 2022.
 
 .. 
   figure:: images/u_full.*
