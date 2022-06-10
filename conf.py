@@ -306,6 +306,7 @@ subs = {
     "TCO2": "TCO\ :sub:`2`",
     "CCl4": "CCl\ :sub:`4`",
     "SF6": "SF\ :sub:`6`",
+    "eVKE": ":math:`\epsilon`\ :sub:`VKE`", #   Turbulent dissapation
 }
 
 rst_epilog = "\n".join(

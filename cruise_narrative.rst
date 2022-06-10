@@ -76,6 +76,12 @@ While this may be an actual difference, it seems likely that the low 2013 statio
 Time of year may also be a factor as the 2022 occupation began nearly a full month later at a sensitive time of year for this water mass.
 We note that radiocesium isotopes originating from the Fukushima Dai-ichi Power Plants and measured on the 2013 occupation suggest that the NPSTMW at 161°E (~ 2700 km) is no more that 2 years old ([Yoshida2015]_).
 
+.. figure:: images/narrative/P02_2022_2013_PV.*
+
+    Potential Vorticity (units :math:`\text{10}^{-12}` :math:`\text{m}^{-1}` :math:`\text{s}^{-1}`) sections for the upper thousand meters for 2022 stations 3-117 (upper panel) and the station covering the same distance (6067 km) from the first station for the 2013 occupation (middle panel).
+    The lower panel illustrates the 2022 stations included.
+    (Image created using Web Ocean Data View 5.4.5, web server 28)
+
 .. figure:: images/narrative/cruise_stations.*
 
     Along-track bathymetry and occupied stations (numbered vertical lines, Leg 1, 1-117).

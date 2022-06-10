@@ -79,7 +79,10 @@ During the first half of the cruise, the battery was twice temporarily removed d
 For some of the deepest casts (> 6000 m, stations 027, 031), the seabed would be at the edge of the DL bottom-tracking range, causing erroneous values for seabed depth when using Lcheck.
 Despite this, the processing software could correctly determine seabed depth from the data. 
 
-At station 046, the *Lstart* command was given with the deck and star-cable extensions connected in a ‘crossed’ configuration, so that the DL was detected as the UL, and vice versa, and the WM15 commands were leading to a failed start. Before the cause was identified, the LADCP WM15 commands were disabled for both instruments, and so the true UL (which usually runs with WM15 enabled) was cast with WM15 disabled. Upon recovery, inspection of the data revealed the cause, and the data files were revised to reflect the correct DL and UL configuration. The initial data quality-checks suggest that the data are fine.
+At station 046, the *Lstart* command was given with the deck and star-cable extensions connected in a ‘crossed’ configuration, so that the DL was detected as the UL, and vice versa, and the WM15 commands were leading to a failed start.
+Before the cause was identified, the LADCP WM15 commands were disabled for both instruments, and so the true UL (which usually runs with WM15 enabled) was cast with WM15 disabled.
+Upon recovery, inspection of the data revealed the cause, and the data files were revised to reflect the correct DL and UL configuration.
+The initial data quality-checks suggest that the data are fine.
 
 In the second half of the cruise, the installed battery began to show extended charging times and low voltage, particularly after combined bio- and deep-casts.
 When it began to no longer reach ‘trickle-charge’ (~80%) between casts, it was deemed unusable and swapped for a spare battery.
@@ -89,8 +92,24 @@ However, despite reaching full charge consistently and quickly between casts, th
 
 A cabling adjustment before station 071 placed a bulk of coiled CTD wire adjacent to the UL, potentially problematic for the ADCP’s magnetic components, but does not appear to have affected data quality.
 
-Attempting to account for a lack of scatterers in the deep regions of the latter half of the cruise, the command files for both the DL and UL were adjusted (station 080) for larger depth bins (8 m changed to 10 m), less blanking distance (first bin changed to 4m), and lower ambiguity velocity (4 m/s changed to 2.5 m/s). The introduction of these adjustments may have led to the detection of cast intermittent wake effects, manifesting as a region of poor vertical velocity data around 3400 m, from the DL. After a further adjustment of the DL by 45° CCW (station 093), the issue was no longer detected, and profile quality is good for the remainder of the cruise.
+Attempting to account for a lack of scatterers in the deep regions of the latter half of the cruise, the command files for both the DL and UL were adjusted (station 080) for larger depth bins (8 m changed to 10 m), less blanking distance (first bin changed to 4m), and lower ambiguity velocity (4 m/s changed to 2.5 m/s).
+The introduction of these adjustments may have led to the detection of cast intermittent wake effects, manifesting as a region of poor vertical velocity data around 3400 m, from the DL.
+After a further adjustment of the DL by 45° CCW (station 093), the issue was no longer detected, and profile quality is good for the remainder of the cruise.
 
+Preliminary results
+-------------------
+
+Though not yet fully QC’d or processed, the horizontal and vertical velocity data show signs of expected mean currents (e.g. Kuroshio), regional eddies, and low-frequency (likely near-inertial, based on qualitative vertical wavelength), highly energetic internal waves near slope, and over seamount, topography.
+
+From vertical velocities, an estimate of vertical kinetic energy (VKE), and therefore turbulent dissipation (|eVKE|) can be made for each station profile.
+However, as there are both DL and UL data contributing to the vertical velocity profile, averaging to determine |eVKE| can be performed at different points in the process.
+Determining VKE from the final combined DL and UL vertical velocity profile results in ‘combination |eVKE|’, while first determining VKE from the individual DL and UL profiles and then combining the VKE profiles results in ‘DL & UL |eVKE|’.
+From the combined method, dissipation appears to increase near the surface and topography (Figure 2, upper), notably so near slopes and seamounts, exceeding :math:`\text{10}^{-9}` W :math:`\text{kg}^{-1}` in some cases.
+Away from topography, dissipation can recede to background values less than 10-11 W kg-1.
+By comparison, the latter method results in generally higher values of |eVKE| (Figure 2, lower), with less obvious features near topography and additional data gaps.
+Statistically, these assumptions are confirmed (Figure 3) – the combined method has a greater range of intensity, while the latter method trends toward its mean, higher than that of the combined method.
+The correlation between the two methods results is good, but there is an obvious difference at an r-value of 0.82.
+Further analysis will be required to decide which method is most appropriate.
 
 Figures
 -------
