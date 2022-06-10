@@ -36,7 +36,7 @@ One 300 KHz bi-directional Broadband LADCP (RDI) unit was mounted vertically on 
 Another 300 KHz bi-directional Broadband LADCP (RDI) unit was mounted vertically on the top side of the frame.
 The LADCP battery pack was also mounted on the bottom of the frame.
 The LADCP and LADCP battery pack were mounted near (90°) each other at the beginning of the cruise.
-Imagining the now of the ship to be north, the LADCP batter was mounted on the south side of the rosette, the up/down LADCPs were on the west side, the UVP on the east, and CTD mounted to the north.
+Imagining the now of the ship to be north, the LADCP battery was mounted on the south side of the rosette, the up/down LADCPs were on the west side, the UVP on the east, and CTD mounted to the north.
 
 .. tabularcolumns:: |l|l|l|l|l|l|
 
@@ -56,11 +56,11 @@ Imagining the now of the ship to be north, the LADCP batter was mounted on the s
 
   Package sensor setup from north.
 
-.. figure:: images/rosette/rosette_northeast_bottom.*
+.. figure:: images/rosette/rosette_northwest_bottom.*
 
   Package setup from southwest, from left to right: CTD cage, downward facing chipod, downward facing LADCP, transmissometer bar.
 
-.. figure:: images/rosette/rosette_southwest_bottom.*
+.. figure:: images/rosette/rosette_southeast_bottom.*
 
   Package setup from southwest, from left to right: (Foreground) ECO fluorometer, UVP, RINKO, altimeter.
 
