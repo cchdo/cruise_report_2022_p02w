@@ -1,7 +1,7 @@
 Preliminary Science Remarks
-================
+================================
 
-1. Kuroshio Large Meander
+Kuroshio Large Meander
 ---------------------------------------
 
 Unlike 1994, 2004, and 2013 P02 occupations, the Kuroshio during the occupation of leg 1 was in its Large Meander (LM) status rather than in the mode where it takes a “straight” path following the coastline of Japan.
@@ -23,7 +23,7 @@ BGC-float was deployed at Station 11 on May 6.
 
   SADCP-based surface (29 m to 61 m average) current velocities (arrows) and temperature (colormap) during the period of May 6th-7th (coming down the slope and turning eastward).
 
-2. Rough Topography: Izu-Ogasawara Ridge and the Mercury Seamount
+Rough Topography: Izu-Ogasawara Ridge and the Mercury Seamount
 ---------------------------------------------------------------------------------------------------
 
 In addition to repeating the previously occupied WOCE/CLIVAR stations, some stations in Leg-1 are intentionally adjusted to measure water properties near rough topography (Fig. 3: 018, 019, 073 on top of ridges/seamounts; 071, 072, 074 on the slopes).
@@ -45,7 +45,7 @@ Large :math:`\epsilon` are found above 1500 m at stations on top of ridges/seamo
 
     Horizontal velocities from LADCP measurements at the four stations (the 01 and 02 values after the station numbers enumerate the cast). (Image credit Shuwen Tan).
 
-3. EK-80 Remarks
+EK-80 Remarks
 ---------------------
 
 The Simrad EK-80 fisheries sonar (https://www.simrad.online/ek80/ref_en/default.htm) has been turned on during the deployment of both bio casts and core casts throughout the cruise.
@@ -58,7 +58,7 @@ The EK-data from the cruise will also be archived.
     Simrad EK-80 monitor output (x-axis is time, y-axis is depth) during Station 38 which had two casts on 1430-2030 May 15 (local time = UTC+11).
     The subpanels show results from different frequencies which translate into resolution of different depth ranges from left to right a) ES200 0-300, b) ES120 0-500, c) ES70 0 -1000, d) ES38 0-3000 and e) ES18 0-bottom. (Image Credit: UCSD Shipboard Technical Services).
 
-4. North Pacific Mode Water
+North Pacific Mode Water
 ----------------------------
 
 
@@ -91,7 +91,7 @@ We note that radiocesium isotopes originating from the Fukushima Dai-ichi Power 
     The pink vertical line indicates the longitude of the Japanese EEZ.
     (Image credit: Shuwen Tan).
 
-.. [Qui2021] Qiu, B., and Chen, S. (2021). Revisit of the Occurrence of the Kuroshio Large Meander South of Japan. Journal of Physical Oceanography 51, 12, 3679-3694
+.. [Qiu2021] Qiu, B., and Chen, S. (2021). Revisit of the Occurrence of the Kuroshio Large Meander South of Japan. Journal of Physical Oceanography 51, 12, 3679-3694
 
 .. [Tozer2019] Tozer, B, Sandwell, D. T., Smith, W. H. F., Olson, C., Beale, J. R., & Wessel, P. (2019). Global bathymetry and topography at 15 arc sec: SRTM15+. Earth and Space Science, 6, 1847. https://doi.org/10.1029/2019EA000658
 
