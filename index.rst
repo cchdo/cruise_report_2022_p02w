@@ -13,6 +13,7 @@ Cruise Report for the 2022 Reoccupation of P02W
 
    intro
    cruise_narrative
+   po_science
    rosette
    ctd_hydro_data_acq
    bottle_salt

@@ -1,21 +1,28 @@
 GO-SHIP P02 2022 Hydrographic Program
 ======================================
 
-Cruise Scientific Objectives
+Summary
 ----------------------------
 
-The P02W 2022 cruise aboard the UNOLS vessel R/V *Roger Revelle* was undertaken as part of the US GO-SHIP (Global Ocean Ship-based Hydrographic Investigations Program).
-The program's overall objective is to collect quasi-decadal, highly accurate, surface-to-bottom, coast-to-coast, physical, and chemical oceanic observations. 
-These measurements are essential to monitoring long-term changes in heat, freshwater, carbon, oxygen, and other tracers in the global ocean - the main reservoir in the Earth System. 
+The Leg 1 2022 reoccupation of the GO-SHIP P02 hydrographic line, RR2204 (Fig. 1) included 117 stations using a 36-bottle rosette: One station (Sta 1, 21.000°N, 140.050°E) along the transit from Guam at which core/bio measurements were acquired between 1500/1000 m and the surface in support of a GO-BGC Argo float deployment; A single underway HPLC sample in support of a second float deployment (Sta 2, 26.670°N, 137.080°E); full water column core sampling at 12 stations from 32.507°N, 133.030°E to 30.000°N, 134.860°E, and 103 stations eastward along  30°N to 198.786°E.
+Biology samples were obtained approximately every third station.
+In all, 10 GO-BGC floats were deployed - all (except the underway Sta 2 float) were supported by both core and bio sampling.
 
-The P02W transit follows the 30th parallel in the North Pacific.
-This year, the P02W worked from the coast of Japan to the Musician's Seamounts north of Hawaii, hugging as closely to 30°N as possible.
+.. figure:: images/narrative/Fig_1_p02w_2022_track_compl_ports_map_09-Jun-2022.*
 
+	Figure 1: Black crosses - for P02 2022 station locations; green crosses - stations that included bio-only bottles and/or casts, cyan asterisks - GO-BGC float deployments; purple dots - departure (Guam, Navy Base) and arrival (University of Hawaii Pier, Honolulu) ports; and blue shading - 1 minute Smith and Sandwell bathymetry.
+	
+The planned station spacing included very close spacing down the Japan coast and across the region of the Kuroshio its large loop and generally 30 nm spacing across the rest of the section.
+The delay at the start and a limited allowed time in the Japan EEZ led to a reduced number of stations in the west (9 vs. 15 coming south to 30°N, 23 vs. 33 in the Japan EEZ, and 46 vs. 59 west of 159°E where in 2022 30 nm spacing was resumed).
+The planned 131 stations were reduced to 117, but with fantastic weather and seas, Leg 1 finished only 1° west of the original longitudinal goal.
 
-In 2022, 148 CTD/LADCP/rosette/bio casts were performed between May 2 and June 8.
-116 complete casts were taken as full casts, including a suite of Niskin bottle sample analyses.
-32 casts were reserved for bio to collect large volumes of water.
-
+The rosette instruments included dual CTDs, one with oxygen (SBE43), a secondary separate RINKO oxygen sensor, fluorometer, transmissometer, upward and downward-looking LADCPs an underwater vision profiler (UVP), two upward-looking and one downward-looking Chi-POD.
+All 10 GO_BGC floats deployed had biochemical sensors.
+Along all transits, including those in Japanese waters, continuous underway shipboard multibeam bathymetry, TSG, met and pCO2 data were collected and a flow-through cytometer was run.
+The SADCP ran continuously.
+The EK-80 ran during each cast.
+There was also discrete underway sampling three times a day that included HPLC, POM, POC/N and DNA/RNA.
+Please see individual sections for further detail.
 
 Programs and Principal Investigators
 ------------------------------------
