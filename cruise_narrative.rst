@@ -107,3 +107,52 @@ Had another operator on a different cruise entered an event at the exact same ti
 E-logger was used consistently for the casts and for turning the EK-80 on and off during casts.
 There are a few entries for the bio-underway samples, but these were not maintained consistently.
 On the console log sheet, the event number was written as MMDD.HHMM without the year or 3-digit extension (neither of which changed over the course of the cruise).
+
+Sampling and Analysis Challenges
+--------------------------------
+
+While the details of the lab and rosette issues are described and/or listed in the individual sections of this report, a few of the most notable are listed here.
+
+Bullister 19 was a problem bottle.
+We found that it would trip but then find a balance point so it would not close.
+Then after various adjustments to the lanyard and raising it up, bottle 20 began periodically catching 19’s lanyard, so that 20 would not close properly.
+We made an effort to adjust so as to avoid large gaps over the three-station schema rotation. Still, it was frustrating as these two bottles tended to close at the oxygen minimum.
+
+The only truly notable data gap was when CFCs got behind for one two-day stint because of equipment failure (Sta 17-20 are missing CFC-11, CFC-12, |SF6| and |N2O|).
+There are two short gaps in the |pCO2| data set that were caused by first equipment issues and secondly electrical issues in the lab.
+Please see the |pCO2| section for discussion of the various water intakes on the Revelle and their associated temperatures (that go into the |pCO2| numbers).
+There is one full cast and 4 bio-casts where the transmissometer was purposely blacked out for calibration purposes.
+We lost one cast of UVP data due to corrosion and then a couple of others due to the battery’s inability to handle both a bio cast and full cast in quick succession.
+Later (after May 25) due to a software issue, the UVP data while still being collected, could no longer be downloaded.
+
+One particular misstep is noteworthy.
+In 2016, President Obama increased by presidential proclamation the footprint of the Papahanaumokuakea Marine National Monument to the seaward limit of the EEZ.
+However, this change appears to have never been updated in the current NOAA and Coast Pilot navigation charts used by the bridge or our UCSD personnel assisting us with clearance requests and permit.
+The net result was that while we thought we had closest point of approach of 90 nm, we instead occupied 16 stations, took numerous underway samples and other measurements and deployed float WMO# 5906516 within its boundaries.
+We were contacted by U.S. Fish & Wildlife Service National Wildlife Refuge System Division of Refuge Law Enforcement and after multiple conversations between them, Captain Galiher and the acting UCSD Marine Superintendent Eric Buck, and contact with the UCSD Port Captain Wes Hill, it was left as an “educational opportunity”.
+The captain will follow-up to make sure that this change and any others are updated into the charts they use.
+The next occupation of P02 will have to acquire a permit for sampling in this region.
+Such a permit should be possible as scientific research is allowed, though whether there will be any restrictions we cannot tell at this juncture.
+
+The cruise ended in Honolulu, Hawaii on June 10th, 2011, where the small amount deMOB activity occurred.
+All Leg 2 shipments also came aboard, ready for stowing.
+While crew turnover occurred on the 10th, most science party members stayed on the Revelle until June 11th for cross-over discussions with the members of the Leg-2 science party who were in quarantine in Honolulu and boarded on the 11th.
+
+Acknowledgements
+------------------
+We would like to thank the officers and crew of the R/V *Revelle* who have gone above and beyond to welcome us and support the science on this expedition.
+They have worked with us every step of the way from handling the repercussions of the 8-day delay in port to seeing us through to the middle of the North Pacific with speed, alacrity and accuracy.
+Their efforts have included:
+
+* Not just driving the ship (big thank you to the Bridge – to Captain Heather, for her care in bringing us onto station, to our 2nd Mate and Navigator Trey for his smooth sailing into station (and apparent joy at receiving new positions), and to Henry – whoa! and just how close are you to our specified position? Was that 3.1 cm?)
+* Great conversations on the bridge assisting us with our station plan and EEZ gymnastics, creating a “plankton” flag, your noontime reports to JCG, handling that misstep with a marine preserve and finding the quickest route home (thank you for our early morning chats, Trey and Captain Heather)
+* Running our winch through all hours of the day and night, providing some enjoyable radio chatter (thank you Bob, Joey, Jake, Feivel and Gomez; Gomez thank you too for the fantastic blog post and inspired artwork)
+* Feeding us outstanding cuisine – an amazing variety of soups, taco Tuesdays, Sunday dinners, always a vegetarian option or two or three, an array of birthday cakes, muffins and cookies, and crème brulée after our last full day of sampling – we can’t thank you enough Jay and Mark, and a great murmuring of thanks from the night-shift to Trey for bringing out 4 am delicacies.
+* Burning those pesky insect-ridden float boxes (thank you Joe and Fievel), your care use of chemical products Joe and for everything else required after the winch work took over your labor force.
+* Sorting out winch and wire challenges and fixing everything from the smallest detail to the greatest problems (the list is long here, big thank you to our res-techs Josh and Royhon, our Bosun Joe, our chief engineer Chance (love that bracket) and Harry as well as all the engineers for ship and equipment up and running).
+* Thank you to our Chief Mate Michael for wonderful stories and sound advice and to all the other friendly faces in the passageways and mess: Daryl, Delvin, Jeffrey, Brian, Pete, and Bobby.
+* Thanks to all of you from all of us for speeding us along so that we could sample the full line with minimal loss of data and have some fun while we were doing it.
+
+We would also like to recognize the tremendous assistance we received from Hannah Delapp at UCSD and Sasaki Eriko at MOFA with sorting out the initial Japan clearance request (MSR), and then Hannah along with Junko Nagahama at the State Dept for making the extension possible.
+Lastly co-chief sci, Shuwen and chief sci, Alison would like to thank Natalie Freeman (who, although chosen, was unable to sail as co-chief for Leg 2) for her assistance with model output software and sending us weather and current updates, as well as Andreas Thurnherr, chief sci for Leg 2 for the fantastic pre-cruise discussion and collaboration.
+Best of good fortune, calm winds and following seas to Leg 2.
