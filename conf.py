@@ -262,6 +262,8 @@ latex_appendices = [
 
 subs = {
     "CRS": "P02W-2022",
+    "CHIEFSCI": "Alison Macdonald",
+    "COCHIEFSCI": "Shuwen Tan",
     "FIRST_STA": "1",
     "LAST_STA": "117",
     "NSTA": "117",  #   Number of stations
@@ -291,9 +293,14 @@ subs = {
     "NO2-": "NO\ :sub:`2`\ :sup:`-`",
     "NH4+": "NH\ :sub:`4`\ :sup:`+`",
     "NH4": "NH\ :sub:`4`",
+    "NH4Cl": "NH\ :sub:`4`\ Cl",
+    "CuSO4": "CuSO\ :sub:`4`",
+    "H2SO4": "H\ :sub:`2`\ SO\ :sub:`4`",
+    "Na2SiF6": "Na\ :sub:`2`\ SiF\ :sub:`6`",
+    "NaNO2": "NaNO\ :sub:`2`",
+    "KNO3": "KNO\ :sub:`3`",
+    "KH2PO4": "KH\ :sub:`2`\ PO\ :sub:`4`",
     "PO4": "PO\ :sub:`4`",
-    "CHIEFSCI": "Alison Macdonald",
-    "COCHIEFSCI": "Shuwen Tan",
     "O2": "O\ :sub:`2`",
     "CO2": "CO\ :sub:`2`",
     "OH-": "OH\ :sup:`-`",

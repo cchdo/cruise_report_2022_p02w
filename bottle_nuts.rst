@@ -18,7 +18,7 @@ Equipment and Techniques
 ------------------------
 Nutrient analyses (phosphate, silicate, nitrate+nitrite, and nitrite) were performed on a Seal Analytical continuous-flow AutoAnalyzer 3 (AA3).
 The methods used are described by Gordon et al [Gordon1992]_ Hager et al. [Hager1972]_, and Atlas et al. [Atlas1971]_.
-Details of modification of analytical methods used in this cruise are also compatible with the methods described in the nutrient section of the updated GO-SHIP repeat hydrography manual (Becker et al., 2019, [Becker 2019]_.
+Details of modification of analytical methods used in this cruise are also compatible with the methods described in the nutrient section of the updated GO-SHIP repeat hydrography manual (Becker et al., 2019, [Becker2019]_).
 
 Nitrate/Nitrite Analysis
 ------------------------
@@ -46,17 +46,17 @@ N-(1-Naphthyl)-ethylenediamine dihydrochloride (N-1-N)
 Imidazole Buffer
   Dissolve 13.6g imidazole in ~3.8 liters DIW.
   Stir for at least 30 minutes to completely dissolve.
-  Add 60 ml of CuSO4 + NH4Cl mix (see below).
+  Add 60 ml of |CuSO4| + |NH4Cl| mix (see below).
   Add 4 drops 40% Surfynol 465/485 surfactant.
   Let sit overnight before proceeding.
   Using a calibrated pH meter, adjust to pH of 7.83-7.85 with 10% (1.2N) HCl (about 10 ml of acid, depending on exact strength).
   Bring final solution to 4L with DIW.
   Store at room temperature.
 
-NH4Cl + CuSO4 mix
+|NH4Cl| + |CuSO4| mix
   Dissolve 2g cupric sulfate in DIW, bring to 100 m1 volume (2%).
   Dissolve 250g ammonium chloride in DIW, bring to 1l liter volume.
-  Add 5ml of 2% CuSO4 solution to this NH4Cl stock.
+  Add 5ml of 2% |CuSO4| solution to this |NH4Cl| stock.
   This should last many months.
 
 
@@ -68,9 +68,9 @@ The sample was passed through a 10mm flowcell and absorbance measured at 820nm.
 
 **REAGENTS**
 
-Ammonium Molybdate H2SO4 sol'n
+Ammonium Molybdate |H2SO4| sol'n
   Pour 420 ml of DIW into a 2 liter Ehrlenmeyer flask or beaker, place this flask or beaker into an ice bath.
-  SLOWLY add 330 ml of conc H2SO4.
+  SLOWLY add 330 ml of conc |H2SO4|.
   This solution gets VERY HOT!!
   Cool in the ice bath.
   Make up as much as necessary in the above proportions.
@@ -97,8 +97,8 @@ Tartaric Acid
   Store at room temperature in a poly bottle.
 
 Ammonium Molybdate
-  Dissolve 10.8g Ammonium Molybdate Tetrahydrate in 1000ml dilute H2SO4.
-  (Dilute H2SO4 = 2.8ml conc H2SO4  or 6.4ml of H2SO4 diluted for PO4 moly per liter DW) (dissolve powder, then add H2SO4)
+  Dissolve 10.8g Ammonium Molybdate Tetrahydrate in 1000ml dilute |H2SO4|.
+  (Dilute |H2SO4| = 2.8ml conc |H2SO4|  or 6.4ml of |H2SO4| diluted for |PO4| moly per liter DW) (dissolve powder, then add |H2SO4|)
   Add 3-5 drops 15% SDS surfactant per liter of solution.
 
 Stannous Chloride
@@ -132,7 +132,7 @@ That text file was reviewed for possible problems and then converted to another 
 
 Standards and Glassware Calibration
 -----------------------------------
-Primary standards for silicate (Na2SiF6), nitrate (KNO3), nitrite (NaNO2), and phosphate (KH2PO4) were obtained from Johnson Matthey Chemical Co. and/or Fisher Scientific.
+Primary standards for silicate (|Na2SiF6|), nitrate (|KNO3|), nitrite (|NaNO2|), and phosphate (|KH2PO4|) were obtained from Johnson Matthey Chemical Co. and/or Fisher Scientific.
 The supplier reports purities of >98%, 99.999%, 97%, and 99.999 respectively.
 
 All glass volumetric flasks and pipettes were gravimetrically calibrated prior to the cruise.
@@ -183,7 +183,7 @@ Accuracy is based on the quality of the standards the levels are:
 
 
 Reference materials for nutrients in seawater (RMNS) were used as a check sample run with every station.
-The RMNS preparation, verification, and suggested protocol for use of the material are described by [Aoyama2006]_ [Aoyama2007]_, [Aoyama2008]_, Sato [Sato2010]_ and Becker et al. [Becker 2019].
+The RMNS preparation, verification, and suggested protocol for use of the material are described by [Aoyama2006]_ [Aoyama2007]_, [Aoyama2008]_, Sato [Sato2010]_ and Becker et al. [Becker2019]_.
 RMNS batch CM was used on this cruise, with each bottle being used for all runs in one day before being discarded and a new one opened.
 Data are tabulated below.
 
@@ -216,7 +216,7 @@ The adjusted data for affected stations was compared to adjacent stations and hi
 
 .. [Aoyama2008] Aoyama M., J. Barwell-Clarke, S. Becker, M. Blum, Braga E. S., S. C. Coverly,E. Czobik, I. Dahllof, M. H. Dai, G. O. Donnell, C. Engelke, G. C. Gong, Gi-Hoon Hong, D. J. Hydes, M. M. Jin, H. Kasai, R. Kerouel, Y. Kiyomono, M. Knockaert, N. Kress, K. A. Krogslund, M. Kumagai, S. Leterme, Yarong Li, S. Masuda, T. Miyao, T. Moutin, A. Murata, N. Nagai, G.Nausch, M. K. Ngirchechol, A. Nybakk, H. Ogawa, J. van Ooijen, H. Ota, J. M. Pan, C. Payne, O. Pierre-Duplessix, M. Pujo-Pay, T. Raabe, K. Saito, K. Sato, C. Schmidt, M. Schuett, T. M. Shammon, J. Sun, T. Tanhua, L. White, E.M.S. Woodward, P. Worsfold, P. Yeats, T. Yoshimura, A.Youenou, J. Z. Zhang, 2008: 2006 Intercomparison Exercise for Reference Material for Nutrients in Seawater in a Seawater Matrix, Technical Reports of the Meteorological Research Institute No. 58, 104pp.
 
-.. [Becker 2019] Becker, S., Aoyama M., Woodward M., Baaker, K., Covery, S., Mahaffey, C., Tanhua, T., "GO-SHIP Repeat Hydrography Nutrient Manual, 2019: The Precise and accurate determination of dissololved inorganic nutrients in seawater;Continuos Flow Analysis methods.  Ocean Best Practices, August 2019: https://urldefense.com/v3/__http://dx.doi.org/10.25607/OBP-555__;!!Mih3wA!HQm_gL3CC-LfsbwDhuhKW7X13Z8VkILhGT-hiqx2BKK-sYc0kikIOmpm8-3jxBM0slDZa4W0biv9jg$ 
+.. [Becker2019] Becker, S., Aoyama M., Woodward M., Baaker, K., Covery, S., Mahaffey, C., Tanhua, T., "GO-SHIP Repeat Hydrography Nutrient Manual, 2019: The Precise and accurate determination of dissololved inorganic nutrients in seawater;Continuos Flow Analysis methods.  Ocean Best Practices, August 2019.
 
 .. [Bernhardt1967] Bernhardt, H., and  Wilhelms, A., "The continuous determination of low level iron, soluble phosphate and total phosphate with the AutoAnalyzer," Technicon Symposia, I,pp.385-389 (1967).
 
