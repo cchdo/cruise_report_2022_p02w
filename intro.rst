@@ -4,7 +4,7 @@ GO-SHIP P02 2022 Hydrographic Program
 Summary
 ----------------------------
 
-The Leg 1 2022 reoccupation of the GO-SHIP P02 hydrographic line, RR2204 (Fig. 1) included 117 stations using a 36-bottle rosette: One station (Sta 1, 21.000°N, 140.050°E) along the transit from Guam at which core/bio measurements were acquired between 1500/1000 m and the surface in support of a GO-BGC Argo float deployment; A single underway HPLC sample in support of a second float deployment (Sta 2, 26.670°N, 137.080°E); full water column core sampling at 12 stations from 32.507°N, 133.030°E to 30.000°N, 134.860°E, and 103 stations eastward along  30°N to 198.786°E.
+The Leg 1 2022 reoccupation of the GO-SHIP P02 hydrographic line, RR2204 (Fig. 1) included 117 stations using a 36-bottle rosette: One station (Sta 1, 21.000°N, 140.050°E) along the transit from Guam at which core/bio [1]_ measurements were acquired between 1500/1000 m and the surface in support of a GO-BGC Argo float deployment; A single underway HPLC sample in support of a second float deployment (Sta 2, 26.670°N, 137.080°E); full water column core sampling at 12 stations from 32.507°N, 133.030°E to 30.000°N, 134.860°E, and 103 stations eastward along  30°N to 198.786°E.
 Biology samples were obtained approximately every third station.
 In all, 10 GO-BGC floats were deployed - all (except the underway Sta 2 float) were supported by both core and bio sampling.
 
@@ -41,3 +41,5 @@ Science Team and Responsibilities
 .. csv-table::
   :header-rows: 1
   :file: scienceparty.csv
+
+.. [1] Throughout “core” refers to the regular (GO-SHIP levels 1-2) sampling and “bio” refers to the biology sampling performed by the Bio GO-SHIP team. See Bio section of this report for the details on the bio sampling. 
