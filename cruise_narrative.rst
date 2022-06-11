@@ -1,94 +1,40 @@
 Cruise Narrative
 ================
 
-1. Kuroshio Large Meander
----------------------------------------
+The 2022 re-occupation of P02 along 30°N in the Pacific was defined by a week-long delay, a quick start, a well-defined crossing of the Kuroshio and then its large loop, deep western casts including the Izu-Ogasawara Trench, and except for one post-Kuroshio wire re-termination, supported by a nearly continuous spell of calm weather and seas, no interruption to routine deployments and recoveries.
+Technical difficulties were generally minimal and short lived.
 
-Unlike 1994, 2004, and 2013 P02 occupations, the Kuroshio during the occupation of leg 1 was in its Large Meander (LM) status rather than in the mode where it takes a “straight” path following the coastline of Japan.
-This Large Meander event started at the beginning of 2018 and still exists today (10th June 2022).
-This makes it the longest-lasting event in the eight LM events that have taken place since 1950, i.e., at least 4 years compared to a typical 1 to 2-year lifespan ([Qui2021]_).
-We were able to visualize the Kuroshio LM live thanks to the Ship-board ADCP (SADCP) and the vector plot that were updated every 5 mins.
-Qiu and Chen (2021) suggest that the persistence of Kuroshio LM is due to a constant feed of intense anticyclonic eddies shed from the Subtropical Countercurrent.
-During the period of Kuroshio-related occupation (May 4 to 7 UTC), an anti-cyclonic eddy located west of the Kuroshio LM was recognized in the Copernicus model data being sent to those on board and Stations 9-12 (May 6) were able to sample the northeastern edge of that eddy (see in Fig.1 and near the waypoint in Fig. 2).
-BGC-Float was deployed at Station 11 on May 6.
+Quarantine, Delay and Transit
+--------------------------------------
 
-.. figure:: images/narrative/123_os150nb_shallow.png
+Most of the science party arrived in Guam by evening of April 9, glad to have the 20+ hours of masked flying time over.
+One person was unable to come due to a last-minute family emergency.
+A series of fortunate events led us to an eager young marine biologist from the University of Guam, who was willing to drop everything to join our Bio GO-SHIP team in the P02 pilot project that would include both bio-only casts and multiple underway measurements.
+We settled into quarantine by noon on the 11th.
+Amazingly, we managed to get 90% of our assorted multi-disciplinary/institutional/generational group to book rooms in the same hotel.
+This has allowed us (our co-chief Shuwen Tan did all the leg work) to set up group PCR testing prior to boarding without the necessity of leaving the hotel.
 
-  SADCP-based surface (29 m to 61 m average) current velocities (arrows) and temperature (colormap) during the period of May 3th-4th.
-  Dark red arrows north of 31.2°N and near 137°E indicate the warm and rapid Kuroshio and its deviation from the coastline.
-  (Source: UHDAS 5-mins surface vector plot, University of Hawaii UHDAS system, https://currents.soest.hawaii.edu/uhdas_fromships.html)
+Most of the pre-cruise logistical issues revolved around a lack of cargo flights from Honolulu the week prior to our load.
+While most were sorted out prior to the original departure date (April 22), part of the CFC shipment was delayed until the day before our final departure of April 30).
 
-.. figure:: images/narrative/126_os150nb_shallow.png
+One item of note is that on one of the cruises out Guam earlier this year a rosette was lost.
+However, after a thorough investigation and the setting up of new protocols and safety features, we were confident that our GO-SHIP 36-bottle rosette would not suffer the same fate. 
 
-  SADCP-based surface (29 m to 61 m average) current velocities (arrows) and temperature (colormap) during the period of May 6th-7th.
+While in quarantine we continued to follow the behavior of the Kuroshio as this would affect our final station plan (Fig. 1).
+We held daily virtual meetings with the students and held non-required all-hands meetings (check in was required).
+Our student led GO-SHIP/GO-BGC blog (can be accessed through either https://usgoship.ucsd.edu/blogs/ or https://www.go-bgc.org/expedition/north-pacific-2022/) and weekly reports (https://usgoship.ucsd.edu/2022/04/16/weekly-reports-from-2022-p02-leg-1/) were started.
 
-2. Rough Topography: Izu-Ogasawara Ridge and the Mercury Seamount
----------------------------------------------------------------------------------------------------
+.. figure:: images/narrative/Fig_2_copernicus_SPD_p02_2022_trk_v8_stan2_2022-05-07.jpeg
 
-In addition to repeating the previously occupied WOCE/CLIVAR stations, some stations in Leg-1 are intentionally adjusted to measure water properties near rough topography (Fig. 3: 018, 019, 073 on top of ridges/seamounts; 071, 072, 074 on the slope).
-From LADCP data alone (preliminary results from Kurtis Anstey and interpretation by Andreas Thurnherr), we are excited to report prominent internal wave signals and features in turbulent dissipation rates (:math:`\epsilon`) that appear to be associated with rough topography.
-The former can be visualized from the periodic horizontal velocities throughout the water column (Fig. 4).
-Large :math:`\epsilon` are found above 1500 m at stations on top of ridges/seamounts and bottom-intensified :math:`\epsilon` are found on the slope of the seamount (station 072).
+    The western end of the planned 2022 P02 track.
+    Symbols represent station locations: Full-depth casts (red circles), with Bio 1000 m casts (red crosses), with GO-BGC float deployments (red "x"s).
+    The green star represents the location of Station 11.
+    Arrows represent the estimate of surface velocity from the Copernicus physical model for 5/07/22 12:00 UTC, the color shading indicates the amplitude of the surface velocity.
 
-.. figure:: images/narrative/SRTM15_P02_0519_sta17.*
+After 7 days in COVID quarantine (April 11-17), the science party boarded the R/V Revelle for MOB (April 18-22) with the intention of departing on April 22 at 16:00 (local, 10 hours ahead of UTC).
+However, due to the ship's inability to hire a key member of the engineering department, the ship did not depart until 10:00 (local) on April 30th.
+As we could not leave the ship, our time was well spent setting up and for the students, learning about the equipment, waiting and dealing with the shipment delays, creating a new bracket for the ODF rosette so that the upward-looking LADCP could sit above the bottles and not be crushed by the CAST-6 (Fig. 2), and decorating the floats for schools which had adopted them.
+The R/V Revelle left the dock at 10:00 (local) on April 30.
+Once out of the Navy Harbor, we picked up two of our science party (who had not been able to gain access to the Navy Base) via launch before heading out into open waters.
 
-    Map of station locations over the western part of the Izu-Ogasawara Ridge overlaid on the SRTM 15 arcsecond bathymetry profiles of the turbulent kinetic energy dissipation rate ([Tozer2019]_).
-
-.. figure:: images/narrative/SRTM15_P02_0519_sta72.*
-
-    Map of station locations near the Mercury Seamount located northwest of the Hawaiian Ridge overlaid on the SRTM 15 arcsecond bathymetry profiles of the turbulent kinetic energy dissipation rate ([Tozer2019]_).
-
-.. figure:: images/narrative/ladcp_seamount_uv.*
-
-.. figure:: images/narrative/ladcp_seamount_VKE.*
-
-    Horizontal velocities from LADCP measurements at the four stations (the 01 and 02 values after the station numbers enumerate the cast). (Image credit Shuwen Tan).
-
-3. EK-80 Remarks
----------------------
-
-EK-80 fisheries sonar has been turned on during the deployment of both bio casts and core casts throughout the cruise.
-Thanks to the real-time display, identifying and interpreting interesting features has become a source of great interest for many in the computer lab.
-Fascinating features including Kelvin-Helmholtz billows (Fig. 3), internal waves at the thermocline, internal waves in the wake of the ship, and possibly(?) a whale with babies were identified and archived as screenshots.
-The EK-data from the cruise will also be archived.
-
-.. figure:: images/narrative/D20220515_T061122_Image.*
-
-    EK-80 monitor output (x-axis is time, y-axis is depth) during Station 38 which had two casts on 1430-2030 May 15 (local time = UTC+11).
-    The subpanels show results from different frequencies which translate into resolution of different depth ranges from left to right a) ES200 0-300, b) ES120 0-500, c) ES70 0 -1000, d) ES38 0-3000 and e) ES18 0-bottom.
-
-4. North Pacific Mode Water
-----------------------------
-
-North Pacific Subtropical Mode Water (NPSTMW) is formed to the east/south of Kuroshio/Kuroshio Extension in the late winter and early spring.
-Subducted, it tends eastward, and like all mode waters is well mixed and is therefore recognizable by its low potential vorticity (see band of purple to blue colors centered at about 200 m in Fig. 5).
-In the North Pacific, there is an Eastern Subtropical Mode Water as well.
-With overlapping characteristics, the two are distinguished as existing to the east and west of the date line (180° longitude lies almost directly under the “o” in the title word “Vorticity”).
-NPSTMW is only one of several mode waters formed in the northwestern Pacific which is an area rich frontal zones and meteorology conducive to mode water formation.
-Here one can see the high PV in the region of the Kuroshio and its meander reaching down to 600-700 m.
-The latter is particularly strong in 2022 (upper panel, see Section 1 above discussion the meander dynamics).
-In both years, NPSTMW reaches to about 400 m, the expected depth of winter mixing according to the literature, and as expected.
-These waters rise as they cross the basin eastward.
-That said, the character of the NPSTMW layer as well as the water above seem different in the two occupations.
-While this may be an actual difference, it seems likely that the low 2013 station spacing (even lower than in 2012) may be playing a role in creating this apparent difference.
-Time of year may also be a factor as the 2022 occupation began nearly a full month later at a sensitive time of year for this water mass.
-We note that radiocesium isotopes originating from the Fukushima Dai-ichi Power Plants and measured on the 2013 occupation suggest that the NPSTMW at 161°E (~ 2700 km) is no more that 2 years old ([Yoshida2015]_).
-
-.. figure:: images/narrative/P02_2022_2013_PV.*
-
-    Potential Vorticity (units :math:`\text{10}^{-12}` :math:`\text{m}^{-1}` :math:`\text{s}^{-1}`) sections for the upper thousand meters for 2022 stations 3-117 (upper panel) and the station covering the same distance (6067 km) from the first station for the 2013 occupation (middle panel).
-    The lower panel illustrates the 2022 stations included.
-    (Image created using Web Ocean Data View 5.4.5, web server 28)
-
-.. figure:: images/narrative/Fig_4_bottle_schema_133_200.*
-
-    Along-track bathymetry and occupied stations (numbered vertical lines, Leg 1, 1-117).
-    Depths of tripped bottles and unfired/leaked/unclosed bottled are indicated in blue crosses and red circles, respectively.
-    The pink vertical line indicates the longitude of the Japanese EEZ.
-    (Image credit: Shuwen Tan).
-
-.. [Qui2021] Qiu, B., and Chen, S. (2021). Revisit of the Occurrence of the Kuroshio Large Meander South of Japan. Journal of Physical Oceanography 51, 12, 3679-3694
-
-.. [Tozer2019] Tozer, B, Sandwell, D. T., Smith, W. H. F., Olson, C., Beale, J. R., & Wessel, P. (2019). Global bathymetry and topography at 15 arc sec: SRTM15+. Earth and Space Science, 6, 1847. https://doi.org/10.1029/2019EA000658
-
-.. [Yoshida2015] Yoshida, S., A. M. Macdonald, S. R. Jayne, I. I. Rypina and K. O. Buesseler (2015) Observed eastward progression of the Fukushima 134Cs signal across the North Pacific, GRL, doi: 10.1002/2015GL065259.
+.. figure:: images/narrative/Fig_3_New_Bracket.*
