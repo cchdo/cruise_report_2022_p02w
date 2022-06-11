@@ -20,9 +20,11 @@ While most were sorted out prior to the original departure date (April 22), part
 One item of note is that on one of the cruises out Guam earlier this year a rosette was lost.
 However, after a thorough investigation and the setting up of new protocols and safety features, we were confident that our GO-SHIP 36-bottle rosette would not suffer the same fate. 
 
-While in quarantine we continued to follow the behavior of the Kuroshio as this would affect our final station plan (Fig. 1).
+While in quarantine we continued to follow the behavior of the Kuroshio as this would affect our final station plan (:ref:`Fig. 1<Fig1_narrative>`).
 We held daily virtual meetings with the students and held non-required all-hands meetings (check in was required).
 Our student led GO-SHIP/GO-BGC blog (can be accessed through either https://usgoship.ucsd.edu/blogs/ or https://www.go-bgc.org/expedition/north-pacific-2022/) and weekly reports (https://usgoship.ucsd.edu/2022/04/16/weekly-reports-from-2022-p02-leg-1/) were started.
+
+.. _Fig1_narrative:
 
 .. figure:: images/narrative/Fig_2_copernicus_SPD_p02_2022_trk_v8_stan2_2022-05-07.jpeg
 
@@ -33,9 +35,11 @@ Our student led GO-SHIP/GO-BGC blog (can be accessed through either https://usgo
 
 After 7 days in COVID quarantine (April 11-17), the science party boarded the R/V Revelle for MOB (April 18-22) with the intention of departing on April 22 at 16:00 (local, 10 hours ahead of UTC).
 However, due to the ship's inability to hire a key member of the engineering department, the ship did not depart until 10:00 (local) on April 30th.
-As we could not leave the ship, our time was well spent setting up and for the students, learning about the equipment, waiting and dealing with the shipment delays, creating a new bracket for the ODF rosette so that the upward-looking LADCP could sit above the bottles and not be crushed by the CAST-6 (Fig. 2), and decorating the floats for schools which had adopted them.
+As we could not leave the ship, our time was well spent setting up and for the students, learning about the equipment, waiting and dealing with the shipment delays, creating a new bracket for the ODF rosette so that the upward-looking LADCP could sit above the bottles and not be crushed by the CAST-6 (:ref:`Fig. 2<Fig2_narrative>`), and decorating the floats for schools which had adopted them.
 The R/V Revelle left the dock at 10:00 (local) on April 30.
 Once out of the Navy Harbor, we picked up two of our science party (who had not been able to gain access to the Navy Base) via launch before heading out into open waters.
+
+.. _Fig2_narrative:
 
 .. figure:: images/narrative/Fig_3_New_Bracket.*
 
@@ -89,7 +93,9 @@ Near the bottom the schema were manually manipulated to avoid gaps due to extrem
 Particularly near the bottom, it is not necessary to be overly concerned about hitting these depths exactly so unless the wire out is significantly different from the CTD depth, it can be used as the target.
 Closer to the surface where bottle trips are more narrowly spaced, correcting the target wire out to get the desired target depth can be beneficial to the overall consistency, but being off by a meter or two at 100 m is irrelevant.
 Surface bottle depth was defined by the res-tech on duty who would bring the rosette up to the “surface” for the last bottle trip.
-The goal is to cover the water column, not measure a specific set of depths (Fig. 3).
+The goal is to cover the water column, not measure a specific set of depths (:ref:`Fig. 3<Fig3_narrative>`).
+
+.. _Fig3_narrative:
 
 .. figure:: images/narrative/Fig_4_bottle_schema_133_200.*
 
@@ -120,7 +126,7 @@ We made an effort to adjust so as to avoid large gaps over the three-station sch
 
 The only truly notable data gap was when CFCs got behind for one two-day stint because of equipment failure (Sta 17-20 are missing CFC-11, CFC-12, |SF6| and |N2O|).
 There are two short gaps in the |pCO2| data set that were caused by first equipment issues and secondly electrical issues in the lab.
-Please see the |pCO2| section for discussion of the various water intakes on the Revelle and their associated temperatures (that go into the |pCO2| numbers).
+Please see the :ref:`pCO2 section<pCO2>` for discussion of the various water intakes on the *Revelle* and their associated temperatures (that go into the |pCO2| numbers).
 There is one full cast and 4 bio-casts where the transmissometer was purposely blacked out for calibration purposes.
 We lost one cast of UVP data due to corrosion and then a couple of others due to the battery’s inability to handle both a bio cast and full cast in quick succession.
 Later (after May 25) due to a software issue, the UVP data while still being collected, could no longer be downloaded.
