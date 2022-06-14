@@ -16,15 +16,15 @@ S/N 57-526 was used for all salinity measurements during this cruise.
 The salinity analysis was run in the ship's Climate Controlled Chamber, a refrigerator port and amidships between the Computer Lab and Bioanalytical Lab. 
 The chamber temperature varied between about 21 and 25 degrees Celcius around 3 times each hour, with an average (based on measuring temperatures of items in the chamber) of about 23°C.
 
-Both instruments were serviced prior to the cruise by their respective institutions and shipped to WHOI with other equipment in March.
 IAPSO Standard Seawater Batch P-165 was used for all calibrations: K15 = 0.99986, salinity 34.994, expiration 2024-04-15.
 A LabView program developed by Carl Mattson was used for monitoring temperatures, logging data and prompting the operator.
 Salinity analyses were performed after samples had equilibrated to laboratory temperature of 23°C, usually 8 hours or more after collection.
+Samples were placed under fans to speed their acclimatization to the set room temperature.
 
 The salinometer was standardized for each group of samples analyzed (normally 1 or 2 casts, up to 72 samples) using two bottles of standard seawater: one at the beginning and one at the end of each set of measurements.
 For each calibration standard and sample reading, the salinometer cell was initially flushed at least 2 times before a set of conductivity ratio readings was recorded.
 Standardization conductivity offsets did not exceed 0.00005 mS/cm for all casts.
-Between runs the water from the last standard was left in the cell. 
+Between runs the water from the last standard was left in the cell.
 
 
 Sampling and Data Processing
@@ -41,10 +41,10 @@ The corrected salinity data was then incorporated into the cruise database.
 
 Narrative
 ---------
-Due to ambient electrical noise, the 8400A Autosal was used over the 8400B Autosal.
-3955 salinity samples were taken during the cruise, including 22 samples from test cast 00102.
+3955 salinity samples were taken during |CRS|, including 22 samples from test cast 00102.
+Due to ambient electrical noise, the 8400A Autosal was used over the 8400B Autosal for all samples and practice.
 8 samples were used for practice prior to arrival at the test station and are not reported.
-One sample bottle (#2) was broken and replacd during sampling, but the cast was not recorded.
+One sample bottle (#2) was broken and replaced during sampling, but the cast number was not recorded.
 One sample bottle (#34) was broken and replaced during sampling of cast 05701.
 
 .. [UNESCO1981] UNESCO 1981. Background papers and supporting data on the Practical Salinity Scale, 1978. UNESCO Technical Papers in Marine Science, No. 37 144.

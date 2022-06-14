@@ -60,12 +60,12 @@ The accuracy of the DICE measurement is determined with the use of standards, Ce
 The CRM accuracy is determined manometrically on land in San Diego and the DIC data reported have been corrected to batches 188 and 199 CRM values.
 Batch 188 was used for the first 23 stations and batch 199 for the next 84, followed by batch 200 for the final 9 stations.
 The CRM certified value for batch 188 is 2099.26 µmol :math:`\text{kg}^{-1}` and for 199 is 2021.66 µmol :math:`\text{kg}^{-1}` and for 200 is 2022.46 µmol :math:`\text{kg}^{-1}`.
-The summary table :math:`\text{below}^1` lists information for the CRMs.
+The summary table below (table 1) lists information for the CRMs.
 
 The precision of the two DICE systems can be demonstrated via the replicate samples.
 Approximately 10% of the niskins sampled were duplicates taken as a check of our precision.
 These replicate samples were interspersed throughout the station analysis for quality assurance and integrity of the coulometer cell solutions.
-The average absolute difference from the mean of these replicates is 0.82 µmol :math:`\text{kg}^{-1}`; No systematic differences between the replicates were :math:`\text{observed}^2`.
+The average absolute difference from the mean of these replicates is 0.82 µmol :math:`\text{kg}^{-1}`; No systematic differences between the replicates were observed (table 2).
 
 Instrument Repairs
 ------------------
@@ -100,14 +100,6 @@ The DIC data reported to the database directly from the ship are to be considere
 
 Calibration data during this cruise:
 
-+--------+-----------------------------+----------------+----------+
-| SYSTEM | Average Gas Loop Cal Factor | Pipette Volume | Observed |
-+========+=============================+================+==========+
-| PMEL1  | 1.00547                     | 27.571 ml      | 0.77     |
-+--------+-----------------------------+----------------+----------+
-| PMEL2  | 1.00340                     | 26.363 ml      | 0.87     |
-+--------+-----------------------------+----------------+----------+
-
 +---------------+------------------------+------------------------+
 | CRM Info      | PMEL1                  | PMEL2                  |
 +---------------+---------+----+---------+---------+----+---------+
@@ -119,6 +111,15 @@ Calibration data during this cruise:
 +---------------+---------+----+---------+---------+----+---------+
 | 200 - 2022.46 | 2022.10 | 5  | 0.66    | 2022.50 | 5  | 0.87    |
 +---------------+---------+----+---------+---------+----+---------+
+
++--------+-----------------------------+----------------+----------+
+| SYSTEM | Average Gas Loop Cal Factor | Pipette Volume | Observed |
++========+=============================+================+==========+
+| PMEL1  | 1.00547                     | 27.571 ml      | 0.77     |
++--------+-----------------------------+----------------+----------+
+| PMEL2  | 1.00340                     | 26.363 ml      | 0.87     |
++--------+-----------------------------+----------------+----------+
+
 
 .. 
     [DOE1994] DOE (U.S. Department of Energy). (1994). *Handbook of Methods for the Analysis of

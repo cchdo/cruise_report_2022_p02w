@@ -19,7 +19,7 @@ Up to 8L of seawater was collected into a plastic cubitainer and filtered immedi
 Water was filtered through a Sterivex 0.22 µm filter using a peristaltic pump at a low speed.
 Once all water is pumped through the Sterivex cartridge, one end is sealed with Crito-seal putty.
 1620 µL of sterile lysis buffer is pipetted into the filter cartridge and the other end is sealed with a luer-lok cap.
-The filter is placed in a separate Ziplok bag and preserved frozen at -80C until shipment to the Adam Martiny lab at UC Irvine for further analysis.
+The filter is placed in a separate Ziplok bag and preserved frozen at -80°C until shipment to the Adam Martiny lab at UC Irvine for further analysis.
 Final filtration volume was recorded for all samples.
 Gloves were worn during all steps, and were also used by all samplers at the rosette.  
 
@@ -40,7 +40,7 @@ Each sample passed through a GF/F filter (nominal pore size 0.7 µm).
 An aspirator pump was used to pull water through the filters at a vacuum setting of -0.06 to -0.08 MPa.
 Nine carboys were filled with 3-8L of water (volume biomass-dependent) and designated as follows:
 3x POP, 3x POC/PON, 3x PCOD.
-POP filters were rinsed with 5mL of 0.017M Na2SO4 to remove traces of dissolved organic phosphorous at the end of filtration.
+POP filters were rinsed with 5mL of 0.017M |Na2SO4| to remove traces of dissolved organic phosphorous at the end of filtration.
 PCOD filters were rinsed with 5ml of Milli-Q water to remove excess salt at the end of filtration.
 Filters were folded and stored frozen at -80°C in pre-combusted foil squares. 
 
@@ -96,5 +96,5 @@ Single samples were collected when using the underway and eight samples at uniqu
 Samples were collected in a 50ml tinted falcon tube, with 1.8ml being extracted and put into a 2ml cryovial.
 In a fumehood, 18 µL of a preservation mixture (50/50 of 25% Glutaraldehyde and 2% Kolliphor) are added to the sample.
 The sample is inverted several times and allowed to sit for 10 minutes.
-After the 10 minutes the samples are flash frozen in liquid nitrogen and finally stored in a -80C freezer. 
+After the 10 minutes the samples are flash frozen in liquid nitrogen and finally stored in a -80°C freezer. 
 

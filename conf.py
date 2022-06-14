@@ -297,6 +297,7 @@ subs = {
     "CuSO4": "CuSO\ :sub:`4`",
     "H2SO4": "H\ :sub:`2`\ SO\ :sub:`4`",
     "Na2SiF6": "Na\ :sub:`2`\ SiF\ :sub:`6`",
+    "Na2SO4": "Na\ :sub:`2`\ SO\ :sub:`4`",
     "NaNO2": "NaNO\ :sub:`2`",
     "KNO3": "KNO\ :sub:`3`",
     "KH2PO4": "KH\ :sub:`2`\ PO\ :sub:`4`",
