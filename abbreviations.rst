@@ -15,26 +15,14 @@ Abbreviations
   APL
     Applied Physics Laboratory
 
-  ASC
-    Antarctic Support Contract
-
-  BAS
-    British Antartic Survey
-
   BGC
     Biogeochemical
-
-  Bigelow
-    Bigelow Laboratory for Ocean Sciences
 
   CDOM
     Chromophoric Dissolved Organic Matter
 
   CFCs
     Chlorofluorocarbons
-
-  CIMAS
-    Cooperative Institute of Marine and Atmospheric Science
 
   CTDO
     Conductivity Temperature Depth Oxygen
@@ -48,12 +36,6 @@ Abbreviations
   ECO
     Edison Chouest Offshore
 
-  ENSTA
-    ENSTA ParisTech
-
-  ETHZ
-    Eidgenössische Technische Hochschule Zürich
-
   FSU
     Florida State University
 
@@ -62,9 +44,6 @@ Abbreviations
 
   HPLC
     High-Performance Liquid Chromatography
-
-  HPU
-    Hawaii Pacific University
 
   LDEO
     Lamont-Doherty Earth Observatory - Columbia University
@@ -78,14 +57,11 @@ Abbreviations
   MIT
     Massachussetts Institute of Technology
 
-  N2O
+  N\ :sub:`2`\ O
     Nitrous oxide
 
   NOAA
     National Oceanographic Atmospheric Administration
-
-  NBP
-    RVIB Nathaniel B Palmer
 
   NSF
     National Science Foundation
@@ -102,11 +78,11 @@ Abbreviations
   POC
     Particulate Organic Carbon
 
+  PON
+    Particulate Organic Nitrogen
+
   POM
     Particulate Organic Matter
-
-  Princeton
-    Princeton University
 
   RSMAS
     Rosenstiel School of Marine and Atmospheric Science - :term:`U Miami`
@@ -123,9 +99,6 @@ Abbreviations
   SIO
     Scripps Institution of Oceanography
 
-  SOCCOM
-    The Southern Ocean Carbon and Climate Observations and Modeling project. http://soccom.princeton.edu/
-
   STS
     Shipboard Technical Support - :term:`SIO`
 
@@ -135,29 +108,11 @@ Abbreviations
   TDN
     Total Dissolved Nitrogen
 
-  UArizona
-    University of Arizona
-
   UAF
     University of Alaska Fairbanks
 
-  U ALASKA
-    University of Alaska
-
   UCI
     University of California Irvine
-
-  U Colorado
-    University of Colorado
-
-  UCLA
-    University of California Los Angeles
-
-  UCSB
-    University of California Santa Barbara
-
-  UCSC
-    University of California Santa Cruz
 
   UCSD
     University of California San Diego
@@ -170,12 +125,6 @@ Abbreviations
 
   UOG
     University of Guam
-
-  USAP
-    United States Antarctic Program
-
-  USCG
-    United States Coast Guard
 
   UT
     University of Texas

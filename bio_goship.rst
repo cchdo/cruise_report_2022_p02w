@@ -70,7 +70,7 @@ Sample bottles and funnels were rinsed with DI 3x after each sample period.
 HPLC Pigments
 ---------------------
 
-HPLC samples were collected approximately at 0600, 1200, and 2000 local time from the uncontaminated underway seawater system and pre-filtered (30 µm mesh) (83 stations).
+:term:`HPLC` samples were collected approximately at 0600, 1200, and 2000 local time from the uncontaminated underway seawater system and pre-filtered (30 µm mesh) (83 stations).
 Samples were also collected using the CTD ranging from 200m to 5m (42 stations).
 In total, 259 samples were collected (101 with the underway and 158 with the CTD).
 If the CTD collection coincided with one of the standard collection times, it would take that slot, otherwise the CTD cast would be a fourth collection period.

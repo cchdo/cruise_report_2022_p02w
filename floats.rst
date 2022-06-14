@@ -1,6 +1,6 @@
 Float Deployments
 =================
-A total of 10 GO-BGC Argo floats were deployed during the 2022 P02W research cruise
+A total of 10 :term:`GO-BGC` Argo floats were deployed during the 2022 P02W research cruise
 The GO-BGC floats measure temperature, salinity, pressure, |O2|, |NO3|, pH, and bio-optics.
 
 GO-BGC Argo Floats
@@ -41,7 +41,7 @@ All of the floats began reporting data immediately and the sensors are operating
 All data is publicly available via the GO-BGC data portals and the Argo GDAC. 
 
 All deployments occurred at “full” carbon stations so that all GO-SHIP carbon parameters were analyzed for each depth sampled (34 depths from surface to 10 m off bottom).
-Additionally, duplicate bottles were tripped at the surface (~5 m) and at the depth of the chlorophyll maximum to allow for the addition of POC and HPLC sampling at these stations.
+Additionally, duplicate bottles were tripped at the surface (~5 m) and at the depth of the chlorophyll maximum to allow for the addition of :term:`POC` and :term:`HPLC` sampling at these stations.
 POC and HPLC samples were collected and filtered by the Bio team (Star Dressler and Adam Fagan) and will be sent frozen for analysis at NASA for HPLC and SIO/UCSD for POC.
 
 All floats were adopted by different schools and organizations in the US as part of the Adopt-a-float program (https://www.go-bgc.org/outreach/adopt-a-float).
