@@ -45,7 +45,7 @@ Additionally, duplicate bottles were tripped at the surface (~5 m) and at the de
 POC and HPLC samples were collected and filtered by the Bio team (Star Dressler and Adam Fagan) and will be sent frozen for analysis at NASA for HPLC and SIO/UCSD for POC.
 
 All floats were adopted by different schools and organizations in the US as part of the Adopt-a-float program (https://www.go-bgc.org/outreach/adopt-a-float).
-Names and images provided by the adoptees were skillfully drawn onto the floats by P02 science and crew party members.
+Names and images provided by the adoptees were skillfully drawn onto the floats by P02W science and crew party members.
 Each class received the details their deployment via posts to the GO-BGC expeditions webpage by onshore personnel George Matsumoto (MBARI).
 Together with their teachers, the students will follow the float data, which can be easily downloaded and plotted from the website.
 

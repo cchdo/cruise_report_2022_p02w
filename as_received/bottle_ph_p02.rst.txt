@@ -81,14 +81,14 @@ two or three duplicates and one or two replicate measurements were performed on 
 If less than twenty-four Niskins were sampled, only one or two duplicates and one replicate measurement were performed.
 CRMs were measured at the beginning and ending of each day. 
 
-The precision statistics for P02 are:
+The precision statistics for P02W are:
 
 ========================== ========================
 Duplicate precision        ± 0.0008 (n= 258)
 B200                       7.7991 ± 0.0014 (n= 58)
 ========================== ========================
 
-3035 pH values were submitted for P02.
+3035 pH values were submitted for P02W.
 Additional corrections will need to be performed and these data should be considered preliminary until a more thorough analysis of the data can take place on shore.
 
 

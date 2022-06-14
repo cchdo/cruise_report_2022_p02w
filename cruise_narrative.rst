@@ -1,7 +1,7 @@
 Cruise Narrative
 ================
 
-The 2022 re-occupation of P02 along 30°N in the Pacific was defined by a week-long delay, a quick start, a well-defined crossing of the Kuroshio and then its large loop, deep western casts including the Izu-Ogasawara Trench, and except for one post-Kuroshio wire re-termination, supported by a nearly continuous spell of calm weather and seas, no interruption to routine deployments and recoveries.
+The 2022 re-occupation of P02W along 30°N in the Pacific was defined by a week-long delay, a quick start, a well-defined crossing of the Kuroshio and then its large loop, deep western casts including the Izu-Ogasawara Trench, and except for one post-Kuroshio wire re-termination, supported by a nearly continuous spell of calm weather and seas, no interruption to routine deployments and recoveries.
 Technical difficulties were generally minimal and short lived.
 
 Quarantine, Delay and Transit
@@ -28,7 +28,7 @@ Our student led GO-SHIP/GO-BGC blog (can be accessed through either https://usgo
 
 .. figure:: images/narrative/Fig_2_copernicus_SPD_p02_2022_trk_v8_stan2_2022-05-07.jpeg
 
-    The western end of the planned 2022 P02 track.
+    The western end of the planned 2022 P02W track.
     Symbols represent station locations: Full-depth casts (red circles), with Bio 1000 m casts (red crosses), with GO-BGC float deployments (red "x"s).
     The green star represents the location of Station 11.
     Arrows represent the estimate of surface velocity from the Copernicus physical model for 5/07/22 12:00 UTC, the color shading indicates the amplitude of the surface velocity.
@@ -105,7 +105,7 @@ The goal is to cover the water column, not measure a specific set of depths (:re
     The pink vertical line indicates the longitude of the eastern edge of the Japanese EEZ.
     From top to bottom panels represent depth ranges 0 to <150 m, 150 to < 600 m, 600 to < 1500 m, 1500 to 3000 m, and 3000 to 6000 m. (Image credit: Shuwen Tan).
 
-For every deployment and recovery an entry from made in the UNOLS E-logger (https://www.unols.org/sites/default/files/R2R_EventLogger.pdf) that included the transect (P02), the station # (SSS), the cast number (CC), the estimated depth from the Multibeam, the author id-name, and a possible comment.
+For every deployment and recovery an entry from made in the UNOLS E-logger (https://www.unols.org/sites/default/files/R2R_EventLogger.pdf) that included the transect (P02W), the station # (SSS), the cast number (CC), the estimated depth from the Multibeam, the author id-name, and a possible comment.
 The E-logger software provided the date/time & position stamps.
 The event number that is made up of the UTC date (YYYMMDD) and time (HHMM), and a 3-digit extension was assigned by the software.
 For example: 20220608.1120.001 was the recovery of the Sta 117 cast on June 8th at 11:20 UTC.
@@ -137,7 +137,7 @@ However, this change appears to have never been updated in the current NOAA and 
 The net result was that while we thought we had closest point of approach of 90 nm, we instead occupied 16 stations, took numerous underway samples and other measurements and deployed float WMO# 5906516 within its boundaries.
 We were contacted by U.S. Fish & Wildlife Service National Wildlife Refuge System Division of Refuge Law Enforcement and after multiple conversations between them, Captain Galiher and the acting UCSD Marine Superintendent Eric Buck, and contact with the UCSD Port Captain Wes Hill, it was left as an “educational opportunity”.
 The captain will follow-up to make sure that this change and any others are updated into the charts they use.
-The next occupation of P02 will have to acquire a permit for sampling in this region.
+The next occupation of P02W will have to acquire a permit for sampling in this region.
 Such a permit should be possible as scientific research is allowed, though whether there will be any restrictions we cannot tell at this juncture.
 
 The cruise ended in Honolulu, Hawaii on June 10th, 2011, where the small amount deMOB activity occurred.

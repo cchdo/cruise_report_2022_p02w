@@ -12,7 +12,7 @@ In all, 10 GO-BGC floats were deployed - all (except the underway Sta 2 float) w
 
 .. figure:: images/narrative/Fig_1_p02w_2022_track_compl_ports_map_09-Jun-2022.*
 
-	Black crosses - for P02 2022 station locations; green crosses - stations that included bio-only bottles and/or casts, cyan asterisks - GO-BGC float deployments; purple dots - departure (Guam, Navy Base) and arrival (University of Hawaii Pier, Honolulu) ports; and blue shading - 1 minute Smith and Sandwell bathymetry.
+	Black crosses - for P02W 2022 station locations; green crosses - stations that included bio-only bottles and/or casts, cyan asterisks - GO-BGC float deployments; purple dots - departure (Guam, Navy Base) and arrival (University of Hawaii Pier, Honolulu) ports; and blue shading - 1 minute Smith and Sandwell bathymetry.
 	
 The planned station spacing included very close spacing down the Japan coast and across the region of the Kuroshio its large loop and generally 30 nm spacing across the rest of the section.
 The delay at the start and a limited allowed time in the Japan EEZ led to a reduced number of stations in the west (9 vs. 15 coming south to 30°N, 23 vs. 33 in the Japan EEZ, and 46 vs. 59 west of 159°E where in 2022 30 nm spacing was resumed).

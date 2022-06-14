@@ -12,7 +12,7 @@ Support
 
 Project Goals
 -------------
-The goal of the DOM project is to evaluate dissolved organic carbon (DOC) and total dissolved nitrogen (TDN) concentrations along the P02 zonal transect.
+The goal of the DOM project is to evaluate dissolved organic carbon (DOC) and total dissolved nitrogen (TDN) concentrations along the P02W zonal transect.
 
 Sampling
 --------
@@ -106,9 +106,9 @@ PI
   * Roberta Hansman (WHOI)
   * Rolf Sonnerup (UW)
 Technician
-  * Abby Tinary (U Miami)
+  * Abby Tinari (U Miami)
 
-A total of 544 samples were collected from stations collected along the P02 transect.
+A total of 544 samples were collected from stations collected along the P02W transect.
 32 samples (full casts) were taken from 15 of the 117 stations, 24 samples (bio casts) were taken from a separate 2 of the 117 stations and 16 stations (partial casts) were taken from a separate 1 of the 117 stations.
 Station spacing was closer (every 3 stations) towards the beginning of the transect then spread out to every 8 stations in the middle of the transect.
 Station locations followed previous P02 occupations.

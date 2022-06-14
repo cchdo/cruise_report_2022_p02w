@@ -77,7 +77,7 @@ Winch and Deployment
 The CAST6 winch and deployment system was used for all stations.
 The rosette system was suspended from a UNOLS-standard three-conductor 0.322" electro-mechanical sea cable.
 The sea cable was terminated with an Evergrip (primary), Guy Grip (secondary), and set of Crosby Clips (tertiary).
-No electrical issues occurred on P02.
+No electrical issues occurred on P02W.
 There were continuous issues with wire twist and had to "move up" the termination 3 times during the cruise.
 
 The deck watch prepared the rosette 10-30 minutes prior to each cast.

@@ -54,7 +54,7 @@ The |pCO2| received water from a “T” before the sea-chest water was de-bubbl
 To facilitate data processing and future troubleshooting of the *Revelle* |pCO2| system, the column headings for data in the |pCO2| files sourced from the ship are identified in Table 2.
 Serial numbers and additional details for the instruments in table #2 are in a separate Excel file and will be reported as part of the metadata for |pCO2| data submitted for this cruise.
 
-.. csv-table:: Table 1: Standard gases for P02 2022 cruise UW |pCO2| system.
+.. csv-table:: Table 1: Standard gases for P02W 2022 cruise UW |pCO2| system.
    :header: Standard	,Concentration (ppm),Tank Serial Numbers
 
    1,0.0,Praxair 5.0 Ultra High Purity N2
@@ -63,7 +63,7 @@ Serial numbers and additional details for the instruments in table #2 are in a s
    4,539.97,LL127204
    5,911.41,LL127176
 
-.. csv-table:: Table 2: |pCO2| system ship supplied data column headers for P02 2022 cruise, Leg 1.  MWL = mean water level.
+.. csv-table:: Table 2: |pCO2| system ship supplied data column headers for P02W 2022 cruise, Leg 1.  MWL = mean water level.
    :header: Column Header, Instrument, System, Location
 
    TSGF1,SW flow meter,3,Bow

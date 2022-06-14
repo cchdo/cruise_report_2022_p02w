@@ -92,7 +92,7 @@ A CRM sample was analyzed at a minimum frequency of once per every 20 runs, but 
 Because total alkalinity is not affected by gas-exchange, brand new CRM bottles were reserved for pH and DIC analysis. 
 These pre-opened bottles were subsequently used for alkalinity analysis. 
 
-242 reference material samples were analyzed on P02. 
+242 reference material samples were analyzed on P02W.
 
 The average measured total alkalinity value for each batch is:
 
@@ -110,6 +110,6 @@ The absolute value of the mean offset between duplicate samples and the standard
 
 Mean duplicate sample offset: 0.96 ± 0.90 µmol kg-1 (n = 230)
 
-3036 total alkalinity values were submitted for P02. 
+3036 total alkalinity values were submitted for P02W. 
 
 Further dilution corrections need to be applied to this data back onshore, therefore, this data is to be considered preliminary.
