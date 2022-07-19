@@ -132,39 +132,39 @@ Fit coefficients are shown in the following tables.
 
 Corrected temperature differences are shown in the following figures.
 
-.. figure:: images/ctd_hydro_data_acq/reft-t1_vs_stn.pdf
+.. figure:: images/ctd_hydro_data_acq/reft-t1_vs_stn.*
 
   SBE35RT-T1 versus station.
 
-.. figure:: images/ctd_hydro_data_acq/reft-t1_vs_stn_deep.pdf
+.. figure:: images/ctd_hydro_data_acq/reft-t1_vs_stn_deep.*
 
   Deep SBE35RT-T1 by station (Pressure :math:`\geq` 2000dbar).
 
-.. figure:: images/ctd_hydro_data_acq/reft-t2_vs_stn.pdf
+.. figure:: images/ctd_hydro_data_acq/reft-t2_vs_stn.*
 
   SBE35RT-T2 versus station.
 
-.. figure:: images/ctd_hydro_data_acq/reft-t2_vs_stn_deep.pdf
+.. figure:: images/ctd_hydro_data_acq/reft-t2_vs_stn_deep.*
 
   Deep SBE35RT-T2 by station (Pressure :math:`\geq` 2000dbar).
 
-.. figure:: images/ctd_hydro_data_acq/t1-t2_vs_stn.pdf
+.. figure:: images/ctd_hydro_data_acq/t1-t2_vs_stn.*
 
   T1-T2 versus station.
 
-.. figure:: images/ctd_hydro_data_acq/t1-t2_vs_stn_deep.pdf
+.. figure:: images/ctd_hydro_data_acq/t1-t2_vs_stn_deep.*
 
   Deep T1-T2 versus station (Pressure :math:`\geq` 2000dbar).
 
-.. figure:: images/ctd_hydro_data_acq/reft-t1_vs_p.pdf
+.. figure:: images/ctd_hydro_data_acq/reft-t1_vs_p.*
 
   SBE35RT-T1 versus pressure.
 
-.. figure:: images/ctd_hydro_data_acq/reft-t2_vs_p.pdf
+.. figure:: images/ctd_hydro_data_acq/reft-t2_vs_p.*
 
   SBE35RT-T2 versus pressure.
 
-.. figure:: images/ctd_hydro_data_acq/t1-t2_vs_p.pdf
+.. figure:: images/ctd_hydro_data_acq/t1-t2_vs_p.*
 
   T1-T2 versus pressure.
 
@@ -197,43 +197,43 @@ Each sensor was also compared to conductivity calculated from check sample salin
 The differences between primary and secondary temperature sensors were used as filtering criteria to reduce the contamination of conductivity comparisons by package wake.
 The coherence of this relationship is shown in the following figures.
 
-.. figure:: images/ctd_hydro_data_acq/c_t_coherence.pdf
+.. figure:: images/ctd_hydro_data_acq/c_t_coherence.*
 
   Coherence of conductivity differences as a function of temperature differences.
 
-.. figure:: images/ctd_hydro_data_acq/refc-c1_vs_stn.pdf
+.. figure:: images/ctd_hydro_data_acq/refc-c1_vs_stn.*
 
   Corrected C\ :sub:`Bottle` - C1 versus station.
 
-.. figure:: images/ctd_hydro_data_acq/refc-c1_vs_stn_deep.pdf
+.. figure:: images/ctd_hydro_data_acq/refc-c1_vs_stn_deep.*
 
   Deep Corrected C\ :sub:`Bottle` - C1 versus station (Pressure >= 2000dbar).
 
-.. figure:: images/ctd_hydro_data_acq/refc-c2_vs_stn.pdf
+.. figure:: images/ctd_hydro_data_acq/refc-c2_vs_stn.*
 
   Corrected C\ :sub:`Bottle` - C2 versus station.
 
-.. figure:: images/ctd_hydro_data_acq/refc-c2_vs_stn_deep.pdf
+.. figure:: images/ctd_hydro_data_acq/refc-c2_vs_stn_deep.*
 
   Deep Corrected C\ :sub:`Bottle` - C2 versus station (Pressure >= 2000dbar).
 
-.. figure:: images/ctd_hydro_data_acq/c1-c2_vs_stn.pdf
+.. figure:: images/ctd_hydro_data_acq/c1-c2_vs_stn.*
 
   Corrected C1-C2 versus station.
 
-.. figure:: images/ctd_hydro_data_acq/c1-c2_vs_stn_deep.pdf
+.. figure:: images/ctd_hydro_data_acq/c1-c2_vs_stn_deep.*
 
   Deep Corrected C1-C2 versus station (Pressure >= 2000dbar).
 
-.. figure:: images/ctd_hydro_data_acq/refc-c1_vs_p.pdf
+.. figure:: images/ctd_hydro_data_acq/refc-c1_vs_p.*
 
   Corrected C\ :sub:`Bottle` - C1 versus pressure.
 
-.. figure:: images/ctd_hydro_data_acq/refc-c2_vs_p.pdf
+.. figure:: images/ctd_hydro_data_acq/refc-c2_vs_p.*
 
   Corrected C\ :sub:`Bottle` - C2 versus pressure.
 
-.. figure:: images/ctd_hydro_data_acq/c1-c2_vs_p.pdf
+.. figure:: images/ctd_hydro_data_acq/c1-c2_vs_p.*
 
   Corrected C1-C2 versus pressure.
 
@@ -262,15 +262,15 @@ Salinity residuals after applying shipboard P/T/C corrections are summarized in 
 Only CTD and bottle salinity data with "acceptable" quality codes are included in the differences.
 Quality codes and comments are published in the APPENDIX of this report.
 
-.. figure:: images/ctd_hydro_data_acq/btlsal-sal_vs_stn.pdf
+.. figure:: images/ctd_hydro_data_acq/btlsal-sal_vs_stn.*
 
   Salinity residuals versus station.
 
-.. figure:: images/ctd_hydro_data_acq/btlsal-sal_vs_stn_deep.pdf
+.. figure:: images/ctd_hydro_data_acq/btlsal-sal_vs_stn_deep.*
 
   Deep Salinity residuals versus station (Pressure >= 2000dbar).
 
-.. figure:: images/ctd_hydro_data_acq/btlsal-sal_vs_p.pdf
+.. figure:: images/ctd_hydro_data_acq/btlsal-sal_vs_p.*
 
   Salinity residuals versus pressure.
 
@@ -328,17 +328,17 @@ CTD dissolved |O2| residuals are shown in the following figures :ref:`Oxy-lograd
 
 .. _Oxy-lograd:
 
-.. figure:: images/ctd_hydro_data_acq/oxy-43_vs_stn.pdf
+.. figure:: images/ctd_hydro_data_acq/oxy-43_vs_stn.*
 
   |O2| residuals versus station.
 
 .. _Oxy-deep:
 
-.. figure:: images/ctd_hydro_data_acq/oxy-43_vs_stn_deep.pdf
+.. figure:: images/ctd_hydro_data_acq/oxy-43_vs_stn_deep.*
 
   Deep |O2| residuals versus station (Pressure >= 2000dbar).
 
-.. figure:: images/ctd_hydro_data_acq/oxy-43_vs_p.pdf
+.. figure:: images/ctd_hydro_data_acq/oxy-43_vs_p.*
 
   |O2| residuals versus pressure.
 
@@ -414,15 +414,15 @@ If the fit of the individual cast had worse resdiuals than the group, they were 
 
 CTD dissolved |O2| residuals are shown in the following figures.
 
-.. figure:: images/ctd_hydro_data_acq/oxy-rinko_vs_stn.pdf
+.. figure:: images/ctd_hydro_data_acq/oxy-rinko_vs_stn.*
 
   |O2| residuals versus station.
 
-.. figure:: images/ctd_hydro_data_acq/oxy-rinko_vs_stn_deep.pdf
+.. figure:: images/ctd_hydro_data_acq/oxy-rinko_vs_stn_deep.*
 
   Deep |O2| residuals versus station (Pressure >= 2000dbar).
 
-.. figure:: images/ctd_hydro_data_acq/oxy-rinko_vs_p.pdf
+.. figure:: images/ctd_hydro_data_acq/oxy-rinko_vs_p.*
 
   |O2| residuals versus pressure.
 
