@@ -132,19 +132,19 @@ Fit coefficients are shown in the following tables.
 
 Corrected temperature differences are shown in the following figures.
 
-.. figure:: images/ctd_hydro_data_acq/reft-t1_vs_stn.*
+.. figure:: images/ctd_hydro_data_acq/refT-t1_vs_stn.*
 
   SBE35RT-T1 versus station.
 
-.. figure:: images/ctd_hydro_data_acq/reft-t1_vs_stn_deep.*
+.. figure:: images/ctd_hydro_data_acq/refT-t1_vs_stn_deep.*
 
   Deep SBE35RT-T1 by station (Pressure :math:`\geq` 2000dbar).
 
-.. figure:: images/ctd_hydro_data_acq/reft-t2_vs_stn.*
+.. figure:: images/ctd_hydro_data_acq/refT-t2_vs_stn.*
 
   SBE35RT-T2 versus station.
 
-.. figure:: images/ctd_hydro_data_acq/reft-t2_vs_stn_deep.*
+.. figure:: images/ctd_hydro_data_acq/refT-t2_vs_stn_deep.*
 
   Deep SBE35RT-T2 by station (Pressure :math:`\geq` 2000dbar).
 
@@ -156,11 +156,11 @@ Corrected temperature differences are shown in the following figures.
 
   Deep T1-T2 versus station (Pressure :math:`\geq` 2000dbar).
 
-.. figure:: images/ctd_hydro_data_acq/reft-t1_vs_p.*
+.. figure:: images/ctd_hydro_data_acq/refT-t1_vs_p.*
 
   SBE35RT-T1 versus pressure.
 
-.. figure:: images/ctd_hydro_data_acq/reft-t2_vs_p.*
+.. figure:: images/ctd_hydro_data_acq/refT-t2_vs_p.*
 
   SBE35RT-T2 versus pressure.
 
@@ -201,19 +201,19 @@ The coherence of this relationship is shown in the following figures.
 
   Coherence of conductivity differences as a function of temperature differences.
 
-.. figure:: images/ctd_hydro_data_acq/refc-c1_vs_stn.*
+.. figure:: images/ctd_hydro_data_acq/refC-c1_vs_stn.*
 
   Corrected C\ :sub:`Bottle` - C1 versus station.
 
-.. figure:: images/ctd_hydro_data_acq/refc-c1_vs_stn_deep.*
+.. figure:: images/ctd_hydro_data_acq/refC-c1_vs_stn_deep.*
 
   Deep Corrected C\ :sub:`Bottle` - C1 versus station (Pressure >= 2000dbar).
 
-.. figure:: images/ctd_hydro_data_acq/refc-c2_vs_stn.*
+.. figure:: images/ctd_hydro_data_acq/refC-c2_vs_stn.*
 
   Corrected C\ :sub:`Bottle` - C2 versus station.
 
-.. figure:: images/ctd_hydro_data_acq/refc-c2_vs_stn_deep.*
+.. figure:: images/ctd_hydro_data_acq/refC-c2_vs_stn_deep.*
 
   Deep Corrected C\ :sub:`Bottle` - C2 versus station (Pressure >= 2000dbar).
 
@@ -225,11 +225,11 @@ The coherence of this relationship is shown in the following figures.
 
   Deep Corrected C1-C2 versus station (Pressure >= 2000dbar).
 
-.. figure:: images/ctd_hydro_data_acq/refc-c1_vs_p.*
+.. figure:: images/ctd_hydro_data_acq/refC-c1_vs_p.*
 
   Corrected C\ :sub:`Bottle` - C1 versus pressure.
 
-.. figure:: images/ctd_hydro_data_acq/refc-c2_vs_p.*
+.. figure:: images/ctd_hydro_data_acq/refC-c2_vs_p.*
 
   Corrected C\ :sub:`Bottle` - C2 versus pressure.
 
